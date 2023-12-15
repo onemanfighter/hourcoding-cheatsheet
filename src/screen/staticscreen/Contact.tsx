@@ -2,6 +2,6 @@ import * as React from "react";
 
 export interface IContactProps {}
 
-export default function Contact(props: IContactProps) {
-  return <div></div>;
+export default function ContactScreen(props: IContactProps) {
+  return <div>Contact screen</div>;
 }

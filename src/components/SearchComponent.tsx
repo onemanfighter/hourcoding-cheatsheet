@@ -1,12 +1,5 @@
-import {
-  Autocomplete,
-  Button,
-  ListItem,
-  Stack,
-  TextField,
-} from "@mui/material";
+import { Autocomplete, ListItem, Stack, TextField } from "@mui/material";
 import { useState } from "react";
-import { NavLink } from "react-router-dom";
 import NavLinkComponent from "./NavLinkComponent";
 export interface ISearchComponentProps {}
 
@@ -17,6 +10,7 @@ export default function SearchComponent(props: ISearchComponentProps) {
     <Stack direction="row" spacing={2}>
       <ListItem>
         <Autocomplete
+          sx={{ minWidth: 400, minHeight: 20 }}
           id="free-solo-demo"
           freeSolo
           options={["Amit"]}
@@ -30,7 +24,7 @@ export default function SearchComponent(props: ISearchComponentProps) {
           )}
         />
       </ListItem>
-      <ListItem>
+      <ListItem sx={{ minWidth: 400 }}>
         <NavLinkComponent to={search} text="Click to search" />
       </ListItem>
     </Stack>

@@ -1,8 +1,7 @@
-import React from "react";
-import logo from "./logo.svg";
 import "./App.css";
 import { Outlet } from "react-router-dom";
 import NavComponent from "./components/NavComponent";
+import FooterComponent from "./components/FooterComponent";
 
 function App() {
   return (
@@ -12,6 +11,9 @@ function App() {
       </div>
       <div>
         <Outlet />
+      </div>
+      <div>
+        <FooterComponent />
       </div>
     </div>
   );

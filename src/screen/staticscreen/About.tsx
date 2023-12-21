@@ -1,7 +1,11 @@
-import * as React from "react";
+import DetailsScreen from "../detailscreen/DetailsScreen";
 
 export interface IAboutScreenProps {}
 
 export default function AboutScreen(props: IAboutScreenProps) {
-  return <div>About Screen</div>;
+  return (
+    <div>
+      <DetailsScreen path={`../../data/md/analytics/analytics.js.md`} />
+    </div>
+  );
 }

@@ -11,10 +11,10 @@ export default function NavComponent(props: INavComponentProps) {
           to="/"
           className="text-lg font-sans font-bold bg-gradient-to-r from-amber-400 to-amber-600 hover:bg-gradient-to-l text-transparent bg-clip-text"
         >
-          Hourcoding.com
+          Hourcoding.com | Cheatsheets
         </NavLink>
       </div>
-      <div className="flex-col items-end justify-center ">
+      <div className="flex-col items-end justify-center">
         <NavLinkComponent to="/categories" text="Categories" />
         <NavLinkComponent to="/about" text="About" />
         <NavLinkComponent to="/contact" text="Contact" />

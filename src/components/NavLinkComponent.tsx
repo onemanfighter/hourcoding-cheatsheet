@@ -1,9 +1,13 @@
+import { Tooltip } from "@mui/material";
 import { NavLink } from "react-router-dom";
 
 /**
  * Proptypes for NavLinkComponent.
  */
-export interface INavLinkComponentProps {}
+export interface INavLinkComponentProps {
+  to: string;
+  text: string;
+}
 
 /**
  * Functional component for the navigation bar.
@@ -11,7 +15,7 @@ export interface INavLinkComponentProps {}
  * @param props Props for the navigation bar.
  * @returns Navigation bar.
  */
-export default function NavLinkComponent(props: { to: string; text: string }) {
+export default function NavLinkComponent(props: INavLinkComponentProps) {
   return (
     <NavLink
       to={props.to}

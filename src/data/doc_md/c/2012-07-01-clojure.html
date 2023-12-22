@@ -1,0 +1,31 @@
+---
+layout:    more
+title:     Clojure Cheat Sheet
+---
+<div class="content content-400">
+    <div class="board board-326">
+        <h2 class="board-title">Resource</h2>
+        <div class="board-card">
+            <h3 class="board-card-title">Online</h3>
+            <ul>
+                <li><a href="http://clojure.org/cheatsheet">Official website's cheat sheet</a></li>
+                <li><a href="http://clojure.org/">Official website</a></li>
+                <li><a href="http://ru.wikipedia.org/wiki/Clojure">Wikipedia: Clojure</a></li>
+            </ul>
+        </div>
+        <div class="board-card">
+            <h3 class="board-card-title">Download</h3>
+            <ul>
+                <li><a href="http://refcardz.dzone.com/refcardz/functional-programming-clojure">Functional Programming with Clojure Simple Concurrency on the JVM [.pdf]</a></li>
+            </ul>
+        </div>
+        <div class="board-card">
+            <h3 class="board-card-title">Related</h3>
+            <ul>
+                <li><a href="/erlang" title="Erlang Cheat Sheet">Erlang</a></li>
+                <li><a href="/haskell" title="Haskell Cheat Sheet">Haskell</a></li>
+                <li><a href="/ocaml" title="OCaml Cheat Sheet">OCaml</a></li>
+            </ul>
+        </div>
+    </div>
+</div>

@@ -1,6 +1,7 @@
 import { NavLink } from "react-router-dom";
 import NavLinkComponent from "./NavLinkComponent";
 import { NavTitle } from "./string/ComponentStrings";
+import { Badge } from "@mui/material";
 
 /**
  * Proptypes for NavComponent.
@@ -25,6 +26,17 @@ export default function NavComponent(props: INavComponentProps) {
         </NavLink>
       </div>
       <div className="flex-col items-end justify-center">
+        <Badge
+          badgeContent={"New"}
+          color="secondary"
+          anchorOrigin={{
+            vertical: "bottom",
+            horizontal: "left",
+          }}
+          overlap="circular"
+        >
+          <NavLinkComponent to="/csofficialdoc" text="Cheatsheets" />
+        </Badge>
         <NavLinkComponent to="/categories" text="Categories" />
         <NavLinkComponent to="/about" text="About" />
         <NavLinkComponent to="/contact" text="Contact" />

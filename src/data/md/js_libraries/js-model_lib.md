@@ -1,5 +1,5 @@
 ---
-title: js-model
+title: js-model library
 category: JavaScript libraries
 layout: 2017/sheet
 ---
@@ -81,6 +81,7 @@ project.trigger "turn_blue"
 ```
 
 ## References
+
 {: .-one-column}
 
 - <http://benpickles.github.io/js-model/>

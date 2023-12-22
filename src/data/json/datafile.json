@@ -1,0 +1,4384 @@
+[
+    {
+        "name": "projectionist.md",
+        "path": "data/md/vim/projectionist.md",
+        "metadata": {
+            "title": "Projectionist",
+            "category": "Vim",
+            "layout": "2017/sheet"
+        }
+    },
+    {
+        "name": "vimscript-functions.md",
+        "path": "data/md/vim/vimscript-functions.md",
+        "metadata": {
+            "title": "Vimscript functions",
+            "category": "Vim",
+            "layout": "2017/sheet"
+        }
+    },
+    {
+        "name": "vim.md",
+        "path": "data/md/vim/vim.md",
+        "metadata": {
+            "title": "Vim",
+            "category": "Vim",
+            "layout": "2017/sheet",
+            "tags": "[Featured]",
+            "updated": "2020-07-05",
+            "weight": "-10",
+            "intro": "|",
+            "See": "`:help motion.txt`"
+        }
+    },
+    {
+        "name": "vim-unite.md",
+        "path": "data/md/vim/vim-unite.md",
+        "metadata": {
+            "title": "Vim-Unite",
+            "category": "Vim",
+            "layout": "2017/sheet"
+        }
+    },
+    {
+        "name": "vim-digraphs.md",
+        "path": "data/md/vim/vim-digraphs.md",
+        "metadata": {
+            "title": "Vim digraphs",
+            "category": "Vim",
+            "layout": "2017/sheet"
+        }
+    },
+    {
+        "name": "vim-easyalign.md",
+        "path": "data/md/vim/vim-easyalign.md",
+        "metadata": {
+            "title": "Vim Easyalign",
+            "html_class": "key-codes",
+            "hljs_languages": "[vim]",
+            "category": "Vim",
+            "layout": "2017/sheet",
+            "url": "jdbc:mysql://localhost/test",
+            "database": "test"
+        }
+    },
+    {
+        "name": "vimscript.md",
+        "path": "data/md/vim/vimscript.md",
+        "metadata": {
+            "title": "Vim scripting",
+            "category": "Vim",
+            "prism_languages": "[vim]",
+            "layout": "2017/sheet",
+            "updated": "2020-07-05",
+            "weight": "-10",
+            "tags": "[Featurable]",
+            "See": "[Running keystrokes](http://learnvimscriptthehardway.stevelosh.com/chapters/29.html)",
+            "flags": ""
+        }
+    },
+    {
+        "name": "vim-help.md",
+        "path": "data/md/vim/vim-help.md",
+        "metadata": {
+            "title": "Vim helpfiles",
+            "category": "Vim",
+            "layout": "2017/sheet",
+            "updated": "2017-09-09",
+            "vim": "tw=78:ts=8:ft=help:norl:",
+            "Example": ">",
+            "Author": "Jack Hackness <captain@time.com>         *xyz-author*",
+            "License": "Same terms as Vim itself (see |license|)"
+        }
+    },
+    {
+        "name": "vim-diff.md",
+        "path": "data/md/vim/vim-diff.md",
+        "metadata": {
+            "title": "Vimdiff",
+            "category": "Vim",
+            "layout": "2017/sheet",
+            "updated": "2018-12-06",
+            "weight": "-10",
+            "intro": "|"
+        }
+    },
+    {
+        "name": "vimscript-snippets.md",
+        "path": "data/md/vim/vimscript-snippets.md",
+        "metadata": {
+            "title": "Vimscript snippets",
+            "category": "Vim",
+            "layout": "2017/sheet"
+        }
+    },
+    {
+        "name": "tabular.md",
+        "path": "data/md/vim/tabular.md",
+        "metadata": {
+            "title": "My picture",
+            "category": "Vim",
+            "layout": "2017/sheet",
+            "updated": "2017-10-11",
+            "weight": "-1",
+            "intro": "|",
+            "description": "\"This is a description\"",
+            "src": "img.jpg",
+            "height": "320",
+            "width": "640"
+        }
+    },
+    {
+        "name": "vim-rails.md",
+        "path": "data/md/vim/vim-rails.md",
+        "metadata": {
+            "title": "Vim-rails",
+            "category": "Vim",
+            "html_class": "key-codes",
+            "layout": "2017/sheet"
+        }
+    },
+    {
+        "name": "nodejs-fs.md",
+        "path": "data/md/nodejs/nodejs-fs.md",
+        "metadata": {
+            "title": "fs",
+            "category": "Node.js",
+            "layout": "2017/sheet"
+        }
+    },
+    {
+        "name": "nodejs-assert.md",
+        "path": "data/md/nodejs/nodejs-assert.md",
+        "metadata": {
+            "title": "assert",
+            "category": "Node.js",
+            "layout": "2017/sheet"
+        }
+    },
+    {
+        "name": "nodejs-stream.md",
+        "path": "data/md/nodejs/nodejs-stream.md",
+        "metadata": {
+            "title": "Node.js streams",
+            "category": "Node.js",
+            "layout": "2017/sheet",
+            "weight": "-1",
+            "updated": "2017-08-30",
+            "See": "[Stream](https://nodejs.org/api/stream.html#stream_stream) _(nodejs.org)_",
+            "objectMode": "true,",
+            "transform": "(data, _, done) => {",
+            "write": "(data, _, done) => {"
+        }
+    },
+    {
+        "name": "nodejs-process.md",
+        "path": "data/md/nodejs/nodejs-process.md",
+        "metadata": {
+            "title": "process",
+            "category": "Node.js",
+            "layout": "2017/sheet"
+        }
+    },
+    {
+        "name": "nodejs.md",
+        "path": "data/md/nodejs/nodejs.md",
+        "metadata": {
+            "title": "Node.js API",
+            "category": "Node.js",
+            "layout": "2017/sheet"
+        }
+    },
+    {
+        "name": "nodejs-path.md",
+        "path": "data/md/nodejs/nodejs-path.md",
+        "metadata": {
+            "title": "Node.js path API",
+            "category": "Node.js",
+            "layout": "2017/sheet",
+            "intro": "|"
+        }
+    },
+    {
+        "name": "package-json.md",
+        "path": "data/md/nodejs/package-json.md",
+        "metadata": {
+            "title": "package.json",
+            "category": "Node.js",
+            "layout": "2017/sheet",
+            "prism_languages": "[json]",
+            "updated": "2020-06-23",
+            "weight": "-3"
+        }
+    },
+    {
+        "name": "knex.md",
+        "path": "data/md/databases/knex.md",
+        "metadata": {
+            "title": "Knex",
+            "layout": "2017/sheet",
+            "updated": "2020-06-03",
+            "category": "Databases",
+            "intro": "|",
+            "client": "'sqlite3',",
+            "connection": "{ filename: './mydb.sqlite' }",
+            "See": "[Migrations](http://knexjs.org/#Migrations)",
+            "host": "'127.0.0.1',",
+            "user": "'your_database_user',",
+            "password": "'your_database_password',",
+            "database": "'myapp_test'",
+            "pool": "{ min: 0, max: 7 }",
+            "searchPath": "'knex,public',"
+        }
+    },
+    {
+        "name": "postgresql-json.md",
+        "path": "data/md/databases/postgresql-json.md",
+        "metadata": {
+            "title": "PostgreSQL JSON",
+            "layout": "2017/sheet",
+            "prism_languages": "[sql]",
+            "updated": "2018-12-06",
+            "category": "Databases",
+            "See": "[JSON functions](https://www.postgresql.org/docs/9.5/static/functions-json.html)"
+        }
+    },
+    {
+        "name": "mysql.md",
+        "path": "data/md/databases/mysql.md",
+        "metadata": {
+            "title": "MySQL",
+            "updated": "2020-07-05",
+            "layout": "2017/sheet",
+            "category": "Databases"
+        }
+    },
+    {
+        "name": "sql-join.md",
+        "path": "data/md/databases/sql-join.md",
+        "metadata": {
+            "title": "SQL joins",
+            "layout": "2017/sheet",
+            "category": "Databases",
+            "updated": "2018-12-06",
+            "weight": "-1"
+        }
+    },
+    {
+        "name": "postgresql.md",
+        "path": "data/md/databases/postgresql.md",
+        "metadata": {
+            "title": "PostgreSQL",
+            "category": "Databases",
+            "layout": "2017/sheet"
+        }
+    },
+    {
+        "name": "ledger-periods.md",
+        "path": "data/md/ledger/ledger-periods.md",
+        "metadata": {
+            "title": "Ledger periods",
+            "category": "Ledger",
+            "layout": "2017/sheet"
+        }
+    },
+    {
+        "name": "ledger-query.md",
+        "path": "data/md/ledger/ledger-query.md",
+        "metadata": {
+            "title": "Ledger queries",
+            "category": "Ledger",
+            "layout": "2017/sheet"
+        }
+    },
+    {
+        "name": "ledger-format.md",
+        "path": "data/md/ledger/ledger-format.md",
+        "metadata": {
+            "title": "Ledger format",
+            "category": "Ledger",
+            "layout": "2017/sheet",
+            "Assets": "Savings     -$300 = $1200  ; assert there's $1200 left after",
+            "Expenses": "Rent",
+            "Flags": ""
+        }
+    },
+    {
+        "name": "ledger-csv.md",
+        "path": "data/md/ledger/ledger-csv.md",
+        "metadata": {
+            "title": "Ledger CSV format",
+            "category": "Ledger",
+            "layout": "2017/sheet"
+        }
+    },
+    {
+        "name": "ledger-examples.md",
+        "path": "data/md/ledger/ledger-examples.md",
+        "metadata": {
+            "title": "Ledger examples",
+            "category": "Ledger",
+            "layout": "2017/sheet"
+        }
+    },
+    {
+        "name": "ledger.md",
+        "path": "data/md/ledger/ledger.md",
+        "metadata": {
+            "title": "Ledger CLI",
+            "category": "Ledger",
+            "layout": "2017/sheet",
+            "updated": "2020-05-23",
+            "weight": "-5",
+            "Expenses": "Food  $100",
+            "Assets": "Accounts Receivable            $100.00",
+            "Equity": "Adjustments",
+            "interval": "",
+            "begin": "",
+            "end": "",
+            "spec": "",
+            "Example": "",
+            "Income": "Client name"
+        }
+    },
+    {
+        "name": "hledger.md",
+        "path": "data/md/ledger/hledger.md",
+        "metadata": {
+            "title": "Hledger",
+            "category": "Ledger",
+            "layout": "2017/sheet",
+            "acct": "Assets      # same",
+            "acctonly": "A       # no subaccounts",
+            "amt": "<+200        # amount comparison",
+            "desc": "REGEX      # description",
+            "code": "REGEX      # transaction code (check number?)",
+            "tag": "REGEX",
+            "cur": "'\\$'",
+            "real": "1           # -R, --real, no virtuals",
+            "depth": "N          # --depth 2",
+            "not": "...          # eg, not:status:!",
+            "status": "#     --uncleared",
+            "date": "-2015/01/01    # -e, --end",
+            "date2": "PERIODEXPR",
+            "Also": "(only in `bal`)"
+        }
+    },
+    {
+        "name": "awscli.md",
+        "path": "data/md/devops/awscli.md",
+        "metadata": {
+            "title": "AWS CLI",
+            "category": "Devops",
+            "layout": "2017/sheet",
+            "See": "<https://docs.aws.amazon.com/elasticbeanstalk/latest/dg/command-options.html>"
+        }
+    },
+    {
+        "name": "dockerfile.md",
+        "path": "data/md/devops/dockerfile.md",
+        "metadata": {
+            "title": "Dockerfile",
+            "category": "Devops",
+            "layout": "2017/sheet",
+            "prism_languages": "[docker]",
+            "updated": "2019-10-20"
+        }
+    },
+    {
+        "name": "flynn.md",
+        "path": "data/md/devops/flynn.md",
+        "metadata": {
+            "title": "Flynn",
+            "category": "Devops",
+            "layout": "2017/sheet"
+        }
+    },
+    {
+        "name": "heroku.md",
+        "path": "data/md/devops/heroku.md",
+        "metadata": {
+            "title": "Heroku",
+            "category": "Devops",
+            "layout": "2017/sheet",
+            "updated": "2017-10-11",
+            "description": "|",
+            "intro": "|",
+            "See": "[gist.github.com](https://gist.github.com/3316425)"
+        }
+    },
+    {
+        "name": "chef.md",
+        "path": "data/md/devops/chef.md",
+        "metadata": {
+            "title": "Chef",
+            "category": "Devops",
+            "layout": "2017/sheet",
+            "Chef": "14.5.33"
+        }
+    },
+    {
+        "name": "deis.md",
+        "path": "data/md/devops/deis.md",
+        "metadata": {
+            "title": "Deis",
+            "category": "Devops",
+            "layout": "2017/sheet",
+            "See": "[SSL](http://docs.deis.io/en/latest/using_deis/app-ssl/)"
+        }
+    },
+    {
+        "name": "travis.md",
+        "path": "data/md/devops/travis.md",
+        "metadata": {
+            "title": "Travis.yml",
+            "category": "Devops",
+            "layout": "2017/sheet",
+            "prism_languages": "[yaml]",
+            "intro": "|",
+            "language": "ruby",
+            "node_js": "",
+            "rvm": "",
+            "branches": "",
+            "except": "",
+            "only": "",
+            "env": "",
+            "script": "make test",
+            "before_script": "",
+            "after_script": "make clean",
+            "before_install": "",
+            "gemfile": ""
+        }
+    },
+    {
+        "name": "docker-compose.md",
+        "path": "data/md/devops/docker-compose.md",
+        "metadata": {
+            "title": "docker-compose",
+            "category": "Devops",
+            "layout": "2017/sheet",
+            "prism_languages": "[yaml]",
+            "weight": "-1",
+            "updated": "2020-01-01",
+            "version": "'2'",
+            "services": "",
+            "web": "",
+            "build": "",
+            "context": "./dir",
+            "dockerfile": "Dockerfile.dev",
+            "ports": "",
+            "volumes": "",
+            "redis": "",
+            "image": "postgres:latest",
+            "args": "# Add build arguments",
+            "APP_HOME": "app",
+            "expose": "[\"3000\"]",
+            "command": "[bundle, exec, thin, -p, 3000]",
+            "entrypoint": "[php, -d, vendor/bin/phpunit]",
+            "environment": "",
+            "RACK_ENV": "development",
+            "env_file": "[.env, .development.env]",
+            "links": "",
+            "depends_on": "",
+            "db": "",
+            "condition": "service_completed_successfully",
+            "extends": "",
+            "file": "common.yml  # optional",
+            "service": "webapp",
+            "restart": "unless-stopped",
+            "labels": "",
+            "dns": "",
+            "devices": "",
+            "external_links": "",
+            "healthcheck": "",
+            "test": "[\"CMD\", \"curl\", \"-f\", \"http://localhost\"]",
+            "interval": "1m30s",
+            "timeout": "10s",
+            "retries": "3",
+            "start_period": "40s",
+            "extra_hosts": "",
+            "networks": "",
+            "frontend": "",
+            "default": "",
+            "external": "",
+            "name": "frontend",
+            "dbdata": "",
+            "user": "0:0"
+        }
+    },
+    {
+        "name": "docker.md",
+        "path": "data/md/devops/docker.md",
+        "metadata": {
+            "title": "Docker CLI",
+            "category": "Devops",
+            "layout": "2017/sheet",
+            "redis": "3.0.2"
+        }
+    },
+    {
+        "name": "vagrant.md",
+        "path": "data/md/devops/vagrant.md",
+        "metadata": {
+            "title": "Vagrant",
+            "category": "Devops",
+            "layout": "2017/sheet",
+            "intro": "|"
+        }
+    },
+    {
+        "name": "vagrantfile.md",
+        "path": "data/md/devops/vagrantfile.md",
+        "metadata": {
+            "title": "Vagrantfile",
+            "category": "Devops",
+            "layout": "2017/sheet"
+        }
+    },
+    {
+        "name": "circle.md",
+        "path": "data/md/devops/circle.md",
+        "metadata": {
+            "title": "CircleCI",
+            "category": "Devops",
+            "layout": "2017/sheet",
+            "See": "<https://circleci.com/docs/configuration>",
+            "machine": "",
+            "timezone": "",
+            "ruby": "",
+            "version": "",
+            "hosts": "",
+            "circlehost": "127.0.0.1",
+            "environment": "",
+            "CIRCLE_ENV": "test",
+            "DATABASE_URL": "postgres://ubuntu:@127.0.0.1:5432/circle_test",
+            "checkout": "",
+            "post": "",
+            "dependencies": "",
+            "pre": "",
+            "override": "",
+            "timeout": "180 # fail if command has no output for 3 minutes",
+            "cache_directories": "",
+            "database": "",
+            "test": "",
+            "RAILS_ENV": "test",
+            "RACK_ENV": "test",
+            "deployment": "",
+            "staging": "",
+            "branch": "master",
+            "heroku": "",
+            "appname": "foo-bar-123",
+            "notify": "",
+            "webhooks": ""
+        }
+    },
+    {
+        "name": "osx.md",
+        "path": "data/md/macos/osx.md",
+        "metadata": {
+            "title": "OS X",
+            "layout": "2017/sheet",
+            "category": "macOS",
+            "__INFO": "`brew` ([link](https://brew.sh)) is highly recommended utility__"
+        }
+    },
+    {
+        "name": "macos-mouse-acceleration.md",
+        "path": "data/md/macos/macos-mouse-acceleration.md",
+        "metadata": {
+            "title": "Mouse Acceleration",
+            "layout": "2017/sheet",
+            "category": "macOS",
+            "updated": "2018-03-20",
+            "weight": "-1",
+            "keywords": "",
+            "intro": "|",
+            "Note": "Log out to take effect. If you change *Tracking Speed* under System Preferences, it will undo this fix. Only affects the mouse, not the trackpad."
+        }
+    },
+    {
+        "name": "applescript.md",
+        "path": "data/md/macos/applescript.md",
+        "metadata": {
+            "title": "AppleScript",
+            "updated": "2018-12-06",
+            "layout": "2017/sheet",
+            "category": "macOS",
+            "prism_languages": "[applescript]"
+        }
+    },
+    {
+        "name": "gh-pages.md",
+        "path": "data/md/jekkyll/gh-pages.md",
+        "metadata": {
+            "title": "GitHub pages",
+            "category": "Jekyll",
+            "layout": "2017/sheet",
+            "See": "[Setting up a custom domain](https://help.github.com/articles/quick-start-setting-up-a-custom-domain/) _(github.com)_"
+        }
+    },
+    {
+        "name": "jekyll-github.md",
+        "path": "data/md/jekkyll/jekyll-github.md",
+        "metadata": {
+            "title": "Jekyll for GitHub pages",
+            "layout": "2017/sheet",
+            "category": "Jekyll",
+            "tags": "[WIP]",
+            "updated": "2017-11-17",
+            "plugins": "",
+            "repository": "username/project",
+            "See": "[redirect to](https://github.com/jekyll/jekyll-redirect-from#redirect-to)",
+            "redirect_from": "",
+            "redirect_to": ""
+        }
+    },
+    {
+        "name": "jekyll.md",
+        "path": "data/md/jekkyll/jekyll.md",
+        "metadata": {
+            "title": "My blog post",
+            "jekyll_escape": "true",
+            "layout": "post",
+            "prism_languages": "[bash, yaml, ruby]",
+            "category": "apple",
+            "updated": "2018-08-25",
+            "See": "[Collections](https://jekyllrb.com/docs/collections/)",
+            "permalink": "\"/:title\"",
+            "published": "false",
+            "categories": "['html', 'css']",
+            "tags": "['html', 'css']",
+            "source": ".",
+            "destination": "_site",
+            "exclude": "",
+            "include": "['.htaccess']",
+            "paginate": "5",
+            "paginate_path": "\"blog/:num\"",
+            "excerpt": "This post is about cats",
+            "excerpt_separator": "<!--more-->",
+            "collections": "",
+            "name": "A. N. Roquelaire",
+            "real_name": "Anne Rice"
+        }
+    },
+    {
+        "name": "org-mode.md",
+        "path": "data/md/app/org-mode.md",
+        "metadata": {
+            "title": "Org Mode",
+            "layout": "2017/sheet",
+            "tags": "[WIP]",
+            "category": "Apps",
+            "updated": "2018-02-19",
+            "intro": "|"
+        }
+    },
+    {
+        "name": "atom.md",
+        "path": "data/md/app/atom.md",
+        "metadata": {
+            "title": "Atom",
+            "category": "Apps",
+            "layout": "2017/sheet",
+            "updated": "2021-09-10",
+            "See": "[Symbols view](https://atom.io/packages/symbols-view)"
+        }
+    },
+    {
+        "name": "sketch.md",
+        "path": "data/md/app/sketch.md",
+        "metadata": {
+            "title": "Sketch",
+            "category": "Apps",
+            "layout": "2017/sheet",
+            "updated": "2017-08-30"
+        }
+    },
+    {
+        "name": "editorconfig.md",
+        "path": "data/md/app/editorconfig.md",
+        "metadata": {
+            "title": "editorconfig",
+            "layout": "2017/sheet",
+            "prism_languages": "[ini]",
+            "weight": "-1",
+            "updated": "2019-09-25",
+            "category": "Apps"
+        }
+    },
+    {
+        "name": "inkscape.md",
+        "path": "data/md/app/inkscape.md",
+        "metadata": {
+            "title": "Inkscape",
+            "category": "Apps",
+            "layout": "2017/sheet",
+            "tags": "[WIP]"
+        }
+    },
+    {
+        "name": "flashlight.md",
+        "path": "data/md/app/flashlight.md",
+        "metadata": {
+            "title": "Flashlight",
+            "category": "Apps",
+            "layout": "2017/sheet"
+        }
+    },
+    {
+        "name": "weechat.md",
+        "path": "data/md/app/weechat.md",
+        "metadata": {
+            "title": "Weechat",
+            "category": "Apps",
+            "layout": "2017/sheet"
+        }
+    },
+    {
+        "name": "spacemacs.md",
+        "path": "data/md/app/spacemacs.md",
+        "metadata": {
+            "title": "Spacemacs",
+            "layout": "2017/sheet",
+            "category": "Apps",
+            "updated": "2020-05-22",
+            "tags": "[WIP]",
+            "intro": "|"
+        }
+    },
+    {
+        "name": "vscode.md",
+        "path": "data/md/app/vscode.md",
+        "metadata": {
+            "title": "Visual Studio Code",
+            "category": "Apps",
+            "layout": "2017/sheet",
+            "updated": "2018-02-01",
+            "weight": "-5",
+            "keywords": "",
+            "intro": "|"
+        }
+    },
+    {
+        "name": "sublime-text.md",
+        "path": "data/md/app/sublime-text.md",
+        "metadata": {
+            "title": "Sublime Text",
+            "category": "Apps",
+            "layout": "2017/sheet"
+        }
+    },
+    {
+        "name": "python.md",
+        "path": "data/md/python/python.md",
+        "metadata": {
+            "title": "Python",
+            "category": "Python",
+            "layout": "2017/sheet"
+        }
+    },
+    {
+        "name": "mako.md",
+        "path": "data/md/python/mako.md",
+        "metadata": {
+            "title": "Mako",
+            "category": "Python",
+            "layout": "2017/sheet",
+            "Expression": "${x + 1}",
+            "else": ""
+        }
+    },
+    {
+        "name": "jinja.md",
+        "path": "data/md/python/jinja.md",
+        "metadata": {
+            "title": "Jinja",
+            "category": "Python",
+            "layout": "2017/sheet"
+        }
+    },
+    {
+        "name": "bulma.md",
+        "path": "data/md/css/bulma.md",
+        "metadata": {
+            "title": "Bulma",
+            "category": "CSS",
+            "layout": "2017/sheet",
+            "prism_languages": "[css, html]",
+            "weight": "-1",
+            "updated": "2018-11-19",
+            "authors": "",
+            "description": "|"
+        }
+    },
+    {
+        "name": "css.md",
+        "path": "data/md/css/css.md",
+        "metadata": {
+            "title": "CSS",
+            "category": "CSS",
+            "layout": "2017/sheet",
+            "weight": "-1",
+            "keywords": "",
+            "color": "#aa3322;",
+            "background": "linear-gradient(to bottom, rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)),",
+            "animation": "bounce 300ms linear 2s infinite alternate-reverse forwards normal;"
+        }
+    },
+    {
+        "name": "stylus.md",
+        "path": "data/md/css/stylus.md",
+        "metadata": {
+            "title": "Stylus",
+            "category": "CSS",
+            "layout": "2017/sheet",
+            "prism_languages": "[stylus]",
+            "weight": "-3",
+            "updated": "2017-10-30",
+            "tags": "[Featurable]",
+            "color": "blue",
+            "See": "[embedurl](http://stylus-lang.com/docs/bifs.html#embedurlpath-encoding)",
+            "border": "solid 2px red",
+            "width": "$width",
+            "shadow": "1px 2px 5px #eee",
+            "padding": "add(10px, 5)",
+            "height": "image-size('tux.png')[1]",
+            "foo": "(n * 5)%",
+            "display": "none",
+            "Aliases": "",
+            "background": "embedurl('logo.png')"
+        }
+    },
+    {
+        "name": "css-tricks.md",
+        "path": "data/md/css/css-tricks.md",
+        "metadata": {
+            "title": "CSS tricks",
+            "category": "CSS",
+            "layout": "2017/sheet",
+            "background": "-webkit-gradient(linear, left top, left bottom, from(#eee), to(#333));",
+            "See": "<http://www.yuiblog.com/blog/2010/10/01/quick-tip-customizing-the-mobile-safari-tap-highlight-color/>",
+            "overflow": "auto;",
+            "position": "absolute;",
+            "top": "0;",
+            "left": "0;",
+            "right": "0;",
+            "bottom": "0;",
+            "a": "focus {",
+            "outline": "0; // Firefox (remove border on link click)"
+        }
+    },
+    {
+        "name": "css-flexbox.md",
+        "path": "data/md/css/css-flexbox.md",
+        "metadata": {
+            "title": "CSS flexbox",
+            "category": "CSS",
+            "layout": "2017/sheet",
+            "updated": "2020-06-13",
+            "prism_languages": "[css]",
+            "weight": "-3",
+            "display": "flex;",
+            "flex": "1 0 auto;",
+            "order": "2;",
+            "width": "100px;",
+            "height": "100px;",
+            "margin": "auto;"
+        }
+    },
+    {
+        "name": "css-system-font-stack.md",
+        "path": "data/md/css/css-system-font-stack.md",
+        "metadata": {
+            "title": "\"CSS system fonts\"",
+            "category": "CSS",
+            "layout": "2017/sheet",
+            "weight": "-3",
+            "tags": "[Featurable]"
+        }
+    },
+    {
+        "name": "cssnext.md",
+        "path": "data/md/css/cssnext.md",
+        "metadata": {
+            "title": "cssnext",
+            "category": "CSS",
+            "layout": "2017/sheet",
+            "updated": "2017-10-30",
+            "tags": "[Featurable]",
+            "weight": "-3",
+            "background": "color(var(--text-color) shade(30%));",
+            "color": "rgb(30 60 90 / 30%);      /* rgba(30, 60, 90, 0.3) */",
+            "display": "flex;",
+            "p": "not(.a, .b) { \u00b7\u00b7\u00b7 }     /* p:not(.a), p:not(.b) */",
+            "a": ":before { \u00b7\u00b7\u00b7 }         /* a:before -- for IE compatibility */",
+            "all": "initial;"
+        }
+    },
+    {
+        "name": "bootstrap.md",
+        "path": "data/md/css/bootstrap.md",
+        "metadata": {
+            "title": "Bootstrap",
+            "layout": "2017/sheet",
+            "prism_languages": "[scss, haml, html]",
+            "weight": "-1",
+            "category": "CSS",
+            "description": "|",
+            "Min": "",
+            "Max": "",
+            "Mixins": "",
+            "toggle": "'modal', |",
+            "target": "'#chooseTheme', |",
+            "remote": "'/path/to/remote'}"
+        }
+    },
+    {
+        "name": "css-antialias.md",
+        "path": "data/md/css/css-antialias.md",
+        "metadata": {
+            "title": "CSS antialiasing",
+            "category": "CSS",
+            "layout": "2017/sheet",
+            "updated": "2017-10-13",
+            "intro": "|"
+        }
+    },
+    {
+        "name": "sass.md",
+        "path": "data/md/css/sass.md",
+        "metadata": {
+            "title": "Sass",
+            "category": "CSS",
+            "layout": "2017/sheet",
+            "tags": "[Featured]",
+            "updated": "2020-07-03",
+            "weight": "-5",
+            "keywords": "",
+            "color": "red;",
+            "text": "{",
+            "align": "center;          // like text-align: center",
+            "transform": "uppercase;   // like text-transform: uppercase",
+            "padding": "$n;",
+            "See": "[hue()](http://sass-lang.com/documentation/Sass/Script/Functions.html#hue-instance_method), [red()](http://sass-lang.com/documentation/Sass/Script/Functions.html#red-instance_method)",
+            "Supported": "`$red` `$green` `$blue` `$hue` `$saturation` `$lightness` `$alpha`",
+            "background": "url($image);",
+            "position": "static;",
+            "left": "0;",
+            "right": "0;",
+            "font": "#{$size}/#{$line-height}"
+        }
+    },
+    {
+        "name": "css-grid.md",
+        "path": "data/md/css/css-grid.md",
+        "metadata": {
+            "title": "CSS Grid",
+            "category": "CSS",
+            "updated": "2019-08-23",
+            "layout": "2017/sheet",
+            "prism_languages": "[css]",
+            "display": "inline-grid;",
+            "grid": "auto-flow dense 1rem / repeat(10, 10%); /* Conversely, you can do the same thing with automatic rows, and defined columns */"
+        }
+    },
+    {
+        "name": "phoenix-migrations.md",
+        "path": "data/md/elixir/phoenix-migrations.md",
+        "metadata": {
+            "title": "\"Phoenix: Ecto migrations\"",
+            "category": "Elixir",
+            "layout": "2017/sheet",
+            "weight": "-1",
+            "updated": "2020-02-23"
+        }
+    },
+    {
+        "name": "elixir-metaprogramming.md",
+        "path": "data/md/elixir/elixir-metaprogramming.md",
+        "metadata": {
+            "title": "Elixir metaprogramming",
+            "category": "Elixir",
+            "layout": "2017/sheet"
+        }
+    },
+    {
+        "name": "phoenix-ecto.md",
+        "path": "data/md/elixir/phoenix-ecto.md",
+        "metadata": {
+            "title": "\"Phoenix: Ecto\"",
+            "category": "Elixir",
+            "layout": "2017/sheet",
+            "tags": "[WIP]",
+            "updated": "2017-08-30",
+            "email": "string \\",
+            "age": "integer",
+            "where": "[state: \"Sweden\"],",
+            "limit": "1,",
+            "offset": "10,",
+            "order_by": "[asc: c.name, desc: c.title],",
+            "preload": "[comments: {c, likes: l}],",
+            "join": "p in Post, on: c.post_id == p.id,",
+            "group_by": "p,",
+            "select": "[p.title, p.description],"
+        }
+    },
+    {
+        "name": "phoenix-routing.md",
+        "path": "data/md/elixir/phoenix-routing.md",
+        "metadata": {
+            "title": "\"Phoenix: Routing\"",
+            "category": "Elixir",
+            "layout": "2017/sheet",
+            "weight": "-1",
+            "See": "[scope/2](https://hexdocs.pm/phoenix/Phoenix.Router.html#scope/2) _(hexdocs.pm)_",
+            "Also": "`put` `post` `patch` `options` `delete` `head`",
+            "as": ":person    # helper name (person_path)",
+            "name": ":person  # ...?",
+            "param": ":id     # name of parameter for this resource"
+        }
+    },
+    {
+        "name": "elixir.md",
+        "path": "data/md/elixir/elixir.md",
+        "metadata": {
+            "title": "Elixir",
+            "category": "Elixir",
+            "layout": "2017/sheet",
+            "tags": "[New]",
+            "updated": "2018-07-04",
+            "weight": "-10",
+            "name": "\"John\",",
+            "city": "\"Melbourne\"",
+            "See": "[Module](http://elixir-lang.org/docs/stable/elixir/Module.html)"
+        }
+    },
+    {
+        "name": "ets.md",
+        "path": "data/md/elixir/ets.md",
+        "metadata": {
+            "title": "Erlang ETS",
+            "category": "Elixir",
+            "layout": "2017/sheet",
+            "weight": "-1"
+        }
+    },
+    {
+        "name": "exunit.md",
+        "path": "data/md/elixir/exunit.md",
+        "metadata": {
+            "title": "ExUnit",
+            "category": "Elixir",
+            "layout": "2017/sheet",
+            "updated": "2018-11-19",
+            "See": "[Assertions](http://devdocs.io/elixir/ex_unit/exunit.assertions)"
+        }
+    },
+    {
+        "name": "phoenix.md",
+        "path": "data/md/elixir/phoenix.md",
+        "metadata": {
+            "title": "Phoenix",
+            "category": "Elixir",
+            "layout": "2017/sheet",
+            "weight": "-1",
+            "updated": "2018-03-06",
+            "See": "[Adding pages](https://hexdocs.pm/phoenix/adding_pages.html) _(hexdocs.pm)_",
+            "email": "string \\",
+            "age": "integer"
+        }
+    },
+    {
+        "name": "phoenix-conn.md",
+        "path": "data/md/elixir/phoenix-conn.md",
+        "metadata": {
+            "title": "\"Phoenix: Plug.Conn\"",
+            "category": "Elixir",
+            "layout": "2017/sheet",
+            "updated": "2018-01-19",
+            "weight": "-5"
+        }
+    },
+    {
+        "name": "phoenix-ecto@1.2.md",
+        "path": "data/md/elixir/phoenix-ecto@1.2.md",
+        "metadata": {
+            "title": "\"Phoenix: Ecto models\"",
+            "category": "Elixir",
+            "deprecated": "true",
+            "layout": "2017/sheet",
+            "tags": "[Archived]",
+            "archived": "This is for Phoenix 1.2 and below. [Phoenix 1.3 has a new API.](./phoenix-ecto@1.3).",
+            "where": "[state: \"Sweden\"],",
+            "limit": "1,",
+            "offset": "10,",
+            "order_by": "[asc: c.name, desc: c.title],",
+            "preload": "[comments: {c, likes: l}],",
+            "join": "p in Post, on: c.post_id == p.id,",
+            "group_by": "p,",
+            "select": "[p.title, p.description],"
+        }
+    },
+    {
+        "name": "phoenix-ecto@1.3.md",
+        "path": "data/md/elixir/phoenix-ecto@1.3.md",
+        "metadata": {
+            "title": "\"Phoenix: Ecto models\"",
+            "category": "Hidden",
+            "redirect_to": "/phoenix-ecto",
+            "deprecated": "true"
+        }
+    },
+    {
+        "name": "phoenix@1.2.md",
+        "path": "data/md/elixir/phoenix@1.2.md",
+        "metadata": {
+            "title": "Phoenix 1.2",
+            "category": "Elixir",
+            "layout": "2017/sheet",
+            "weight": "-1",
+            "updated": "2018-03-06"
+        }
+    },
+    {
+        "name": "csharp7.md",
+        "path": "data/md/c_like/csharp7.md",
+        "metadata": {
+            "title": "C# 7",
+            "category": "C-like",
+            "updated": "2018-12-06",
+            "layout": "2017/sheet",
+            "prism_languages": "[csharp]",
+            "description": "|",
+            "default": ""
+        }
+    },
+    {
+        "name": "go.md",
+        "path": "data/md/c_like/go.md",
+        "metadata": {
+            "title": "Go",
+            "layout": "2017/sheet",
+            "prism_languages": "[go, bash]",
+            "weight": "-3",
+            "tags": "[Featured]",
+            "category": "C-like",
+            "updated": "2020-06-21",
+            "See": "[Pointer receivers](https://tour.golang.org/methods/4)",
+            "default": ""
+        }
+    },
+    {
+        "name": "c_preprocessor.md",
+        "path": "data/md/c_like/c_preprocessor.md",
+        "metadata": {
+            "title": "C Preprocessor",
+            "category": "C-like",
+            "layout": "2017/sheet",
+            "intro": "|"
+        }
+    },
+    {
+        "name": "social-images.md",
+        "path": "data/md/others/social-images.md",
+        "metadata": {
+            "title": "Social media images",
+            "layout": "2017/sheet"
+        }
+    },
+    {
+        "name": "firebase.md",
+        "path": "data/md/others/firebase.md",
+        "metadata": {
+            "title": "Firebase",
+            "prism_languages": "[coffeescript]",
+            "tags": "[WIP]",
+            "layout": "2017/sheet"
+        }
+    },
+    {
+        "name": "regexp.md",
+        "path": "data/md/others/regexp.md",
+        "metadata": {
+            "title": "regexp",
+            "category": "Others",
+            "layout": "2017/sheet",
+            "weight": "-1",
+            "authors": "",
+            "updated": "2020-03-10",
+            "description": "|"
+        }
+    },
+    {
+        "name": "google_analytics.md",
+        "path": "data/md/others/google_analytics.md",
+        "metadata": {
+            "title": "Google Analytics",
+            "layout": "2017/sheet",
+            "tags": "[Archived]",
+            "archived": "This sheet describes an older version of Google Analytics (UA)."
+        }
+    },
+    {
+        "name": "frequency-separation-retouching.md",
+        "path": "data/md/others/frequency-separation-retouching.md",
+        "metadata": {
+            "title": "Frequency separation retouching",
+            "category": "Others",
+            "layout": "2017/sheet"
+        }
+    },
+    {
+        "name": "ios-provision.md",
+        "path": "data/md/others/ios-provision.md",
+        "metadata": {
+            "title": "iOS Provisioning Profiles",
+            "layout": "2017/sheet"
+        }
+    },
+    {
+        "name": "passenger.md",
+        "path": "data/md/others/passenger.md",
+        "metadata": {
+            "title": "Phusion Passenger",
+            "tags": "[WIP]",
+            "layout": "2017/sheet"
+        }
+    },
+    {
+        "name": "ubuntu.md",
+        "path": "data/md/others/ubuntu.md",
+        "metadata": {
+            "title": "Ubuntu",
+            "layout": "2017/sheet"
+        }
+    },
+    {
+        "name": "less.md",
+        "path": "data/md/others/less.md",
+        "metadata": {
+            "title": "Less.js",
+            "layout": "2017/sheet"
+        }
+    },
+    {
+        "name": "watchman.md",
+        "path": "data/md/others/watchman.md",
+        "metadata": {
+            "title": "Watchman",
+            "layout": "2017/sheet",
+            "updated": "2017-10-18",
+            "weight": "-1",
+            "keywords": ""
+        }
+    },
+    {
+        "name": "make-assets.md",
+        "path": "data/md/others/make-assets.md",
+        "metadata": {
+            "title": "Make for assets",
+            "layout": "2017/sheet",
+            "tags": "[Archived]",
+            "archived": "This sheet may be listing practices that are outdated.",
+            "all": "public/app.css",
+            "hint": "",
+            "watch": ""
+        }
+    },
+    {
+        "name": "licenses.md",
+        "path": "data/md/others/licenses.md",
+        "metadata": {
+            "title": "Licenses",
+            "section": "Development",
+            "layout": "2017/sheet",
+            "updated": "2017-08-30"
+        }
+    },
+    {
+        "name": "nocode.md",
+        "path": "data/md/others/nocode.md",
+        "metadata": {
+            "title": "Nocode",
+            "layout": "2017/sheet",
+            "updated": "2018-03-17",
+            "intro": "|"
+        }
+    },
+    {
+        "name": "resolutions.md",
+        "path": "data/md/others/resolutions.md",
+        "metadata": {
+            "title": "Screen resolutions",
+            "layout": "2017/sheet",
+            "updated": "2020-07-03",
+            "weight": "-1"
+        }
+    },
+    {
+        "name": "znc.md",
+        "path": "data/md/others/znc.md",
+        "metadata": {
+            "title": "ZNC bouncer",
+            "layout": "2017/sheet",
+            "intro": "|"
+        }
+    },
+    {
+        "name": "saucelabs.md",
+        "path": "data/md/others/saucelabs.md",
+        "metadata": {
+            "title": "Saucelabs",
+            "layout": "2017/sheet",
+            "sauce_username": "me",
+            "sauce_key": "abc12348-e3e2-...",
+            "ui": "mocha-bdd",
+            "browsers": "",
+            "version": "latest"
+        }
+    },
+    {
+        "name": "linux.md",
+        "path": "data/md/others/linux.md",
+        "metadata": {
+            "title": "Linux",
+            "layout": "2017/sheet"
+        }
+    },
+    {
+        "name": "datetime.md",
+        "path": "data/md/others/datetime.md",
+        "metadata": {
+            "title": "Date & time formats",
+            "layout": "2017/sheet",
+            "weight": "-5",
+            "updated": "2017-11-27",
+            "tags": "[Featurable]"
+        }
+    },
+    {
+        "name": "figlet.md",
+        "path": "data/md/others/figlet.md",
+        "metadata": {
+            "title": "Figlet",
+            "layout": "2017/sheet",
+            "updated": "2018-06-14",
+            "introduction": "|",
+            "H": "::::::H     H:::::::H a::::::::::aa:::am::::m   m::::m   m::::mb:::::::::::::::b    uu::::::::uu:::ur:::::r              gg::::::::::::::g   ee:::::::::::::e   r:::::r",
+            "HH": ":::::H     H::::::HHa::::a    a:::::a m::::m   m::::m   m::::mb:::::bbbbbb::::::bu:::::::::::::::uur:::::r            g:::::::ggggg:::::g e::::::::e           r:::::r",
+            "g": ":::::ggg:::::::g",
+            "gg": "::::::::::::g",
+            "ggg": ":::::ggg"
+        }
+    },
+    {
+        "name": "firefox.md",
+        "path": "data/md/others/firefox.md",
+        "metadata": {
+            "title": "Firefox",
+            "layout": "2017/sheet",
+            "tags": "[Archived]",
+            "archived": "This sheet has not been updated with newer Firefox releases."
+        }
+    },
+    {
+        "name": "semver.md",
+        "path": "data/md/others/semver.md",
+        "metadata": {
+            "title": "Semver",
+            "layout": "2017/sheet",
+            "updated": "2019-12-31",
+            "weight": "-3"
+        }
+    },
+    {
+        "name": "cask-index.md",
+        "path": "data/md/others/cask-index.md",
+        "metadata": {
+            "title": "Caskroom index",
+            "layout": "2017/sheet",
+            "tags": "[Archived]",
+            "archived": "This sheet may have outdated information."
+        }
+    },
+    {
+        "name": "vainglory.md",
+        "path": "data/md/others/vainglory.md",
+        "metadata": {
+            "title": "Vainglory",
+            "layout": "2017/sheet",
+            "See": "[Skill tier names](http://www.vaingloryfire.com/vainglory/forum/general-discussion/bronze-silver-gold-rankings-5312)"
+        }
+    },
+    {
+        "name": "unicode.md",
+        "path": "data/md/others/unicode.md",
+        "metadata": {
+            "title": "Unicode symbols",
+            "layout": "2017/sheet",
+            "http": "//www.danshort.com/HTMLentities/index.php?w=dingb"
+        }
+    },
+    {
+        "name": "plantuml.md",
+        "path": "data/md/others/plantuml.md",
+        "metadata": {
+            "title": "PlantUML",
+            "layout": "2017/sheet"
+        }
+    },
+    {
+        "name": "cheatsheet-styles.md",
+        "path": "data/md/others/cheatsheet-styles.md",
+        "metadata": {
+            "title": "Cheatsheet styles",
+            "layout": "2017/sheet",
+            "tags": "[WIP]",
+            "updated": "2017-10-26",
+            "intro": "|",
+            "See": "[Cheatsheets](/)"
+        }
+    },
+    {
+        "name": "divshot.md",
+        "path": "data/md/others/divshot.md",
+        "metadata": {
+            "title": "Divshot",
+            "layout": "2017/sheet",
+            "tags": "[Archived]",
+            "archived": "Divshot is no longer in operation."
+        }
+    },
+    {
+        "name": "lua.md",
+        "path": "data/md/others/lua.md",
+        "metadata": {
+            "title": "Lua",
+            "layout": "2017/sheet",
+            "mytable": "y(a, b)",
+            "self": "report()",
+            "a": "withdraw(200)    -- method call",
+            "s": "format()",
+            "file": "close()"
+        }
+    },
+    {
+        "name": "google-webfonts.md",
+        "path": "data/md/others/google-webfonts.md",
+        "metadata": {
+            "title": "Google Webfonts",
+            "layout": "2017/sheet",
+            "intro": "|"
+        }
+    },
+    {
+        "name": "spreadsheet.md",
+        "path": "data/md/others/spreadsheet.md",
+        "metadata": {
+            "title": "Spreadsheet functions",
+            "tags": "[WIP]",
+            "layout": "2017/sheet"
+        }
+    },
+    {
+        "name": "freenode.md",
+        "path": "data/md/others/freenode.md",
+        "metadata": {
+            "title": "Freenode",
+            "layout": "2017/sheet",
+            "tags": "[WIP]"
+        }
+    },
+    {
+        "name": "devise.md",
+        "path": "data/md/others/devise.md",
+        "metadata": {
+            "title": "Devise",
+            "layout": "2017/sheet",
+            "See": "<https://github.com/plataformatec/devise/blob/1094ba65aac1d37713f2cba71f9edad76b5ca274/lib/devise/test_helpers.rb>"
+        }
+    },
+    {
+        "name": "cordova.md",
+        "path": "data/md/others/cordova.md",
+        "metadata": {
+            "title": "Apache Cordova",
+            "layout": "2017/sheet",
+            "intro": "|",
+            "Also": ""
+        }
+    },
+    {
+        "name": "siege.md",
+        "path": "data/md/others/siege.md",
+        "metadata": {
+            "title": "Siege",
+            "category": "Others",
+            "layout": "2017/sheet",
+            "intro": "|"
+        }
+    },
+    {
+        "name": "strftime.md",
+        "path": "data/md/others/strftime.md",
+        "metadata": {
+            "title": "strftime format",
+            "layout": "2017/sheet",
+            "weight": "-5",
+            "updated": "2017-11-27",
+            "tags": "[Featurable]",
+            "intro": "|"
+        }
+    },
+    {
+        "name": "ph-food-delivery.md",
+        "path": "data/md/others/ph-food-delivery.md",
+        "metadata": {
+            "title": "Food delivery (Philippines)",
+            "layout": "2017/sheet",
+            "intro": "|",
+            "Hint": "you can get to this page via [devhints.io/gutom](https://devhints.io/gutom) \ud83c\udf45\ud83c\udf5f"
+        }
+    },
+    {
+        "name": "imagemagick.md",
+        "path": "data/md/others/imagemagick.md",
+        "metadata": {
+            "title": "Imagemagick",
+            "layout": "2017/sheet",
+            "intro": "|"
+        }
+    },
+    {
+        "name": "simple_form.md",
+        "path": "data/md/others/simple_form.md",
+        "metadata": {
+            "title": "SimpleForm",
+            "layout": "2017/sheet",
+            "tags": "[WIP]"
+        }
+    },
+    {
+        "name": "premailer.md",
+        "path": "data/md/others/premailer.md",
+        "metadata": {
+            "title": "Premailer",
+            "layout": "2017/sheet",
+            "tags": "[WIP]",
+            "intro": "|"
+        }
+    },
+    {
+        "name": "command_line.md",
+        "path": "data/md/others/command_line.md",
+        "metadata": {
+            "title": "Command line stuff",
+            "layout": "2017/sheet"
+        }
+    },
+    {
+        "name": "html-meta.md",
+        "path": "data/md/html/html-meta.md",
+        "metadata": {
+            "title": "HTML meta tags",
+            "category": "HTML",
+            "layout": "2017/sheet",
+            "updated": "2020-03-20",
+            "weight": "-3",
+            "See": "[Icons](https://developers.google.com/web/fundamentals/design-and-ui/browser-customization/)"
+        }
+    },
+    {
+        "name": "xpath.md",
+        "path": "data/md/html/xpath.md",
+        "metadata": {
+            "title": "Xpath",
+            "category": "HTML",
+            "layout": "2017/sheet",
+            "tags": "[Featured]",
+            "weight": "-5",
+            "description": "|"
+        }
+    },
+    {
+        "name": "html-input.md",
+        "path": "data/md/html/html-input.md",
+        "metadata": {
+            "title": "Input tag",
+            "category": "HTML",
+            "layout": "2017/sheet",
+            "updated": "2017-10-30",
+            "weight": "-3"
+        }
+    },
+    {
+        "name": "html-microformats.md",
+        "path": "data/md/html/html-microformats.md",
+        "metadata": {
+            "title": "Microformats",
+            "category": "HTML",
+            "layout": "2017/sheet"
+        }
+    },
+    {
+        "name": "html-share.md",
+        "path": "data/md/html/html-share.md",
+        "metadata": {
+            "title": "Share links",
+            "layout": "2017/sheet",
+            "category": "HTML",
+            "updated": "2017-09-04",
+            "Facebook": "",
+            "Twitter": ""
+        }
+    },
+    {
+        "name": "html-email.md",
+        "path": "data/md/html/html-email.md",
+        "metadata": {
+            "title": "HTML emails",
+            "category": "HTML",
+            "layout": "2017/sheet",
+            "updated": "2017-08-30"
+        }
+    },
+    {
+        "name": "applinks.md",
+        "path": "data/md/html/applinks.md",
+        "metadata": {
+            "title": "Applinks",
+            "category": "HTML",
+            "layout": "2017/sheet"
+        }
+    },
+    {
+        "name": "appcache.md",
+        "path": "data/md/html/appcache.md",
+        "metadata": {
+            "title": "Appcache",
+            "category": "HTML",
+            "layout": "2017/sheet",
+            "CACHE": "",
+            "https": "//www.google.com/jsapi",
+            "NETWORK": "",
+            "See": "[Using the application cache](https://developer.mozilla.org/en-US/docs/Web/HTML/Using_the_application_cache) _(developer.mozilla.org)_"
+        }
+    },
+    {
+        "name": "ie.md",
+        "path": "data/md/html/ie.md",
+        "metadata": {
+            "title": "Internet Explorer",
+            "category": "HTML",
+            "layout": "2017/sheet",
+            "updated": "2018-03-06",
+            "See": "[Cross-browser polyfills list][fills]"
+        }
+    },
+    {
+        "name": "layout-thrashing.md",
+        "path": "data/md/html/layout-thrashing.md",
+        "metadata": {
+            "title": "Layout thrashing",
+            "category": "HTML",
+            "layout": "2017/sheet",
+            "description": "\"\"",
+            "updated": "2017-10-19",
+            "weight": "-1",
+            "intro": "|"
+        }
+    },
+    {
+        "name": "ie_bugs.md",
+        "path": "data/md/html/ie_bugs.md",
+        "metadata": {
+            "title": "Legacy IE bugs",
+            "category": "HTML",
+            "layout": "2017/sheet",
+            "updated": "2018-03-06",
+            "intro": "|"
+        }
+    },
+    {
+        "name": "html.md",
+        "path": "data/md/html/html.md",
+        "metadata": {
+            "title": "HTML",
+            "category": "HTML",
+            "layout": "2017/sheet"
+        }
+    },
+    {
+        "name": "find.md",
+        "path": "data/md/cli/find.md",
+        "metadata": {
+            "title": "Find",
+            "category": "CLI",
+            "layout": "2017/sheet",
+            "updated": "2019-11-17"
+        }
+    },
+    {
+        "name": "makefile.md",
+        "path": "data/md/cli/makefile.md",
+        "metadata": {
+            "title": "Makefile",
+            "prism_languages": "[makefile]",
+            "layout": "2017/sheet",
+            "category": "CLI",
+            "also": "",
+            "build": "",
+            "foo": "$(objects)",
+            "deploy": ""
+        }
+    },
+    {
+        "name": "emacs.md",
+        "path": "data/md/cli/emacs.md",
+        "metadata": {
+            "title": "Emacs",
+            "category": "CLI",
+            "layout": "2017/sheet"
+        }
+    },
+    {
+        "name": "httpie.md",
+        "path": "data/md/cli/httpie.md",
+        "metadata": {
+            "title": "httpie",
+            "category": "CLI",
+            "layout": "2017/sheet",
+            "weight": "-3",
+            "updated": "2020-07-05",
+            "description": "|",
+            "Origin": "example.com \\  # :   HTTP headers",
+            "age": "=29 \\             # :=  for non-strings",
+            "list": "='[1,3,4]' \\     # :=  json",
+            "user": "=@user.json      # :=@ read from file (json)"
+        }
+    },
+    {
+        "name": "rtorrent.md",
+        "path": "data/md/cli/rtorrent.md",
+        "metadata": {
+            "title": "rTorrent",
+            "category": "CLI",
+            "layout": "2017/sheet",
+            "intro": "|"
+        }
+    },
+    {
+        "name": "adb.md",
+        "path": "data/md/cli/adb.md",
+        "metadata": {
+            "title": "adb (Android Debug Bridge)",
+            "category": "CLI",
+            "layout": "2017/sheet",
+            "weight": "-1",
+            "authors": "",
+            "updated": "2018-03-06"
+        }
+    },
+    {
+        "name": "fish-shell.md",
+        "path": "data/md/cli/fish-shell.md",
+        "metadata": {
+            "title": "Fish shell",
+            "category": "CLI",
+            "layout": "2017/sheet",
+            "prism_languages": "[fish]",
+            "updated": "2018-01-31",
+            "weight": "-1"
+        }
+    },
+    {
+        "name": "watchexec.md",
+        "path": "data/md/cli/watchexec.md",
+        "metadata": {
+            "title": "Watchexec",
+            "layout": "2017/sheet",
+            "updated": "2017-10-18",
+            "category": "CLI",
+            "weight": "-1",
+            "keywords": "",
+            "intro": "|"
+        }
+    },
+    {
+        "name": "scp.md",
+        "path": "data/md/cli/scp.md",
+        "metadata": {
+            "title": "scp",
+            "category": "CLI",
+            "layout": "2017/sheet",
+            "updated": "2018-12-25",
+            "authors": ""
+        }
+    },
+    {
+        "name": "animated_gif.md",
+        "path": "data/md/cli/animated_gif.md",
+        "metadata": {
+            "title": "Animated GIFs",
+            "category": "CLI",
+            "layout": "2017/sheet"
+        }
+    },
+    {
+        "name": "ansi.md",
+        "path": "data/md/cli/ansi.md",
+        "metadata": {
+            "title": "Ansi codes",
+            "category": "CLI",
+            "layout": "2017/sheet",
+            "intro": "|"
+        }
+    },
+    {
+        "name": "sh-pipes.md",
+        "path": "data/md/cli/sh-pipes.md",
+        "metadata": {
+            "title": "\"Shell: named pipes\"",
+            "category": "CLI",
+            "layout": "2017/sheet"
+        }
+    },
+    {
+        "name": "clip.md",
+        "path": "data/md/cli/clip.md",
+        "metadata": {
+            "title": "Command Line Interface Pages",
+            "category": "CLI",
+            "layout": "2017/sheet",
+            "updated": "2023-02-23",
+            "keywords": ""
+        }
+    },
+    {
+        "name": "curl.md",
+        "path": "data/md/cli/curl.md",
+        "metadata": {
+            "title": "Curl",
+            "category": "CLI",
+            "layout": "2017/sheet",
+            "updated": "2020-03-09"
+        }
+    },
+    {
+        "name": "pass.md",
+        "path": "data/md/cli/pass.md",
+        "metadata": {
+            "title": "Pass",
+            "layout": "2017/sheet",
+            "category": "CLI"
+        }
+    },
+    {
+        "name": "ncftp.md",
+        "path": "data/md/cli/ncftp.md",
+        "metadata": {
+            "title": "ncftp",
+            "category": "CLI",
+            "layout": "2017/sheet"
+        }
+    },
+    {
+        "name": "rename.md",
+        "path": "data/md/cli/rename.md",
+        "metadata": {
+            "title": "rename",
+            "category": "CLI",
+            "layout": "2017/sheet",
+            "See": "<http://plasmasturm.org/code/rename/>"
+        }
+    },
+    {
+        "name": "rsync.md",
+        "path": "data/md/cli/rsync.md",
+        "metadata": {
+            "title": "Rsync",
+            "category": "CLI",
+            "layout": "2017/sheet",
+            "weight": "-1"
+        }
+    },
+    {
+        "name": "screen.md",
+        "path": "data/md/cli/screen.md",
+        "metadata": {
+            "title": "Screen",
+            "category": "CLI",
+            "layout": "2017/sheet",
+            "updated": "2020-12-05",
+            "keywords": "",
+            "intro": "|"
+        }
+    },
+    {
+        "name": "grep.md",
+        "path": "data/md/cli/grep.md",
+        "metadata": {
+            "title": "GNU grep",
+            "category": "CLI",
+            "layout": "2017/sheet",
+            "updated": "2021-08-23"
+        }
+    },
+    {
+        "name": "ffmpeg.md",
+        "path": "data/md/cli/ffmpeg.md",
+        "metadata": {
+            "title": "ffmpeg",
+            "category": "CLI",
+            "layout": "2017/sheet"
+        }
+    },
+    {
+        "name": "zsh.md",
+        "path": "data/md/cli/zsh.md",
+        "metadata": {
+            "title": "zsh",
+            "category": "CLI",
+            "layout": "2017/sheet"
+        }
+    },
+    {
+        "name": "top.md",
+        "path": "data/md/cli/top.md",
+        "metadata": {
+            "title": "top",
+            "category": "CLI",
+            "layout": "2017/sheet",
+            "updated": "2020-01-01",
+            "intro": "See the processes in your Unix machine."
+        }
+    },
+    {
+        "name": "gnupg.md",
+        "path": "data/md/cli/gnupg.md",
+        "metadata": {
+            "title": "GnuPG",
+            "category": "CLI",
+            "layout": "2017/sheet",
+            "tags": "[]",
+            "updated": "2017-10-22",
+            "weight": "0",
+            "intro": "|",
+            "__Note": "__ Omitting the `-o|--output` option will print the key to `stdout`.",
+            "__NOTE": "__ You can use the owner's email or name (or part thereof) instead of the key ID for `--edit-key`",
+            "__NOTE__": "Omitting `-o|--output` will print the unencrypted contents to `stdout`"
+        }
+    },
+    {
+        "name": "cron.md",
+        "path": "data/md/cli/cron.md",
+        "metadata": {
+            "title": "Cron",
+            "category": "CLI",
+            "layout": "2017/sheet",
+            "updated": "2018-05-03",
+            "weight": "-3"
+        }
+    },
+    {
+        "name": "man.md",
+        "path": "data/md/cli/man.md",
+        "metadata": {
+            "title": "Man",
+            "category": "CLI",
+            "layout": "2017/sheet"
+        }
+    },
+    {
+        "name": "tar.md",
+        "path": "data/md/cli/tar.md",
+        "metadata": {
+            "title": "tar",
+            "category": "CLI",
+            "layout": "2017/sheet",
+            "updated": "2022-08-11",
+            "intro": "Concatenate, Deflate, Inflate files"
+        }
+    },
+    {
+        "name": "pm2.md",
+        "path": "data/md/cli/pm2.md",
+        "metadata": {
+            "title": "pm2",
+            "category": "CLI",
+            "layout": "2017/sheet",
+            "authors": "{ github: \"Dr-Dino\" }",
+            "updated": "2020-05-08"
+        }
+    },
+    {
+        "name": "sed.md",
+        "path": "data/md/cli/sed.md",
+        "metadata": {
+            "title": "sed",
+            "category": "CLI",
+            "layout": "2017/sheet",
+            "intro": "|"
+        }
+    },
+    {
+        "name": "composer.md",
+        "path": "data/md/cli/composer.md",
+        "metadata": {
+            "title": "composer",
+            "category": "CLI",
+            "layout": "2017/sheet",
+            "weight": "-1",
+            "authors": "",
+            "updated": "2020-02-23",
+            "description": "|"
+        }
+    },
+    {
+        "name": "tmux.md",
+        "path": "data/md/cli/tmux.md",
+        "metadata": {
+            "title": "tmux",
+            "category": "CLI",
+            "layout": "2017/sheet"
+        }
+    },
+    {
+        "name": "bash.md",
+        "path": "data/md/cli/bash.md",
+        "metadata": {
+            "title": "Bash scripting",
+            "category": "CLI",
+            "layout": "2017/sheet",
+            "tags": "[Featured]",
+            "updated": "2020-07-05",
+            "keywords": "",
+            "See": "[Parameter expansion](https://web.archive.org/web/20230408142504/https://wiki.bash-hackers.org/syntax/pe)"
+        }
+    },
+    {
+        "name": "homebrew.md",
+        "path": "data/md/cli/homebrew.md",
+        "metadata": {
+            "title": "Homebrew",
+            "layout": "2017/sheet",
+            "weight": "-3",
+            "category": "CLI"
+        }
+    },
+    {
+        "name": "sh.md",
+        "path": "data/md/cli/sh.md",
+        "metadata": {
+            "title": "Shell scripting",
+            "category": "CLI",
+            "redirect_to": "/bash"
+        }
+    },
+    {
+        "name": "php.md",
+        "path": "data/md/php/php.md",
+        "metadata": {
+            "title": "PHP",
+            "category": "PHP",
+            "layout": "2017/sheet",
+            "prism_languages": "[php]",
+            "See": "[var_dump](https://php.net/var_dump)"
+        }
+    },
+    {
+        "name": "ansible-guide.md",
+        "path": "data/md/ansible/ansible-guide.md",
+        "metadata": {
+            "title": "\"Ansible quickstart\"",
+            "category": "Ansible",
+            "layout": "2017/sheet",
+            "description": "|",
+            "See": "[Intro to Playbooks](http://docs.ansible.com/ansible/latest/playbooks_intro.html)",
+            "user": "root",
+            "tasks": "",
+            "apt": "pkg=nginx state=present",
+            "service": "name=nginx state=started enabled=yes",
+            "shell": "echo hello > /tmp/abc.txt",
+            "gem": "name=bundler state=latest",
+            "ok": "[127.0.0.1]",
+            "TASK": "start nginx every bootup] ***********************************************"
+        }
+    },
+    {
+        "name": "ansible-modules.md",
+        "path": "data/md/ansible/ansible-modules.md",
+        "metadata": {
+            "title": "Ansible modules",
+            "category": "Ansible",
+            "layout": "2017/sheet",
+            "prism_languages": "[yaml]",
+            "updated": "2017-10-03",
+            "remote_user": "root",
+            "tasks": "",
+            "pkg": "nodejs",
+            "state": "directory # file | link | hard | touch | absent",
+            "update_cache": "yes",
+            "force": "yes    # ln -nfs",
+            "deb": "\"https://packages.erlang-solutions.com/erlang-solutions_1.0_all.deb\"",
+            "repo": "git://github.com/",
+            "id": "AC40B2F7",
+            "url": "\"http://\u00b7\u00b7\u00b7\"",
+            "dest": "/etc/redis.conf",
+            "version": "master",
+            "depth": "10",
+            "bare": "yes",
+            "See": "[debug module](https://devdocs.io/ansible/debug_module)",
+            "name": "nginx",
+            "scope": "global # local | system",
+            "value": "hi@example.com",
+            "system": "yes",
+            "shell": "/bin/sh",
+            "groups": "admin",
+            "comment": "\"Git Version Control\"",
+            "enabled": "yes     # optional",
+            "args": "",
+            "creates": "/path/file  # skip if this exists",
+            "removes": "/path/file  # skip if this is missing",
+            "chdir": "/path         # cd here before running",
+            "path": "/etc/dir",
+            "owner": "user",
+            "group": "user",
+            "mode": "0644",
+            "recurse": "yes  # mkdir -p",
+            "src": "config/redis.j2",
+            "backup": "yes",
+            "local_action": "shell echo hello",
+            "msg": "\"Hello {{ var }}\""
+        }
+    },
+    {
+        "name": "ansible-roles.md",
+        "path": "data/md/ansible/ansible-roles.md",
+        "metadata": {
+            "title": "Ansible roles",
+            "category": "Ansible",
+            "layout": "2017/sheet"
+        }
+    },
+    {
+        "name": "ansible.md",
+        "path": "data/md/ansible/ansible.md",
+        "metadata": {
+            "title": "Ansible",
+            "category": "Ansible",
+            "layout": "2017/sheet",
+            "user": "root",
+            "sudo": "no",
+            "vars": "",
+            "aaa": "bbb",
+            "tasks": "",
+            "handlers": "",
+            "action": "apt pkg=apache2 state=latest",
+            "notify": "",
+            "vars_files": "",
+            "project_root": "/etc/xyz",
+            "file": "state=directory path=${project_root}/home/.ssh/",
+            "only_if": "\"$vm == 0\"",
+            "roles": "",
+            "command": "...",
+            "register": "result",
+            "failed_when": "\"'FAILED' in result.stderr\"",
+            "ignore_errors": "yes",
+            "changed_when": "\"result.rc != 2\"",
+            "local_home": "\"{{ lookup('env','HOME') }}\""
+        }
+    },
+    {
+        "name": "ansible-examples.md",
+        "path": "data/md/ansible/ansible-examples.md",
+        "metadata": {
+            "title": "Ansible examples",
+            "category": "Ansible",
+            "layout": "2017/sheet"
+        }
+    },
+    {
+        "name": "markdown.md",
+        "path": "data/md/markup/markdown.md",
+        "metadata": {
+            "title": "Markdown",
+            "category": "Markup",
+            "layout": "2017/sheet",
+            "prism_languages": "[markdown]",
+            "updated": "2020-07-01",
+            "weight": "-1"
+        }
+    },
+    {
+        "name": "yaml.md",
+        "path": "data/md/markup/yaml.md",
+        "metadata": {
+            "title": "Yaml",
+            "category": "Markup",
+            "layout": "2017/sheet",
+            "prism_languages": "[yaml]",
+            "name": "Martin D'vloper",
+            "languages": "",
+            "perl": "Elite",
+            "python": "Elite",
+            "pascal": "Lame",
+            "foods": "",
+            "employed": "true",
+            "Multiline": "<",
+            "parent": "&defaults",
+            "a": "2",
+            "b": "4",
+            "child": "",
+            "values": "&ref",
+            "other_values": ""
+        }
+    },
+    {
+        "name": "rst.md",
+        "path": "data/md/markup/rst.md",
+        "metadata": {
+            "title": "ReStructuredText",
+            "category": "Markup",
+            "layout": "2017/sheet"
+        }
+    },
+    {
+        "name": "tomdoc.md",
+        "path": "data/md/markup/tomdoc.md",
+        "metadata": {
+            "title": "Tomdoc",
+            "category": "Markup",
+            "layout": "2017/sheet"
+        }
+    },
+    {
+        "name": "rdoc.md",
+        "path": "data/md/markup/rdoc.md",
+        "metadata": {
+            "title": "Rdoc",
+            "category": "Markup",
+            "layout": "2017/sheet",
+            "https": "//www.example.com/"
+        }
+    },
+    {
+        "name": "textile.md",
+        "path": "data/md/markup/textile.md",
+        "metadata": {
+            "title": "Textile",
+            "category": "Markup",
+            "layout": "2017/sheet",
+            "updated": "2017-09-20",
+            "weight": "-1"
+        }
+    },
+    {
+        "name": "kramdown.md",
+        "path": "data/md/markup/kramdown.md",
+        "metadata": {
+            "title": "Kramdown",
+            "category": "Markup",
+            "layout": "2017/sheet",
+            "http": "//kramdown.gettalong.org/parser/gfm.html",
+            "markdown": "kramdown",
+            "kramdown": "",
+            "input": "GFM"
+        }
+    },
+    {
+        "name": "emmet.md",
+        "path": "data/md/markup/emmet.md",
+        "metadata": {
+            "title": "Emmet",
+            "category": "Markup",
+            "layout": "2017/sheet",
+            "prism_languages": "[html, css]",
+            "updated": "2020-07-03",
+            "intro": "|"
+        }
+    },
+    {
+        "name": "haml.md",
+        "path": "data/md/markup/haml.md",
+        "metadata": {
+            "title": "Haml",
+            "category": "Markup",
+            "layout": "2017/sheet",
+            "prism_languages": "[haml]"
+        }
+    },
+    {
+        "name": "jquery.md",
+        "path": "data/md/js_libraries/jquery.md",
+        "metadata": {
+            "title": "jQuery",
+            "category": "JavaScript libraries",
+            "layout": "2017/sheet",
+            "tags": "[WIP]",
+            "weight": "-1",
+            "get": "function (elem, computed, extra) {",
+            "set": "function (elem, value) {"
+        }
+    },
+    {
+        "name": "mocha.md",
+        "path": "data/md/js_libraries/mocha.md",
+        "metadata": {
+            "title": "Mocha.js",
+            "category": "JavaScript libraries",
+            "layout": "2017/sheet"
+        }
+    },
+    {
+        "name": "mocha-tdd.md",
+        "path": "data/md/js_libraries/mocha-tdd.md",
+        "metadata": {
+            "title": "Mocha.js TDD interface",
+            "category": "JavaScript libraries",
+            "layout": "2017/sheet"
+        }
+    },
+    {
+        "name": "commander.js.md",
+        "path": "data/md/js_libraries/commander.js.md",
+        "metadata": {
+            "title": "Commander.js",
+            "category": "JavaScript libraries",
+            "layout": "2017/sheet"
+        }
+    },
+    {
+        "name": "lodash.md",
+        "path": "data/md/js_libraries/lodash.md",
+        "metadata": {
+            "title": "Lodash",
+            "category": "JavaScript libraries",
+            "layout": "2017/sheet",
+            "weight": "-3",
+            "updated": "2020-06-24",
+            "description": "|"
+        }
+    },
+    {
+        "name": "chai.md",
+        "path": "data/md/js_libraries/chai.md",
+        "metadata": {
+            "title": "Chai.js",
+            "category": "JavaScript libraries",
+            "layout": "2017/sheet",
+            "weight": "-3",
+            "updated": "2018-06-25",
+            "version": "chai v4.x",
+            "description": "|",
+            "See": "[BDD](http://chaijs.com/api/bdd/) _(chaijs.com)_"
+        }
+    },
+    {
+        "name": "modernizr.md",
+        "path": "data/md/js_libraries/modernizr.md",
+        "metadata": {
+            "title": "Modernizr",
+            "category": "JavaScript libraries",
+            "layout": "2017/sheet",
+            "tags": "[Archived]",
+            "archived": "Modernizr is no longer in active development."
+        }
+    },
+    {
+        "name": "spine.md",
+        "path": "data/md/js_libraries/spine.md",
+        "metadata": {
+            "title": "Spine",
+            "category": "JavaScript libraries",
+            "layout": "2017/sheet",
+            "tags": "[Outdated]",
+            "fullName": "->",
+            "scope": "'2013'"
+        }
+    },
+    {
+        "name": "jquery-cdn.md",
+        "path": "data/md/js_libraries/jquery-cdn.md",
+        "metadata": {
+            "title": "jQuery CDN",
+            "category": "JavaScript libraries",
+            "tags": "[Archived]",
+            "layout": "2017/sheet"
+        }
+    },
+    {
+        "name": "sinon.md",
+        "path": "data/md/js_libraries/sinon.md",
+        "metadata": {
+            "title": "Sinon",
+            "category": "JavaScript libraries",
+            "layout": "2017/sheet",
+            "weight": "-1",
+            "updated": "2017-10-27"
+        }
+    },
+    {
+        "name": "nock.md",
+        "path": "data/md/js_libraries/nock.md",
+        "metadata": {
+            "title": "Nock",
+            "category": "JavaScript libraries",
+            "layout": "2017/sheet"
+        }
+    },
+    {
+        "name": "mobx.md",
+        "path": "data/md/js_libraries/mobx.md",
+        "metadata": {
+            "title": "Mobx",
+            "category": "JavaScript libraries",
+            "layout": "2017/sheet",
+            "updated": "2018-05-14",
+            "name": "'Ella Fitzgerald'"
+        }
+    },
+    {
+        "name": "umdjs.md",
+        "path": "data/md/js_libraries/umdjs.md",
+        "metadata": {
+            "title": "Universal JS module loader",
+            "category": "JavaScript libraries",
+            "layout": "2017/sheet"
+        }
+    },
+    {
+        "name": "co.md",
+        "path": "data/md/js_libraries/co.md",
+        "metadata": {
+            "title": "co",
+            "category": "JavaScript libraries",
+            "layout": "2017/sheet",
+            "updated": "2017-10-27",
+            "weight": "-1",
+            "intro": "|"
+        }
+    },
+    {
+        "name": "immutable.js.md",
+        "path": "data/md/js_libraries/immutable.js.md",
+        "metadata": {
+            "title": "Immutable.js",
+            "category": "JavaScript libraries",
+            "layout": "2017/sheet"
+        }
+    },
+    {
+        "name": "virtual-dom.md",
+        "path": "data/md/js_libraries/virtual-dom.md",
+        "metadata": {
+            "title": "Virtual-dom",
+            "category": "JavaScript libraries",
+            "layout": "2017/sheet"
+        }
+    },
+    {
+        "name": "harvey.js.md",
+        "path": "data/md/js_libraries/harvey.js.md",
+        "metadata": {
+            "title": "Harvey.js",
+            "category": "JavaScript libraries",
+            "layout": "2017/sheet",
+            "intro": "|",
+            "setup": "function () {",
+            "on": "function () {",
+            "off": "function () {"
+        }
+    },
+    {
+        "name": "polyfill.io.md",
+        "path": "data/md/js_libraries/polyfill.io.md",
+        "metadata": {
+            "title": "Polyfill.io",
+            "category": "JavaScript libraries",
+            "updated": "2018-08-20",
+            "layout": "2017/sheet",
+            "intro": "|"
+        }
+    },
+    {
+        "name": "riot.md",
+        "path": "data/md/js_libraries/riot.md",
+        "metadata": {
+            "title": "Riot.js",
+            "category": "JavaScript libraries",
+            "layout": "2017/sheet"
+        }
+    },
+    {
+        "name": "weinre.md",
+        "path": "data/md/js_libraries/weinre.md",
+        "metadata": {
+            "title": "Weinre",
+            "category": "JavaScript libraries",
+            "layout": "2017/sheet",
+            "tags": "[Archived]",
+            "intro": "|",
+            "archived": "Weinre has been deprecated since 2016."
+        }
+    },
+    {
+        "name": "parsley.md",
+        "path": "data/md/js_libraries/parsley.md",
+        "metadata": {
+            "title": "Parsley.js",
+            "updated": "2018-12-06",
+            "weight": "-1",
+            "layout": "2017/sheet",
+            "category": "JavaScript libraries",
+            "keywords": "",
+            "intro": "|",
+            "inputs": "'input, textarea, select'",
+            "excluded": "'input[type=button], input[type=submit], input[type=reset], input[type=hidden]'",
+            "priorityEnabled": "true",
+            "See": "[Custom validators](http://parsleyjs.org/doc/index.html#custom)",
+            "multiple": "null",
+            "group": "null",
+            "uiEnabled": "true",
+            "validationThreshold": "3",
+            "focus": "'first'",
+            "trigger": "false",
+            "errorClass": "'-error',",
+            "successClass": "'-success',",
+            "classHandler": "function (ParsleyField) {}",
+            "errorsContainer": "function (ParsleyField) {}",
+            "errorsWrapper": "'<ul class=\"parsley-error-list\"></ul>',",
+            "errorTemplate": "'<li class=\"parsley-error\"></li>'",
+            "requirementType": "'integer',",
+            "messages": "{",
+            "en": "'This value should be a multiple of %s'"
+        }
+    },
+    {
+        "name": "101.md",
+        "path": "data/md/js_libraries/101.md",
+        "metadata": {
+            "title": "101",
+            "category": "JavaScript libraries",
+            "layout": "2017/sheet",
+            "updated": "2017-09-21",
+            "intro": "|",
+            "See": ""
+        }
+    },
+    {
+        "name": "mocha-html.md",
+        "path": "data/md/js_libraries/mocha-html.md",
+        "metadata": {
+            "title": "Mocha HTML",
+            "category": "JavaScript libraries",
+            "layout": "2017/sheet"
+        }
+    },
+    {
+        "name": "yarn.md",
+        "path": "data/md/js_libraries/yarn.md",
+        "metadata": {
+            "title": "Yarn",
+            "category": "JavaScript libraries",
+            "layout": "2017/sheet",
+            "weight": "-3",
+            "updated": "2019-09-30",
+            "prism_languages": "[json, bash]",
+            "tags": "[Featurable]"
+        }
+    },
+    {
+        "name": "koa.md",
+        "path": "data/md/js_libraries/koa.md",
+        "metadata": {
+            "title": "Koa",
+            "category": "JavaScript libraries",
+            "layout": "2017/sheet"
+        }
+    },
+    {
+        "name": "jasmine.md",
+        "path": "data/md/js_libraries/jasmine.md",
+        "metadata": {
+            "title": "Jasmine",
+            "category": "JavaScript libraries",
+            "layout": "2017/sheet",
+            "weight": "-1",
+            "Note": "This cheatsheet may be a little outdated. Also see the [Jest cheatsheet](./jest). Jest uses Jasmine, and therefore has similar API.",
+            "See": "[jasmine-jquery](https://github.com/velesin/jasmine-jquery)"
+        }
+    },
+    {
+        "name": "vows.md",
+        "path": "data/md/js_libraries/vows.md",
+        "metadata": {
+            "title": "Vows",
+            "category": "JavaScript libraries",
+            "layout": "2017/sheet",
+            "topic": "->"
+        }
+    },
+    {
+        "name": "bluebird.md",
+        "path": "data/md/js_libraries/bluebird.md",
+        "metadata": {
+            "title": "bluebird.js",
+            "category": "JavaScript libraries",
+            "layout": "2017/sheet",
+            "weight": "-1",
+            "updated": "2017-09-08",
+            "photos": "get('photos'),",
+            "posts": "get('posts')"
+        }
+    },
+    {
+        "name": "gremlins.md",
+        "path": "data/md/js_libraries/gremlins.md",
+        "metadata": {
+            "title": "Gremlins.js",
+            "category": "JavaScript libraries",
+            "layout": "2017/sheet",
+            "updated": "2017-10-22",
+            "weight": "-1",
+            "intro": "|",
+            "See": "[Specifying gremlins](https://github.com/marmelab/gremlins.js#setting-gremlins-and-mogwais-to-use-in-a-test)"
+        }
+    },
+    {
+        "name": "jshint.md",
+        "path": "data/md/js_libraries/jshint.md",
+        "metadata": {
+            "title": "Jshint",
+            "category": "JavaScript libraries",
+            "layout": "2017/sheet",
+            "updated": "2017-09-12",
+            "See": "[Environments](https://www.jshint.com/docs/options/#environments)"
+        }
+    },
+    {
+        "name": "blessed.md",
+        "path": "data/md/js_libraries/blessed.md",
+        "metadata": {
+            "title": "Blessed",
+            "category": "JavaScript libraries",
+            "layout": "2017/sheet",
+            "smartCSR": "true       // optimize for flickering",
+            "autoPadding": "true    // ..",
+            "style": "{ fg, bg, border.fg, scrollbar.bg, focus.bg, hover.bg },",
+            "border": "{ type: 'line'|'bg', bg, fg, bold, underline }",
+            "tags": "true,  // parse {bold}tags{/bold}",
+            "width": "'100%',",
+            "height": "'100%-1',",
+            "top": "'center'"
+        }
+    },
+    {
+        "name": "sequelize.md",
+        "path": "data/md/js_libraries/sequelize.md",
+        "metadata": {
+            "title": "{ type: Sequelize.STRING, allowNull: false },",
+            "category": "JavaScript libraries",
+            "layout": "2017/sheet",
+            "description": "Sequelize.TEXT,",
+            "myDate": "{ type: Sequelize.DATE, defaultValue: Sequelize.NOW },",
+            "id": "{ type: Sequelize.INTEGER, autoIncrement: true, primaryKey: true },",
+            "classMethods": "{ ... },",
+            "instanceMethods": "{ ... }",
+            "where": "{title: 'a'}",
+            "attributes": "['id', ['name', 'title']]"
+        }
+    },
+    {
+        "name": "express.md",
+        "path": "data/md/js_libraries/express.md",
+        "metadata": {
+            "title": "\"MyApp\",",
+            "category": "JavaScript libraries",
+            "layoute": "2017/sheet"
+        }
+    },
+    {
+        "name": "camp.md",
+        "path": "data/md/js_libraries/camp.md",
+        "metadata": {
+            "title": "Camp",
+            "layout": "2017/sheet",
+            "category": "JavaScript libraries",
+            "updated": "2017-09-21",
+            "weight": "-1",
+            "intro": "|",
+            "text": "'Hello world'",
+            "See": "[WebSocket](https://github.com/espadrine/sc/blob/master/doc/Readme.md#websocket)"
+        }
+    },
+    {
+        "name": "zombie.md",
+        "path": "data/md/js_libraries/zombie.md",
+        "metadata": {
+            "title": "Zombie",
+            "category": "JavaScript libraries",
+            "layout": "2017/sheet",
+            "intro": "|"
+        }
+    },
+    {
+        "name": "modella.md",
+        "path": "data/md/js_libraries/modella.md",
+        "metadata": {
+            "title": "Modella",
+            "category": "JavaScript libraries",
+            "layout": "2017/sheet",
+            "prism_languages": "[coffeescript]",
+            "intro": "|"
+        }
+    },
+    {
+        "name": "gulp.md",
+        "path": "data/md/js_libraries/gulp.md",
+        "metadata": {
+            "title": "Gulp",
+            "category": "JavaScript libraries",
+            "layout": "2017/sheet",
+            "tags": "[Archived]",
+            "archived": "The information on this sheet may possibly be outdated.",
+            "https": "//github.com/gulpjs/gulp/blob/master/docs/getting-started.md#getting-started"
+        }
+    },
+    {
+        "name": "js-model_lib.md",
+        "path": "data/md/js_libraries/js-model_lib.md",
+        "metadata": {
+            "title": "js-model library",
+            "category": "JavaScript libraries",
+            "layout": "2017/sheet",
+            "findByTitle": "(title) -> ...",
+            "markAsDone": "-> ..."
+        }
+    },
+    {
+        "name": "sinon-chai.md",
+        "path": "data/md/js_libraries/sinon-chai.md",
+        "metadata": {
+            "title": "Sinon-chai",
+            "category": "JavaScript libraries",
+            "layout": "2017/sheet"
+        }
+    },
+    {
+        "name": "angularjs.md",
+        "path": "data/md/js_libraries/angularjs.md",
+        "metadata": {
+            "title": "Angular.js",
+            "category": "JavaScript libraries",
+            "tags": "[Archived]",
+            "archived": "This describes an older version of Angular.",
+            "layout": "2017/sheet",
+            "get": "function(){",
+            "template": "'<h1>Hello</h1>'"
+        }
+    },
+    {
+        "name": "jade.md",
+        "path": "data/md/js_libraries/jade.md",
+        "metadata": {
+            "title": "Jade",
+            "category": "JavaScript libraries",
+            "redirect_to": "/pug"
+        }
+    },
+    {
+        "name": "deku.md",
+        "path": "data/md/js_libraries/deku.md",
+        "metadata": {
+            "title": "Deku v2",
+            "category": "JavaScript libraries",
+            "layout": "2017/sheet",
+            "intro": "|"
+        }
+    },
+    {
+        "name": "jscoverage.md",
+        "path": "data/md/js_libraries/jscoverage.md",
+        "metadata": {
+            "title": "jscoverage",
+            "category": "JavaScript libraries",
+            "layout": "2017/sheet",
+            "intro": "|"
+        }
+    },
+    {
+        "name": "ractive.md",
+        "path": "data/md/js_libraries/ractive.md",
+        "metadata": {
+            "title": "Ractive.js",
+            "category": "JavaScript libraries",
+            "layout": "2017/sheet",
+            "el": "'main',",
+            "template": "'{{area}}',",
+            "init": "function() {},    // on instantiate",
+            "complete": "function() {}, // on finish animations",
+            "data": "{",
+            "partials": "{ ... },    // global: Ractive.partials",
+            "transitions": "{ ... }, // global: Ractive.transitions",
+            "components": "{",
+            "adaptors": "[ ... ],",
+            "magic": "false",
+            "modifyArrays": "true",
+            "twoway": "true",
+            "noIntro": "true // true = disable transition on initial render",
+            "lazy": "false   // false = use keyevents, true = use change/blur",
+            "append": "false // false = overwrite element, true = append",
+            "debug": "false",
+            "sanitize": "false",
+            "See": "https://github.com/RactiveJS/Ractive/issues/74",
+            "widget": "Widget",
+            "activate": "function () { ... }",
+            "Body": "{{{unescaped}}}",
+            "sort": "function(array, column) { return array.whatever(); }",
+            "duration": "400,",
+            "color": "t.isIntro ? 'rgb(0,255,0)' : 'rgb(255,0,0)'",
+            "decorators": "{",
+            "tooltip": "function (node, a, b, two, c) { ... }",
+            "teardown": "function () { .. },",
+            "filter": "function (object, keypath, ractive) {",
+            "wrap": "function (ractive, object, keypath, prefixer) {",
+            "get": "'${first} + \" \" + ${last}\"",
+            "set": "function (name) { ... }",
+            "reset": "function (data) { return false; }",
+            "computed": "{",
+            "area": "'${width} * ${height}'",
+            "fullname": "{"
+        }
+    },
+    {
+        "name": "mocha-blanket.md",
+        "path": "data/md/js_libraries/mocha-blanket.md",
+        "metadata": {
+            "title": "Mocha blanket",
+            "category": "JavaScript libraries",
+            "layout": "2017/sheet",
+            "intro": "|",
+            "pattern": "require('path').resolve('./index.js')",
+            "after_success": ""
+        }
+    },
+    {
+        "name": "underscore-string.md",
+        "path": "data/md/js_libraries/underscore-string.md",
+        "metadata": {
+            "title": "Underscore-string",
+            "category": "JavaScript libraries",
+            "layout": "2017/sheet"
+        }
+    },
+    {
+        "name": "parsimmon.md",
+        "path": "data/md/js_libraries/parsimmon.md",
+        "metadata": {
+            "title": "Parsimmon",
+            "category": "JavaScript libraries",
+            "layout": "2017/sheet"
+        }
+    },
+    {
+        "name": "superagent.md",
+        "path": "data/md/js_libraries/superagent.md",
+        "metadata": {
+            "title": "Superagent",
+            "category": "JavaScript libraries",
+            "updated": "2018-04-21",
+            "layout": "2017/sheet",
+            "tags": "",
+            "res": "{",
+            "status": "202,",
+            "ok": "true,",
+            "error": "false,",
+            "clientError": "false,",
+            "serverError": "false,",
+            "accepted": "true,",
+            "noContent": "false,",
+            "badRequest": "false,",
+            "unauthorized": "false,",
+            "notAcceptable": "false,",
+            "notFound": "false,",
+            "forbidden": "false,",
+            "text": "'{\"user\":{\"username\":\"JohnDoe\",\"role\":\"admin\"}}'",
+            "body": "{",
+            "user": "{",
+            "username": "'JohnDoe',",
+            "role": "'admin'",
+            "type": "'application/json'",
+            "charset": "'UTF-8'",
+            "headers": "{"
+        }
+    },
+    {
+        "name": "rollup.md",
+        "path": "data/md/js_libraries/rollup.md",
+        "metadata": {
+            "title": "Rollup.js",
+            "category": "JavaScript libraries",
+            "layout": "2017/sheet",
+            "updated": "2020-01-29",
+            "authors": "",
+            "keywords": "",
+            "intro": "|",
+            "input": "'src/main.js',",
+            "output": "{",
+            "file": "'bundle.js',",
+            "format": "'cjs'",
+            "name": "'vendor'",
+            "plugins": "[",
+            "customResolveOptions": "{",
+            "moduleDirectory": "'node_modules'",
+            "external": "['lodash']",
+            "exclude": "'node_modules/**' // only transpile our source code"
+        }
+    },
+    {
+        "name": "middleman.md",
+        "path": "data/md/js_libraries/middleman.md",
+        "metadata": {
+            "title": "Middleman 3",
+            "category": "JavaScript libraries",
+            "layout": "2017/sheet",
+            "tags": "[Archived]",
+            "archived": "This guide is for Middleman v3."
+        }
+    },
+    {
+        "name": "qunit.md",
+        "path": "data/md/js_libraries/qunit.md",
+        "metadata": {
+            "title": "Qunit",
+            "category": "JavaScript libraries",
+            "layout": "2017/sheet",
+            "intro": "|"
+        }
+    },
+    {
+        "name": "qjs.md",
+        "path": "data/md/js_libraries/qjs.md",
+        "metadata": {
+            "title": "Q.js",
+            "category": "JavaScript libraries",
+            "layout": "2017/sheet"
+        }
+    },
+    {
+        "name": "browser-sync.md",
+        "path": "data/md/js_libraries/browser-sync.md",
+        "metadata": {
+            "title": "Browsersync",
+            "category": "JavaScript libraries",
+            "layout": "2017/sheet"
+        }
+    },
+    {
+        "name": "stencil.md",
+        "path": "data/md/js_libraries/stencil.md",
+        "metadata": {
+            "title": "Stencil",
+            "category": "JavaScript libraries",
+            "layout": "2017/sheet",
+            "updated": "2019-05-08",
+            "keywords": "",
+            "intro": "|",
+            "tag": "'my-component',",
+            "styleUrl": "'my-component.scss'",
+            "See": "[Component lifecycle](https://stenciljs.com/docs/component-lifecycle)"
+        }
+    },
+    {
+        "name": "expectjs.md",
+        "path": "data/md/js_libraries/expectjs.md",
+        "metadata": {
+            "title": "expect.js",
+            "category": "JavaScript libraries",
+            "layout": "2017/sheet",
+            "updated": "2017-09-02",
+            "weight": "-1",
+            "See": "[mjackson/expect](https://github.com/mjackson/expect)",
+            "Also": "`toNotBe`, `toNotEqual`, etc for negatives.",
+            "play": "function () { \u00b7\u00b7\u00b7 }"
+        }
+    },
+    {
+        "name": "shelljs.md",
+        "path": "data/md/js_libraries/shelljs.md",
+        "metadata": {
+            "title": "Shell.js",
+            "category": "JavaScript libraries",
+            "layout": "2017/sheet",
+            "updated": "2017-10-27",
+            "weight": "-1",
+            "intro": "|"
+        }
+    },
+    {
+        "name": "minimist.md",
+        "path": "data/md/js_libraries/minimist.md",
+        "metadata": {
+            "title": "minimist",
+            "category": "JavaScript libraries",
+            "layout": "2017/sheet",
+            "string": "[ 'lang' ],",
+            "boolean": "[ 'pager' ],",
+            "alias": "{ h: 'help', v: 'version' }",
+            "default": "{ lang: 'en' },",
+            "stopEarly": "true, /* populate _ with first non-option */",
+            "unknown": "function () { ... } /* invoked on unknown param */",
+            "lang": "'xml',",
+            "version": "false,",
+            "h": "true,",
+            "help": "true,",
+            "_": "[ 'index.js', 'package.json' ]",
+            "Usage": "",
+            "Options": ""
+        }
+    },
+    {
+        "name": "jest.md",
+        "path": "data/md/js_libraries/jest.md",
+        "metadata": {
+            "title": "Jest",
+            "category": "JavaScript libraries",
+            "layout": "2017/sheet",
+            "updated": "2020-06-17",
+            "weight": "-3",
+            "tags": "[Featurable]",
+            "intro": "|",
+            "See": "[.mock property](https://facebook.github.io/jest/docs/en/mock-functions.html#mock-property)"
+        }
+    },
+    {
+        "name": "bower-api.md",
+        "path": "data/md/js_libraries/bower-api.md",
+        "metadata": {
+            "title": "Bower API",
+            "category": "JavaScript libraries",
+            "layout": "2017/sheet",
+            "directory": "'bower_components',",
+            "registry": "'/Users/rsc/.cache/bower/registry',",
+            "register": "'https://bower.herokuapp.com',",
+            "publish": "'https://bower.herokuapp.com' },",
+            "shorthandResolver": "'git://github.com/{{owner}}/{{package}}.git',",
+            "tmp": "'/var/folders/5y/190gjd_j2c5bfkn563dk2xdr0000gn/T/rsc/bower',",
+            "timeout": "30000,",
+            "ca": "{ search: [] },",
+            "strictSsl": "true,",
+            "userAgent": "'node/v0.10.33 darwin x64',",
+            "color": "true,",
+            "storage": "",
+            "links": "'/Users/rsc/.local/share/bower/links',",
+            "completion": "'/Users/rsc/.local/share/bower/completion',",
+            "empty": "'/Users/rsc/.local/share/bower/empty' },",
+            "interactive": "false,",
+            "argv": "{ remain: [], cooked: [], original: [] } }"
+        }
+    },
+    {
+        "name": "handlebars.js.md",
+        "path": "data/md/js_libraries/handlebars.js.md",
+        "metadata": {
+            "title": "Handlebars.js",
+            "category": "JavaScript libraries",
+            "layout": "2017/sheet",
+            "weight": "-1"
+        }
+    },
+    {
+        "name": "ember.md",
+        "path": "data/md/js_libraries/ember.md",
+        "metadata": {
+            "title": "Ember.js",
+            "category": "JavaScript libraries",
+            "layout": "2017/sheet",
+            "tags": "[Archived]",
+            "archived": "This sheet describes an older version of Ember."
+        }
+    },
+    {
+        "name": "flow.md",
+        "path": "data/md/js_libraries/flow.md",
+        "metadata": {
+            "title": "Flow",
+            "layout": "2017/sheet",
+            "category": "JavaScript libraries",
+            "updated": "2020-07-05",
+            "weight": "-3",
+            "tags": "[Featurable]",
+            "See": "[Functions](https://flow.org/en/docs/types/functions/)",
+            "name": "'Miguel Migs',",
+            "age": "number,",
+            "isAdmin": "boolean,",
+            "likes": "Array<string>",
+            "label": "'Naked Music',",
+            "genre": "'House' // \u2717 Error",
+            "US": "\"United States\",",
+            "IT": "\"Italy\",",
+            "FR": "\"France\"",
+            "foo": "T",
+            "bar": "number,",
+            "qux": "(foo: string, bar: number) => boolean",
+            "x": "T",
+            "list": "Array<T>,",
+            "callback": "(item: T) => boolean",
+            "open": "boolean,"
+        }
+    },
+    {
+        "name": "deku@1.md",
+        "path": "data/md/js_libraries/deku@1.md",
+        "metadata": {
+            "title": "Deku v1",
+            "category": "JavaScript libraries",
+            "layout": "2017/sheet",
+            "intro": "|",
+            "See": "<https://www.npmjs.com/package/deku>"
+        }
+    },
+    {
+        "name": "pug.md",
+        "path": "data/md/js_libraries/pug.md",
+        "metadata": {
+            "title": "Pug",
+            "category": "JavaScript libraries",
+            "layout": "2017/sheet",
+            "prism_languages": "[jade]",
+            "updated": "2017-10-30",
+            "weight": "-3",
+            "tags": "[Featurable]",
+            "See": "[Mixin blocks](https://pugjs.org/language/mixins.html#mixin-blocks)",
+            "include": "markdown article.md"
+        }
+    },
+    {
+        "name": "yargs.md",
+        "path": "data/md/js_libraries/yargs.md",
+        "metadata": {
+            "title": "Yargs",
+            "category": "JavaScript libraries",
+            "layout": "2017/sheet",
+            "describe": "'x marks the spot',",
+            "type": "'string', /* array | boolean | string */",
+            "nargs": "1,",
+            "demand": "'file is required',",
+            "default": "'/etc/passwd'",
+            "f": "{ ... }"
+        }
+    },
+    {
+        "name": "nopt.md",
+        "path": "data/md/js_libraries/nopt.md",
+        "metadata": {
+            "title": "Nopt",
+            "category": "JavaScript libraries",
+            "layout": "2017/sheet",
+            "foo": "[String, null],",
+            "size": "'big',",
+            "many": "[String, Array],",
+            "debug": "true,",
+            "version": "true,",
+            "help": "Boolean",
+            "h": "'--help',",
+            "v": "'--version'",
+            "argv": "{",
+            "remain": "['...', '...'],",
+            "cooked": "...,",
+            "original": "..."
+        }
+    },
+    {
+        "name": "browserify.md",
+        "path": "data/md/js_libraries/browserify.md",
+        "metadata": {
+            "title": "Browserify",
+            "category": "JavaScript libraries",
+            "layout": "2017/sheet",
+            "tags": "[Archived]",
+            "archived": "Browserify has not been in active development."
+        }
+    },
+    {
+        "name": "moment.md",
+        "path": "data/md/js_libraries/moment.md",
+        "metadata": {
+            "title": "Moment.js",
+            "category": "JavaScript libraries",
+            "layout": "2017/sheet",
+            "updated": "2018-09-15",
+            "tags": "[Featurable]"
+        }
+    },
+    {
+        "name": "backbone.md",
+        "path": "data/md/js_libraries/backbone.md",
+        "metadata": {
+            "title": "Backbone.js",
+            "layout": "2017/sheet",
+            "updated": "2018-12-06",
+            "category": "JavaScript libraries",
+            "model": "doc,",
+            "tagName": "'div',",
+            "className": "'document-item',",
+            "id": "\"document-\" + doc.id,",
+            "attributes": "{ href: '#' },",
+            "el": "'body',",
+            "events": "{",
+            "constructor": "function() { \u00b7\u00b7\u00b7 },",
+            "render": "function() { \u00b7\u00b7\u00b7 }",
+            "defaults": "{",
+            "idAttribute": "'_id',",
+            "parse": "function() { \u00b7\u00b7\u00b7 }",
+            "silent": "true, patch: true, wait: true,",
+            "success": "callback, error: callback",
+            "wait": "true,",
+            "validate": "function(attrs, options) {",
+            "url": "function() { return '/books/' + this.id }),",
+            "urlRoot": "'/books'"
+        }
+    },
+    {
+        "name": "typescript.md",
+        "path": "data/md/js_libraries/typescript.md",
+        "metadata": {
+            "title": "TypeScript",
+            "category": "JavaScript libraries",
+            "layout": "2017/sheet",
+            "label": "string",
+            "name": "string;",
+            "x": "number",
+            "y": "number",
+            "greeting": "T",
+            "room": "{",
+            "door": "string;",
+            "walls": "string[];"
+        }
+    },
+    {
+        "name": "fastify.md",
+        "path": "data/md/js_libraries/fastify.md",
+        "metadata": {
+            "title": "Fastify",
+            "category": "JavaScript libraries",
+            "layout": "2017/sheet",
+            "updated": "2017-09-23",
+            "See": "[point-of-view](https://github.com/fastify/point-of-view)",
+            "method": "'GET',",
+            "url": "'/',",
+            "schema": "{ \u00b7\u00b7\u00b7 },",
+            "handler": "(req, reply) => { \u00b7\u00b7\u00b7 }",
+            "beforeHandler": "(req, reply, done) => { \u00b7\u00b7\u00b7 }",
+            "querystring": "{",
+            "name": "{ type: 'string' },",
+            "excitement": "{ type: 'integer' }",
+            "response": "{",
+            "200": "{",
+            "type": "'object',",
+            "properties": "{",
+            "hello": "{ type: 'string' }",
+            "engine": "{",
+            "ejs": "require('ejs')",
+            "templates": "'/templates',",
+            "options": "{}"
+        }
+    },
+    {
+        "name": "webpack.md",
+        "path": "data/md/js_libraries/webpack.md",
+        "metadata": {
+            "title": "Webpack",
+            "category": "JavaScript libraries",
+            "layout": "2017/sheet",
+            "updated": "2017-09-26",
+            "intro": "|",
+            "context": "__dirname,",
+            "entry": "{",
+            "output": "{",
+            "path": "__dirname + '/public',",
+            "filename": "'[name].js'",
+            "app": "'src/app.js',",
+            "vendor": "'src/vendor.js'",
+            "module": "{",
+            "rules": "[",
+            "exclude": "/node_modules/,",
+            "use": "[",
+            "plugins": "["
+        }
+    },
+    {
+        "name": "meow.md",
+        "path": "data/md/js_libraries/meow.md",
+        "metadata": {
+            "title": "Meow",
+            "category": "JavaScript libraries",
+            "layout": "2017/sheet",
+            "updated": "2017-10-30",
+            "weight": "-1",
+            "intro": "|",
+            "Usage": "appname [options]",
+            "Options": "",
+            "string": "['lang'],",
+            "boolean": "['help', 'version'],",
+            "alias": "{ h: 'help', v: 'version' }",
+            "default": "{ lang: 'en' },",
+            "stopEarly": "true,",
+            "unknown": "function () { ... }"
+        }
+    },
+    {
+        "name": "tape.md",
+        "path": "data/md/js_libraries/tape.md",
+        "metadata": {
+            "title": "Tape",
+            "category": "JavaScript libraries",
+            "layout": "2017/sheet"
+        }
+    },
+    {
+        "name": "bookshelf.md",
+        "path": "data/md/js_libraries/bookshelf.md",
+        "metadata": {
+            "title": "Bookshelf.js",
+            "category": "JavaScript libraries",
+            "layout": "2017/sheet",
+            "tableName": "'summaries',",
+            "hasTimestamps": "['created_at', 'updated_at'],"
+        }
+    },
+    {
+        "name": "kotlin.md",
+        "path": "data/md/java_jvm/kotlin.md",
+        "metadata": {
+            "title": "Kotlin",
+            "layout": "2017/sheet",
+            "updated": "2018-12-06",
+            "category": "Java & JVM",
+            "prism_languages": "[kotlin]",
+            "intro": "|",
+            "Note": "`it` is the [implicit name for a single parameter](https://kotlinlang.org/docs/reference/lambdas.html#it-implicit-name-of-a-single-parameter)."
+        }
+    },
+    {
+        "name": "micronutrients.md",
+        "path": "data/md/fitness/micronutrients.md",
+        "metadata": {
+            "title": "Essential micronutrients",
+            "category": "Fitness",
+            "layout": "2017/sheet",
+            "See": "[whfoods.com](http://www.whfoods.com/genpage.php?tname=nutrient&dbid=70)"
+        }
+    },
+    {
+        "name": "general.md",
+        "path": "data/md/fitness/general.md",
+        "metadata": {
+            "title": "General fitness notes",
+            "category": "Fitness",
+            "layout": "2017/sheet",
+            "See": "[531 and Bodybuilding](http://www.jimwendler.com/2012/09/531-and-bodybuilding/) _(jimwendler.com)_"
+        }
+    },
+    {
+        "name": "phat.md",
+        "path": "data/md/fitness/phat.md",
+        "metadata": {
+            "title": "Phat",
+            "category": "Fitness",
+            "layout": "2017/sheet",
+            "updated": "2017-08-30"
+        }
+    },
+    {
+        "name": "js-lazy.md",
+        "path": "data/md/javascript/js-lazy.md",
+        "metadata": {
+            "title": "JavaScript lazy shortcuts",
+            "category": "JavaScript",
+            "layout": "2017/sheet"
+        }
+    },
+    {
+        "name": "vue@1.0.28.md",
+        "path": "data/md/javascript/vue@1.0.28.md",
+        "metadata": {
+            "title": "Vue.js v1.0.28",
+            "category": "JavaScript",
+            "layout": "2017/sheet",
+            "deprecated": "true",
+            "weight": "-10",
+            "intro": "|",
+            "components": "{},",
+            "data": "{ ... }",
+            "props": "{ size: Number },",
+            "computed": "{ fullname() { return this.name + ' ' + this.lastName } },",
+            "methods": "{ go() { ... } },",
+            "watch": "{ a (val, oldVal) { ... } },",
+            "el": "'#foo',",
+            "template": "'...',",
+            "replace": "true, // replace element (default true)",
+            "directives": "{},",
+            "elementDirectives": "{},",
+            "filters": "{},",
+            "transitions": "{},",
+            "partials": "{}",
+            "msg": "'Hello world!'"
+        }
+    },
+    {
+        "name": "jsdoc.md",
+        "path": "data/md/javascript/jsdoc.md",
+        "metadata": {
+            "title": "Jsdoc",
+            "category": "JavaScript",
+            "layout": "2017/sheet",
+            "updated": "2020-06-23",
+            "weight": "-1",
+            "See": "<https://jsdoc.app/tags-typedef.html>"
+        }
+    },
+    {
+        "name": "es6.md",
+        "path": "data/md/javascript/es6.md",
+        "metadata": {
+            "title": "'The Silkworm',",
+            "category": "JavaScript",
+            "layout": "2017/sheet",
+            "tags": "[Featured]",
+            "updated": "2019-11-14",
+            "weight": "-10",
+            "intro": "|",
+            "See": "[For..of iteration](https://babeljs.io/learn-es2015/#iterators--forof)",
+            "author": "'R. Galbraith'",
+            "visible": "true",
+            "result": "n * 2"
+        }
+    },
+    {
+        "name": "dom-selection.md",
+        "path": "data/md/javascript/dom-selection.md",
+        "metadata": {
+            "title": "DOM Selection",
+            "category": "JavaScript",
+            "layout": "2017/sheet",
+            "intro": "|",
+            "See": "<https://devdocs.io/dom/selection>"
+        }
+    },
+    {
+        "name": "js-fetch.md",
+        "path": "data/md/javascript/js-fetch.md",
+        "metadata": {
+            "title": "fetch()",
+            "category": "JavaScript",
+            "layout": "2017/sheet",
+            "weight": "-3",
+            "method": "'post',",
+            "body": "JSON.stringify(...),",
+            "headers": "{",
+            "credentials": "'include',     // send cookies, even in CORS",
+            "See": "[isomorphic-fetch](https://npmjs.com/package/isomorphic-fetch) _(npmjs.com)_"
+        }
+    },
+    {
+        "name": "vue.md",
+        "path": "data/md/javascript/vue.md",
+        "metadata": {
+            "title": "Vue.js",
+            "category": "JavaScript",
+            "layout": "2017/sheet",
+            "updated": "2019-12-26",
+            "weight": "-10",
+            "intro": "|",
+            "See": "[Slots](https://vuejs.org/v2/guide/components-slots.html)",
+            "components": "{",
+            "props": "{",
+            "message": "String,",
+            "product": "Object,",
+            "email": "{",
+            "type": "String,",
+            "required": "true,",
+            "default": "\"none\"",
+            "validator": "function (value) {",
+            "data": "function () {",
+            "firstName": "function (value, oldValue) { ... }",
+            "lastName": "'Mastery'",
+            "computed": "{",
+            "fullName": "function () {",
+            "watch": "{",
+            "methods": "{",
+            "template": "'<span>{{ message }}</span>',",
+            "incWithVal": "function (toAdd) { ... }",
+            "greeting": "'Hello'"
+        }
+    },
+    {
+        "name": "canvas.md",
+        "path": "data/md/javascript/canvas.md",
+        "metadata": {
+            "title": "Canvas",
+            "category": "JavaScript",
+            "layout": "2017/sheet",
+            "Saves": "`strokeStyle` `fillStyle` `globalAlpha` `lineWidth` `lineCap` `lineJoin` `miterLimit` `shadowOffsetX` `shadowOffsetY` `shadowBlur` `shadowColor`",
+            "onframe": "function() {"
+        }
+    },
+    {
+        "name": "web-workers.md",
+        "path": "data/md/javascript/web-workers.md",
+        "metadata": {
+            "title": "Web workers",
+            "category": "JavaScript",
+            "updated": "2017-10-30",
+            "layout": "2017/sheet",
+            "weight": "-1",
+            "bubbles": "false",
+            "cancelBubble": "false",
+            "cancelable": "false",
+            "clipboardData": "undefined",
+            "currentTarget": "Worker",
+            "data": "\"Hello\"             \u2190 the data",
+            "defaultPrevented": "false",
+            "eventPhase": "0",
+            "lastEventId": "\"\"",
+            "origin": "\"\"",
+            "ports": "Array[0]",
+            "returnValue": "true",
+            "source": "null",
+            "srcElement": "Worker",
+            "target": "Worker",
+            "timeStamp": "1344821022383",
+            "type": "\"message\""
+        }
+    },
+    {
+        "name": "dom-range.md",
+        "path": "data/md/javascript/dom-range.md",
+        "metadata": {
+            "title": "DOM Range",
+            "category": "JavaScript",
+            "layout": "2017/sheet",
+            "intro": "|",
+            "See": "<https://devdocs.io/dom/range>"
+        }
+    },
+    {
+        "name": "js-array.md",
+        "path": "data/md/javascript/js-array.md",
+        "metadata": {
+            "title": "JavaScript Arrays",
+            "category": "JavaScript",
+            "layout": "2017/sheet"
+        }
+    },
+    {
+        "name": "js-speech.md",
+        "path": "data/md/javascript/js-speech.md",
+        "metadata": {
+            "title": "JavaScript speech synthesis",
+            "category": "JavaScript",
+            "layout": "2017/sheet",
+            "weight": "-1",
+            "See": "[SpeechSynthesisUtterance](https://developer.mozilla.org/en-US/docs/Web/API/SpeechSynthesisUtterance) _(developer.mozilla.org)_"
+        }
+    },
+    {
+        "name": "promise.md",
+        "path": "data/md/javascript/promise.md",
+        "metadata": {
+            "title": "Promises",
+            "category": "JavaScript",
+            "layout": "2017/sheet",
+            "intro": "A quick reference to the JavaScript [Promise API](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Promise)."
+        }
+    },
+    {
+        "name": "js-appcache.md",
+        "path": "data/md/javascript/js-appcache.md",
+        "metadata": {
+            "title": "applicationCache",
+            "category": "JavaScript",
+            "layout": "2017/sheet"
+        }
+    },
+    {
+        "name": "js-model.md",
+        "path": "data/md/javascript/js-model.md",
+        "metadata": {
+            "title": "js-model",
+            "category": "JavaScript libraries",
+            "layout": "2017/sheet",
+            "findByTitle": "(title) -> ...",
+            "markAsDone": "-> ..."
+        }
+    },
+    {
+        "name": "npm.md",
+        "path": "data/md/javascript/npm.md",
+        "metadata": {
+            "title": "npm",
+            "category": "JavaScript",
+            "layout": "2017/sheet",
+            "weight": "-1",
+            "updated": "2019-12-24"
+        }
+    },
+    {
+        "name": "do.md",
+        "path": "data/md/ruby_libraries/do.md",
+        "metadata": {
+            "title": "Do gem",
+            "category": "Ruby libraries",
+            "layout": "2017/sheet"
+        }
+    },
+    {
+        "name": "chunky_png.md",
+        "path": "data/md/ruby_libraries/chunky_png.md",
+        "metadata": {
+            "title": "Chunky PNG",
+            "category": "Ruby libraries",
+            "layout": "2017/sheet"
+        }
+    },
+    {
+        "name": "pry.md",
+        "path": "data/md/ruby_libraries/pry.md",
+        "metadata": {
+            "title": "Pry",
+            "category": "Ruby libraries",
+            "layout": "2017/sheet",
+            "Pry": ":rescue {"
+        }
+    },
+    {
+        "name": "rack-test.md",
+        "path": "data/md/ruby_libraries/rack-test.md",
+        "metadata": {
+            "title": "rack-test",
+            "category": "Ruby libraries",
+            "layout": "2017/sheet"
+        }
+    },
+    {
+        "name": "capybara.md",
+        "path": "data/md/ruby_libraries/capybara.md",
+        "metadata": {
+            "title": "Capybara",
+            "category": "Ruby libraries",
+            "layout": "2017/sheet",
+            "weight": "-5",
+            "updated": "2020-06-13",
+            "tags": "[Featurable]",
+            "selected": "'German'",
+            "options": "['Engish', 'German']",
+            "with_options": "['Engish', 'German'] # partial match",
+            "type": ":visible # or :all",
+            "text": "/Hello/",
+            "visible": "true",
+            "count": "4",
+            "between": "2..5",
+            "minimum": "2",
+            "maximum": "5",
+            "wait": "10",
+            "See": "<https://www.rubydoc.info/github/jnicklas/capybara/master/Capybara/Session>",
+            "Capybara": ":Poltergeist::Driver.new(app, :inspector => true)",
+            "Alternatively": ""
+        }
+    },
+    {
+        "name": "factory_bot.md",
+        "path": "data/md/ruby_libraries/factory_bot.md",
+        "metadata": {
+            "title": "Factory Bot",
+            "category": "Ruby libraries",
+            "layout": "2017/sheet",
+            "weight": "-3",
+            "updated": "2020-07-06",
+            "keywords": "",
+            "tags": "[Featurable]",
+            "See": "[Transient attributes](http://www.rubydoc.info/gems/factory_bot/file/GETTING_STARTED.md#Transient_Attributes)"
+        }
+    },
+    {
+        "name": "ffaker.md",
+        "path": "data/md/ruby_libraries/ffaker.md",
+        "metadata": {
+            "title": "FFaker",
+            "category": "Ruby libraries",
+            "layout": "2017/sheet",
+            "updated": "2017-09-12",
+            "Faker": ":PhoneNumberSN.phone_number       #=> \"77-356-93-09\""
+        }
+    },
+    {
+        "name": "ronn.md",
+        "path": "data/md/ruby_libraries/ronn.md",
+        "metadata": {
+            "title": "Ronn",
+            "category": "Ruby libraries",
+            "layout": "2017/sheet",
+            "updated": "2017-10-15",
+            "weight": "-1",
+            "prism_languages": "[bash, ruby, json, markdown]",
+            "intro": "|"
+        }
+    },
+    {
+        "name": "sequel.md",
+        "path": "data/md/ruby_libraries/sequel.md",
+        "metadata": {
+            "title": "Sequel",
+            "category": "Ruby libraries",
+            "layout": "2017/sheet",
+            "http": "//sequel.rubyforge.org/rdoc/classes/Sequel/Model.html",
+            "left_key": ":deal_id,",
+            "right_key": ":image_id,",
+            "join_table": ":image_links",
+            "key": ":deal_id,",
+            "class": ":DataFile,"
+        }
+    },
+    {
+        "name": "machinist.md",
+        "path": "data/md/ruby_libraries/machinist.md",
+        "metadata": {
+            "title": "Machinist",
+            "category": "Ruby libraries",
+            "layout": "2017/sheet",
+            "tags": "[Archived]",
+            "archived": "Machinist has not been in active development since 2013."
+        }
+    },
+    {
+        "name": "slim.md",
+        "path": "data/md/ruby_libraries/slim.md",
+        "metadata": {
+            "title": "Slim",
+            "category": "Ruby libraries",
+            "layout": "2017/sheet",
+            "prism_languages": "[jade]",
+            "weight": "-1",
+            "ruby": "",
+            "markdown": "",
+            "javascript": "",
+            "li": "a(href='/') Home"
+        }
+    },
+    {
+        "name": "meta-tags.md",
+        "path": "data/md/ruby_libraries/meta-tags.md",
+        "metadata": {
+            "title": "'Member Login',",
+            "category": "Ruby libraries",
+            "layout": "2017/sheet",
+            "weight": "-1",
+            "updated": "2017-09-08",
+            "site": "'Site Title',",
+            "reverse": "true,",
+            "separator": "'&middot;'.html_safe"
+        }
+    },
+    {
+        "name": "psdrb.md",
+        "path": "data/md/ruby_libraries/psdrb.md",
+        "metadata": {
+            "title": "PSD.rb",
+            "category": "Ruby libraries",
+            "layout": "2017/sheet",
+            "intro": "|"
+        }
+    },
+    {
+        "name": "flux.md",
+        "path": "data/md/react/flux.md",
+        "metadata": {
+            "title": "Flux architecture",
+            "category": "React",
+            "layout": "2017/sheet",
+            "source": "'VIEW_ACTION',",
+            "action": "action"
+        }
+    },
+    {
+        "name": "react@0.14.md",
+        "path": "data/md/react/react@0.14.md",
+        "metadata": {
+            "title": "React.js (v0.14)",
+            "category": "React",
+            "layout": "2017/sheet",
+            "deprecated": "true",
+            "intro": "|",
+            "render": "function() {",
+            "getInitialState": "function () {",
+            "getDefaultProps": "function () {",
+            "componentDidMount": "function () {",
+            "handleChange": "function(event) {",
+            "Email": "<input type=\"text\" valueLink={this.linkState('email')} />",
+            "mixins": "[SetIntervalMixin]",
+            "propTypes": "{",
+            "email": "React.PropTypes.string,",
+            "seats": "React.PropTypes.number,",
+            "settings": "React.PropTypes.object,",
+            "callback": "React.PropTypes.func,",
+            "isClosed": "React.PropTypes.bool,",
+            "any": "React.PropTypes.any,",
+            "requiredFunc": "React.PropTypes.func.isRequired,",
+            "requiredAny": "React.PropTypes.any.isRequired,",
+            "element": "React.PropTypes.element,  // react element",
+            "node": "React.PropTypes.node,     // num, string, element",
+            "enum": "React.PropTypes.oneOf(['M','F']),  // enum",
+            "union": "React.PropTypes.oneOfType([        // any",
+            "array": "React.PropTypes.array,",
+            "arrayOf": "React.PropTypes.arrayOf(React.PropTypes.number),",
+            "object": "React.PropTypes.object,",
+            "objectOf": "React.PropTypes.objectOf(React.PropTypes.number),",
+            "message": "React.PropTypes.instanceOf(Message),",
+            "object2": "React.PropTypes.shape({",
+            "color": "React.PropTypes.string,",
+            "size": "React.PropTypes.number",
+            "customProp": "function(props, propName, componentName) {",
+            "componentWillMount": "function() { .. }"
+        }
+    },
+    {
+        "name": "redux.md",
+        "path": "data/md/react/redux.md",
+        "metadata": {
+            "title": "Redux",
+            "category": "React",
+            "layout": "2017/sheet",
+            "updated": "2018-01-17",
+            "weight": "-3",
+            "default": "",
+            "message": "state.message",
+            "onMessageClick": "(message) => {"
+        }
+    },
+    {
+        "name": "enzyme.md",
+        "path": "data/md/react/enzyme.md",
+        "metadata": {
+            "title": "Enzyme",
+            "category": "React",
+            "layout": "2017/sheet",
+            "updated": "2020-02-12",
+            "tags": "[Featured]",
+            "weight": "-1",
+            "keywords": "",
+            "See": "[Full rendering API](https://airbnb.io/enzyme/docs/api/mount.html)",
+            "target": "{ value: 'hello' }"
+        }
+    },
+    {
+        "name": "react-router.md",
+        "path": "data/md/react/react-router.md",
+        "metadata": {
+            "title": "React-router",
+            "category": "React",
+            "layout": "2017/sheet",
+            "componentDidMount": "function () {",
+            "routes": "<Route>...</Route>,",
+            "location": "Router.HistoryLocation",
+            "mixins": "[ Navigation ], ..."
+        }
+    },
+    {
+        "name": "react.md",
+        "path": "data/md/react/react.md",
+        "metadata": {
+            "title": "React.js",
+            "category": "React",
+            "layout": "2017/sheet",
+            "ads": "true",
+            "tags": "[Featured]",
+            "updated": "2020-07-05",
+            "weight": "-10",
+            "keywords": "",
+            "intro": "|",
+            "See": "[Typechecking with PropTypes](https://reactjs.org/docs/typechecking-with-proptypes.html)",
+            "color": "'blue'",
+            "email": "PropTypes.string,",
+            "seats": "PropTypes.number,",
+            "callback": "PropTypes.func,",
+            "isClosed": "PropTypes.bool,",
+            "any": "PropTypes.any",
+            "name": "PropTypes.string,",
+            "element": "PropTypes.element,",
+            "node": "PropTypes.node",
+            "direction": "PropTypes.oneOf([",
+            "list": "PropTypes.array,",
+            "ages": "PropTypes.arrayOf(PropTypes.number),",
+            "user": "PropTypes.shape({",
+            "message": "PropTypes.instanceOf(Message)",
+            "age": "PropTypes.number",
+            "customProp": "(props, key, componentName) => {"
+        }
+    },
+    {
+        "name": "enzyme@2.md",
+        "path": "data/md/react/enzyme@2.md",
+        "metadata": {
+            "title": "Enzyme v2",
+            "category": "React",
+            "layout": "2017/sheet",
+            "updated": "2017-10-12",
+            "weight": "-1",
+            "deprecated_by": "/enzyme",
+            "See": "[Full rendering API](http://airbnb.io/enzyme/docs/api/mount.html)"
+        }
+    },
+    {
+        "name": "awesome-redux.md",
+        "path": "data/md/react/awesome-redux.md",
+        "metadata": {
+            "title": "Awesome Redux",
+            "category": "React",
+            "layout": "2017/sheet",
+            "updated": "2017-11-19",
+            "type": "'FETCH'",
+            "payload": "{url: '/some/thing', method: 'GET'}",
+            "meta": "{",
+            "steps": "[ [success, failure] ]"
+        }
+    },
+    {
+        "name": "ruby21.md",
+        "path": "data/md/ruby/ruby21.md",
+        "metadata": {
+            "title": "Ruby 2.1",
+            "category": "Ruby",
+            "layout": "2017/sheet",
+            "tags": "[Archived]",
+            "intro": "|"
+        }
+    },
+    {
+        "name": "stimulus-reflex.md",
+        "path": "data/md/ruby/stimulus-reflex.md",
+        "metadata": {
+            "title": "StimulusReflex",
+            "category": "Ruby",
+            "layout": "2017/sheet",
+            "updated": "2021-01-07"
+        }
+    },
+    {
+        "name": "rubygems.md",
+        "path": "data/md/ruby/rubygems.md",
+        "metadata": {
+            "title": "Rubygems",
+            "category": "Ruby",
+            "layout": "2017/sheet",
+            "intro": "|"
+        }
+    },
+    {
+        "name": "rake.md",
+        "path": "data/md/ruby/rake.md",
+        "metadata": {
+            "title": "Rake",
+            "category": "Ruby",
+            "layout": "2017/sheet"
+        }
+    },
+    {
+        "name": "rbenv.md",
+        "path": "data/md/ruby/rbenv.md",
+        "metadata": {
+            "title": "rbenv",
+            "category": "Ruby",
+            "layout": "2017/sheet",
+            "updated": "2018-02-20",
+            "weight": "-1",
+            "description": "|",
+            "intro": "|",
+            "See": "[Installation](https://github.com/rbenv/rbenv#installation)"
+        }
+    },
+    {
+        "name": "bundler.md",
+        "path": "data/md/ruby/bundler.md",
+        "metadata": {
+            "title": "Bundler",
+            "category": "Ruby",
+            "layout": "2017/sheet",
+            "Terminal": ""
+        }
+    },
+    {
+        "name": "rspec.md",
+        "path": "data/md/ruby/rspec.md",
+        "metadata": {
+            "title": "RSpec",
+            "category": "Ruby",
+            "layout": "2017/sheet",
+            "https": "//relishapp.com/rspec/rspec-mocks/docs"
+        }
+    },
+    {
+        "name": "ruby.md",
+        "path": "data/md/ruby/ruby.md",
+        "metadata": {
+            "title": "Ruby",
+            "category": "Ruby",
+            "tags": "[WIP]",
+            "layout": "2017/sheet",
+            "intro": "|"
+        }
+    },
+    {
+        "name": "goby.md",
+        "path": "data/md/ruby/goby.md",
+        "metadata": {
+            "title": "Goby",
+            "layout": "2017/sheet",
+            "prism_languages": "[ruby]",
+            "weight": "-3",
+            "updated": "2018-12-06",
+            "category": "Ruby",
+            "intro": "|",
+            "Foo": ":Bar::MAGIC      # Use '::' for namespacing",
+            "Experimental": "the size is arbitrary and internally a fraction from Golang's `big.Rat` type. Decimal literal is TBD for now and you can get `Decimal` number via `to_d` method from `Integer`/`Float`/`String`."
+        }
+    },
+    {
+        "name": "minimist-ruby.md",
+        "path": "data/md/ruby/minimist-ruby.md",
+        "metadata": {
+            "title": "minimist ruby",
+            "category": "JavaScript libraries",
+            "layout": "2017/sheet",
+            "string": "[ 'lang' ],",
+            "boolean": "[ 'pager' ],",
+            "alias": "{ h: \"help\", v: \"version\" },",
+            "default": "{ lang: 'en' },",
+            "stopEarly": "true, /* populate _ with first non-option */",
+            "unknown": "function () { ... } /* invoked on unknown param */",
+            "lang": "'xml',",
+            "version": "false,",
+            "h": "true,",
+            "help": "true,",
+            "_": "[ 'index.js', 'package.json' ]",
+            "Usage": "",
+            "Options": ""
+        }
+    },
+    {
+        "name": "activeadmin.md",
+        "path": "data/md/ruby/activeadmin.md",
+        "metadata": {
+            "title": "ActiveAdmin",
+            "category": "Ruby",
+            "layout": "2017/sheet"
+        }
+    },
+    {
+        "name": "rspec-rails.md",
+        "path": "data/md/ruby/rspec-rails.md",
+        "metadata": {
+            "title": "Rspec-rails",
+            "category": "Ruby",
+            "layout": "2017/sheet",
+            "controller": "\"profiles\",",
+            "action": "\"show\",",
+            "username": "\"jsmith\""
+        }
+    },
+    {
+        "name": "git-tricks.md",
+        "path": "data/md/git/git-tricks.md",
+        "metadata": {
+            "title": "Git tricks",
+            "category": "Git",
+            "layout": "2017/sheet"
+        }
+    },
+    {
+        "name": "git-revisions.md",
+        "path": "data/md/git/git-revisions.md",
+        "metadata": {
+            "title": "Git revisions",
+            "category": "Git",
+            "layout": "2017/sheet",
+            "updated": "2017-10-11",
+            "description": "\"\"",
+            "intro": "|"
+        }
+    },
+    {
+        "name": "git-log-format.md",
+        "path": "data/md/git/git-log-format.md",
+        "metadata": {
+            "title": "Git log format string",
+            "category": "Git",
+            "layout": "2017/sheet",
+            "updated": "2017-10-18",
+            "weight": "-1",
+            "keywords": ""
+        }
+    },
+    {
+        "name": "tig.md",
+        "path": "data/md/git/tig.md",
+        "metadata": {
+            "title": "Tig",
+            "category": "Git",
+            "layout": "2017/sheet",
+            "updated": "2022-12-08",
+            "weight": "-3"
+        }
+    },
+    {
+        "name": "git-log.md",
+        "path": "data/md/git/git-log.md",
+        "metadata": {
+            "title": "git log",
+            "category": "Git",
+            "layout": "2017/sheet",
+            "See": "[Git log format cheatsheet](./git-log-format)"
+        }
+    },
+    {
+        "name": "git-branch.md",
+        "path": "data/md/git/git-branch.md",
+        "metadata": {
+            "title": "Git branches",
+            "category": "Git",
+            "layout": "2017/sheet",
+            "updated": "2020-02-13"
+        }
+    },
+    {
+        "name": "git-extras.md",
+        "path": "data/md/git/git-extras.md",
+        "metadata": {
+            "title": "Git extras",
+            "category": "Git",
+            "layout": "2017/sheet",
+            "intro": "|"
+        }
+    },
+    {
+        "name": "analytics.js.md",
+        "path": "data/md/analytics/analytics.js.md",
+        "metadata": {
+            "title": "Google Analytics's analytics.js",
+            "category": "Analytics",
+            "layout": "2017/sheet",
+            "updated": "2017-10-29",
+            "intro": "|",
+            "exDescription": "\"DatabaseError\",",
+            "exFatal": "false,",
+            "appName": "\"myapp\",",
+            "appVersion": "\"0.1.2\","
+        }
+    },
+    {
+        "name": "analytics.md",
+        "path": "data/md/analytics/analytics.md",
+        "metadata": {
+            "title": "Analytics libraries",
+            "layout": "2017/sheet",
+            "category": "Analytics"
+        }
+    },
+    {
+        "name": "mixpanel.md",
+        "path": "data/md/analytics/mixpanel.md",
+        "metadata": {
+            "title": "Mixpanel",
+            "layout": "2017/sheet",
+            "category": "Analytics"
+        }
+    },
+    {
+        "name": "rails.md",
+        "path": "data/md/rails/rails.md",
+        "metadata": {
+            "title": "Rails",
+            "category": "Rails",
+            "http": "//apidock.com/rails/ActionController/Base"
+        }
+    },
+    {
+        "name": "rails-models.md",
+        "path": "data/md/rails/rails-models.md",
+        "metadata": {
+            "title": "Rails models",
+            "category": "Rails",
+            "layout": "2017/sheet",
+            "See": "[ActiveRecord Callbacks](https://guides.rubyonrails.org/active_record_callbacks.html)",
+            "Advanced": "",
+            "minimum": "300,",
+            "maximum": "400,",
+            "tokenizer": "lambda { |str| str.scan(/\\w+/) },",
+            "too_short": "\"must have at least %{count} words\",",
+            "too_long": "\"must have at most %{count} words\" }",
+            "preferences": "{"
+        }
+    },
+    {
+        "name": "rails-i18n.md",
+        "path": "data/md/rails/rails-i18n.md",
+        "metadata": {
+            "title": "\"T\u00edtulo\"",
+            "category": "Rails",
+            "layout": "2017/sheet",
+            "en": "",
+            "my": "",
+            "messages": "",
+            "hello": "\"Hello %{name}\"",
+            "books": "",
+            "index": "",
+            "inbox": "",
+            "one": "\"Child\"",
+            "other": "\"Children\"",
+            "time": "",
+            "formats": "",
+            "default": "\"%Y-%m-%d\" # 2015-06-25",
+            "long": "\"%B %d, %Y\"   # June 25, 2015",
+            "short": "\"%b %d\"      # Jun 25",
+            "date": "",
+            "activerecord": "",
+            "models": "",
+            "user": "",
+            "child": "",
+            "attributes": "",
+            "name": "",
+            "email": "\"Email\"",
+            "errors": "",
+            "venue": "",
+            "blank": "\"Please enter a name.\"",
+            "helpers": "",
+            "label": "",
+            "post": "",
+            "body": "\"Your body text\"",
+            "submit": "",
+            "create": "\"Publish article\"",
+            "update": "\"Update article\"",
+            "article": "",
+            "number": "",
+            "format": "\"%n%\"",
+            "separator": "'.'",
+            "delimiter": "','",
+            "precision": "3",
+            "significant": "false",
+            "strip_insignificant_zeroes": "false",
+            "currency": "",
+            "unit": "\"$\"",
+            "percentage": ""
+        }
+    },
+    {
+        "name": "rails-plugins.md",
+        "path": "data/md/rails/rails-plugins.md",
+        "metadata": {
+            "title": "Rails plugins",
+            "category": "Rails",
+            "layout": "2017/sheet",
+            "ActiveSupport": ":Notifications.subscribe do |*args|",
+            "ActiveRecord": ":Base.send :include, Yaffle::ActsAsYaffle"
+        }
+    },
+    {
+        "name": "rails-forms.md",
+        "path": "data/md/rails/rails-forms.md",
+        "metadata": {
+            "title": "Rails form helpers",
+            "category": "Rails",
+            "layout": "2017/sheet",
+            "url": "{ method: 'put', action: 'create' }, |",
+            "html": "{ class: 'nifty_form' } |",
+            "helpers": "",
+            "submit": "",
+            "create": "\"Publish article\"",
+            "update": "\"Update article\"",
+            "article": "",
+            "label": "",
+            "post": "",
+            "body": "\"Your body text\""
+        }
+    },
+    {
+        "name": "rails-controllers.md",
+        "path": "data/md/rails/rails-controllers.md",
+        "metadata": {
+            "title": "Rails controllers",
+            "category": "Rails",
+            "layout": "2017/sheet",
+            "ActiveRecord": ":Base.transaction { yield }"
+        }
+    },
+    {
+        "name": "rails-migrations.md",
+        "path": "data/md/rails/rails-migrations.md",
+        "metadata": {
+            "title": "Rails migrations",
+            "category": "Rails",
+            "layout": "2017/sheet",
+            "ActiveRecord": ":Migration.add_index :posts, :slug"
+        }
+    },
+    {
+        "name": "rails-routes.md",
+        "path": "data/md/rails/rails-routes.md",
+        "metadata": {
+            "title": "Routes",
+            "category": "Rails",
+            "layout": "2017/sheet",
+            "path_names": "{ new: 'brand_new' }    # /photos/1/brand_new",
+            "path": "'postings'                    # /postings",
+            "only": "[:index, :show]",
+            "except": "[:index, :show]",
+            "shallow": "true                       # also generate shallow routes",
+            "shalow_path": "'secret'",
+            "shallow_prefix": "'secret'",
+            "TwitterClone": ":Application.routes.draw do"
+        }
+    },
+    {
+        "name": "rails-tricks.md",
+        "path": "data/md/rails/rails-tricks.md",
+        "metadata": {
+            "title": "Rails tricks",
+            "category": "Rails",
+            "layout": "2017/sheet",
+            "tags": "[Archived]",
+            "archived": "This sheet may describe practices that might be outdated.",
+            "en": "",
+            "read_more_html": "\"read <b>more</b>...\""
+        }
+    },
+    {
+        "name": "rails-helpers.md",
+        "path": "data/md/rails/rails-helpers.md",
+        "metadata": {
+            "title": "Rails helpers",
+            "category": "Rails",
+            "layout": "2017/sheet",
+            "include_seconds": "true,",
+            "minute_step": "15,",
+            "prompt": "{ day: 'Select day', month: 'Select month', year: 'Select year' }",
+            "ampm": "true",
+            "start_year": "1995,",
+            "use_month_numbers": "true,",
+            "discard_day": "true,",
+            "include_blank": "true,",
+            "order": "[:day, :month, :year],",
+            "default": "{ day: 20 },",
+            "format": ":short_date # (en.time.formats.short_date)"
+        }
+    },
+    {
+        "name": "arel.md",
+        "path": "data/md/rails/arel.md",
+        "metadata": {
+            "title": "Arel",
+            "category": "Rails",
+            "layout": "2017/sheet"
+        }
+    }
+]

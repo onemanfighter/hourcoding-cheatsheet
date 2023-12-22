@@ -1,0 +1,268 @@
+[
+    {
+        "name": "clip.md",
+        "path": "data/md/cli/clip.md",
+        "metadata": {
+            "title": "Command Line Interface Pages",
+            "category": "CLI",
+            "layout": "2017/sheet",
+            "updated": "2023-02-23",
+            "keywords": ""
+        }
+    },
+    {
+        "name": "tig.md",
+        "path": "data/md/git/tig.md",
+        "metadata": {
+            "title": "Tig",
+            "category": "Git",
+            "layout": "2017/sheet",
+            "updated": "2022-12-08",
+            "weight": "-3"
+        }
+    },
+    {
+        "name": "atom.md",
+        "path": "data/md/app/atom.md",
+        "metadata": {
+            "title": "Atom",
+            "category": "Apps",
+            "layout": "2017/sheet",
+            "updated": "2021-09-10",
+            "See": "[Symbols view](https://atom.io/packages/symbols-view)"
+        }
+    },
+    {
+        "name": "tar.md",
+        "path": "data/md/cli/tar.md",
+        "metadata": {
+            "title": "tar",
+            "category": "CLI",
+            "layout": "2017/sheet",
+            "updated": "2022-08-11",
+            "intro": "Concatenate, Deflate, Inflate files"
+        }
+    },
+    {
+        "name": "grep.md",
+        "path": "data/md/cli/grep.md",
+        "metadata": {
+            "title": "GNU grep",
+            "category": "CLI",
+            "layout": "2017/sheet",
+            "updated": "2021-08-23"
+        }
+    },
+    {
+        "name": "screen.md",
+        "path": "data/md/cli/screen.md",
+        "metadata": {
+            "title": "Screen",
+            "category": "CLI",
+            "layout": "2017/sheet",
+            "updated": "2020-12-05",
+            "keywords": "",
+            "intro": "|"
+        }
+    },
+    {
+        "name": "factory_bot.md",
+        "path": "data/md/ruby_libraries/factory_bot.md",
+        "metadata": {
+            "title": "Factory Bot",
+            "category": "Ruby libraries",
+            "layout": "2017/sheet",
+            "weight": "-3",
+            "updated": "2020-07-06",
+            "keywords": "",
+            "tags": "[Featurable]",
+            "See": "[Transient attributes](http://www.rubydoc.info/gems/factory_bot/file/GETTING_STARTED.md#Transient_Attributes)"
+        }
+    },
+    {
+        "name": "stimulus-reflex.md",
+        "path": "data/md/ruby/stimulus-reflex.md",
+        "metadata": {
+            "title": "StimulusReflex",
+            "category": "Ruby",
+            "layout": "2017/sheet",
+            "updated": "2021-01-07"
+        }
+    },
+    {
+        "name": "vim.md",
+        "path": "data/md/vim/vim.md",
+        "metadata": {
+            "title": "Vim",
+            "category": "Vim",
+            "layout": "2017/sheet",
+            "tags": "[Featured]",
+            "updated": "2020-07-05",
+            "weight": "-10",
+            "intro": "|",
+            "See": "`:help motion.txt`"
+        }
+    },
+    {
+        "name": "vimscript.md",
+        "path": "data/md/vim/vimscript.md",
+        "metadata": {
+            "title": "Vim scripting",
+            "category": "Vim",
+            "prism_languages": "[vim]",
+            "layout": "2017/sheet",
+            "updated": "2020-07-05",
+            "weight": "-10",
+            "tags": "[Featurable]",
+            "See": "[Running keystrokes](http://learnvimscriptthehardway.stevelosh.com/chapters/29.html)",
+            "flags": ""
+        }
+    },
+    {
+        "name": "react.md",
+        "path": "data/md/react/react.md",
+        "metadata": {
+            "title": "React.js",
+            "category": "React",
+            "layout": "2017/sheet",
+            "ads": "true",
+            "tags": "[Featured]",
+            "updated": "2020-07-05",
+            "weight": "-10",
+            "keywords": "",
+            "intro": "|",
+            "See": "[Typechecking with PropTypes](https://reactjs.org/docs/typechecking-with-proptypes.html)",
+            "color": "'blue'",
+            "email": "PropTypes.string,",
+            "seats": "PropTypes.number,",
+            "callback": "PropTypes.func,",
+            "isClosed": "PropTypes.bool,",
+            "any": "PropTypes.any",
+            "name": "PropTypes.string,",
+            "element": "PropTypes.element,",
+            "node": "PropTypes.node",
+            "direction": "PropTypes.oneOf([",
+            "list": "PropTypes.array,",
+            "ages": "PropTypes.arrayOf(PropTypes.number),",
+            "user": "PropTypes.shape({",
+            "message": "PropTypes.instanceOf(Message)",
+            "age": "PropTypes.number",
+            "customProp": "(props, key, componentName) => {"
+        }
+    },
+    {
+        "name": "httpie.md",
+        "path": "data/md/cli/httpie.md",
+        "metadata": {
+            "title": "httpie",
+            "category": "CLI",
+            "layout": "2017/sheet",
+            "weight": "-3",
+            "updated": "2020-07-05",
+            "description": "|",
+            "Origin": "example.com \\  # :   HTTP headers",
+            "age": "=29 \\             # :=  for non-strings",
+            "list": "='[1,3,4]' \\     # :=  json",
+            "user": "=@user.json      # :=@ read from file (json)"
+        }
+    },
+    {
+        "name": "mysql.md",
+        "path": "data/md/databases/mysql.md",
+        "metadata": {
+            "title": "MySQL",
+            "updated": "2020-07-05",
+            "layout": "2017/sheet",
+            "category": "Databases"
+        }
+    },
+    {
+        "name": "flow.md",
+        "path": "data/md/js_libraries/flow.md",
+        "metadata": {
+            "title": "Flow",
+            "layout": "2017/sheet",
+            "category": "JavaScript libraries",
+            "updated": "2020-07-05",
+            "weight": "-3",
+            "tags": "[Featurable]",
+            "See": "[Functions](https://flow.org/en/docs/types/functions/)",
+            "name": "'Miguel Migs',",
+            "age": "number,",
+            "isAdmin": "boolean,",
+            "likes": "Array<string>",
+            "label": "'Naked Music',",
+            "genre": "'House' // \u2717 Error",
+            "US": "\"United States\",",
+            "IT": "\"Italy\",",
+            "FR": "\"France\"",
+            "foo": "T",
+            "bar": "number,",
+            "qux": "(foo: string, bar: number) => boolean",
+            "x": "T",
+            "list": "Array<T>,",
+            "callback": "(item: T) => boolean",
+            "open": "boolean,"
+        }
+    },
+    {
+        "name": "bash.md",
+        "path": "data/md/cli/bash.md",
+        "metadata": {
+            "title": "Bash scripting",
+            "category": "CLI",
+            "layout": "2017/sheet",
+            "tags": "[Featured]",
+            "updated": "2020-07-05",
+            "keywords": "",
+            "See": "[Parameter expansion](https://web.archive.org/web/20230408142504/https://wiki.bash-hackers.org/syntax/pe)"
+        }
+    },
+    {
+        "name": "sass.md",
+        "path": "data/md/css/sass.md",
+        "metadata": {
+            "title": "Sass",
+            "category": "CSS",
+            "layout": "2017/sheet",
+            "tags": "[Featured]",
+            "updated": "2020-07-03",
+            "weight": "-5",
+            "keywords": "",
+            "color": "red;",
+            "text": "{",
+            "align": "center;          // like text-align: center",
+            "transform": "uppercase;   // like text-transform: uppercase",
+            "padding": "$n;",
+            "See": "[hue()](http://sass-lang.com/documentation/Sass/Script/Functions.html#hue-instance_method), [red()](http://sass-lang.com/documentation/Sass/Script/Functions.html#red-instance_method)",
+            "Supported": "`$red` `$green` `$blue` `$hue` `$saturation` `$lightness` `$alpha`",
+            "background": "url($image);",
+            "position": "static;",
+            "left": "0;",
+            "right": "0;",
+            "font": "#{$size}/#{$line-height}"
+        }
+    },
+    {
+        "name": "resolutions.md",
+        "path": "data/md/others/resolutions.md",
+        "metadata": {
+            "title": "Screen resolutions",
+            "layout": "2017/sheet",
+            "updated": "2020-07-03",
+            "weight": "-1"
+        }
+    },
+    {
+        "name": "emmet.md",
+        "path": "data/md/markup/emmet.md",
+        "metadata": {
+            "title": "Emmet",
+            "category": "Markup",
+            "layout": "2017/sheet",
+            "prism_languages": "[html, css]",
+            "updated": "2020-07-03",
+            "intro": "|"
+        }
+    }
+]

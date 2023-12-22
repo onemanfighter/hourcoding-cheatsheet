@@ -1,24 +1,30 @@
 import { ArrowBack } from "@mui/icons-material";
 import { Button } from "@mui/material";
-import { useNavigate } from "react-router-dom";
+import { NavLink } from "react-router-dom";
 
+/**
+ * Proptypes for BackButton.
+ */
 export interface IBackButtonProps {}
 
+/**
+ * Functional component for the back button.
+ *
+ * @param props Props for the back button.
+ * @returns Back button.
+ */
 export default function BackButton(props: IBackButtonProps) {
-  const navigate = useNavigate();
-
   return (
     <div className="flex items-center justify-center">
-      <Button
-        variant="contained"
-        color="warning"
-        sx={{ borderRadius: 10, alignSelf: "center" }}
-        onClick={() => {
-          navigate(-1);
-        }}
-      >
-        <ArrowBack />
-      </Button>
+      <NavLink to="/">
+        <Button
+          variant="contained"
+          color="warning"
+          sx={{ borderRadius: 10, alignSelf: "center" }}
+        >
+          <ArrowBack />
+        </Button>
+      </NavLink>
     </div>
   );
 }

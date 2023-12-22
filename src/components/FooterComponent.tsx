@@ -1,5 +1,8 @@
 import { NavLink } from "react-router-dom";
 
+/**
+ * Proptypes for FooterComponent.
+ */
 export interface IFooterComponentProps {}
 
 /**
@@ -11,7 +14,9 @@ export interface IFooterComponentProps {}
 export default function FooterComponent(props: IFooterComponentProps) {
   return (
     <div>
-      <div></div>
+      <div>
+        <FooterContent />
+      </div>
       <div>
         <FooterSticky />
       </div>
@@ -19,11 +24,16 @@ export default function FooterComponent(props: IFooterComponentProps) {
   );
 }
 
+/**
+ * Ui component for the sticky footer of the website.
+ *
+ * @returns UI component for the sticky footer of the website.
+ */
 function FooterSticky() {
   return (
-    <div className="fixed bottom-0 overflow-scroll text-center text-md shadow-md w-full p-2 m-auto bg-gradient-to-r from-amber-200 to-amber-400 rounded-md">
+    <div className=" overflow-scroll text-center text-md shadow-md w-full p-2 m-auto bg-gradient-to-r from-amber-200 to-amber-400 rounded-md">
       <div className="footer-content">
-        <p>
+        <div>
           &copy; 2023{" "}
           <NavLink to="" className="hover:text-amber-800">
             Hourcoding.com{" "}
@@ -32,8 +42,17 @@ function FooterSticky() {
           <NavLink to="" className="hover:text-amber-800">
             Cheatsheets
           </NavLink>
-        </p>
+          <div className="">All rights reserved.</div>
+        </div>
       </div>
     </div>
   );
+}
+
+/**
+ * Functional component for the content of the footer.
+ * @returns Content of the footer.
+ */
+function FooterContent() {
+  return <></>;
 }

@@ -16,7 +16,7 @@ export function removeExtenstionFromString(str: string) {
  */
 function removeCurlyBracesContent(str: string) {
   let newData = str;
-  newData = newData.replace(/{[^{\}]+(?=})}/g, "");
+  newData = newData.replace(/{[^{}]+(?=})}/g, "");
   return newData;
 }
 

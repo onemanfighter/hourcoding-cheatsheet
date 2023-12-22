@@ -1,8 +1,6 @@
 import { useContext, useState } from "react";
 import { RecentFileContext } from "../../../contextProvider/Context";
 import { NavLink } from "react-router-dom";
-import { on } from "events";
-import { removeExtenstionFromString } from "../../../utils/HelperFunction";
 
 /**
  * Functional component for the list of latest cheatsheets.

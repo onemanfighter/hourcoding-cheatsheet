@@ -5,7 +5,6 @@ import BackButton from "../../components/BackButtonComponent";
 import { DataFileContext } from "../../contextProvider/Context";
 import markdownStyle from "./css/Markdown.module.css";
 import { fixMdFileString } from "../../utils/HelperFunction";
-import { Category } from "@mui/icons-material";
 
 /**
  * Proptypes definition for the DetailsScreen component.

@@ -1,4 +1,3 @@
-import { Accordion, AccordionDetails, AccordionSummary } from "@mui/material";
 import SearchComponent from "../../components/SearchComponent";
 import {
   ListOfCategoriesHeader,
@@ -11,7 +10,6 @@ import {
 import ListOfCategories from "./sub_component/ListOfCategories";
 import ListOfCheatsheets from "./sub_component/ListOfCheatsheets";
 import ListOfLatestCheatsheets from "./sub_component/ListOfLatestCheatsheets";
-import { ExpandMoreRounded } from "@mui/icons-material";
 import AccordionProvider from "../../components/AccordianProvider";
 
 /**

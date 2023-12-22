@@ -1,4 +1,4 @@
-import { useContext } from "react";
+import { useContext, useState } from "react";
 import { DataFileContext } from "../../../contextProvider/Context";
 import { NavLink } from "react-router-dom";
 import { removeExtenstionFromString } from "../../../utils/HelperFunction";
@@ -14,12 +14,12 @@ export default function ListOfCheatsheets() {
   let character = "";
 
   if (cheatsheets.length === 0) return <></>;
-  console.log(cheatsheets);
 
   return (
     <div className="grid grid-cols-2 justify-center items-center w-full">
       {cheatsheets.map((item: any) => {
         const name: string = item["name"];
+        const title: string = item["metadata"]["title"];
         const isNew: boolean = name[0].startsWith(character);
         character = name[0];
         return (
@@ -30,16 +30,39 @@ export default function ListOfCheatsheets() {
                 <hr className=" bg-amber-600 bg-transparent outline" />
               </div>
             )}
-            <NavLink
-              to={`details/${item["name"]}`}
-              key={item["name"]}
-              className=" m-2 py-2 px-4 shadow-lg bg-amber-200 hover:bg-amber-400 text-amber-600 hover:text-amber-100 hover:scale-x-105 rounded-md transition-all"
-            >
-              {removeExtenstionFromString(name.toUpperCase())}
-            </NavLink>
+            <Component name={name} title={title} />
           </>
         );
       }) ?? <></>}
     </div>
+  );
+}
+
+interface IComponentProps {
+  name: string;
+  title: string;
+}
+
+function Component(props: IComponentProps) {
+  const [focusState, setFocusState] = useState<boolean>(false);
+  return (
+    <NavLink
+      to={`details/${props.name}`}
+      key={props.name}
+      onMouseEnter={() => {
+        setFocusState(true);
+      }}
+      onMouseLeave={() => {
+        setFocusState(false);
+      }}
+      className=" m-2 py-2 px-4 shadow-lg overflow-hidden truncate flex flex-row justify-start bg-amber-200 hover:bg-amber-400 text-amber-600 hover:text-amber-100 hover:scale-x-105 rounded-md transition-all"
+    >
+      {props.name.toUpperCase()}
+      {focusState && (
+        <div className="text-md font-light mx-2 text-green-500">
+          {props.title}
+        </div>
+      )}
+    </NavLink>
   );
 }

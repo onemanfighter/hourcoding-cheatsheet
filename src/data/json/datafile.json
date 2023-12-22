@@ -1,7 +1,7 @@
 [
     {
-        "name": "projectionist.md",
-        "path": "data/md/vim/projectionist.md",
+        "name": "projectionist",
+        "path": "data/md/vim/projectionist",
         "metadata": {
             "title": "Projectionist",
             "category": "Vim",
@@ -9,8 +9,8 @@
         }
     },
     {
-        "name": "vimscript-functions.md",
-        "path": "data/md/vim/vimscript-functions.md",
+        "name": "vimscript-functions",
+        "path": "data/md/vim/vimscript-functions",
         "metadata": {
             "title": "Vimscript functions",
             "category": "Vim",
@@ -18,8 +18,8 @@
         }
     },
     {
-        "name": "vim.md",
-        "path": "data/md/vim/vim.md",
+        "name": "vim",
+        "path": "data/md/vim/vim",
         "metadata": {
             "title": "Vim",
             "category": "Vim",
@@ -32,8 +32,8 @@
         }
     },
     {
-        "name": "vim-unite.md",
-        "path": "data/md/vim/vim-unite.md",
+        "name": "vim-unite",
+        "path": "data/md/vim/vim-unite",
         "metadata": {
             "title": "Vim-Unite",
             "category": "Vim",
@@ -41,8 +41,8 @@
         }
     },
     {
-        "name": "vim-digraphs.md",
-        "path": "data/md/vim/vim-digraphs.md",
+        "name": "vim-digraphs",
+        "path": "data/md/vim/vim-digraphs",
         "metadata": {
             "title": "Vim digraphs",
             "category": "Vim",
@@ -50,8 +50,8 @@
         }
     },
     {
-        "name": "vim-easyalign.md",
-        "path": "data/md/vim/vim-easyalign.md",
+        "name": "vim-easyalign",
+        "path": "data/md/vim/vim-easyalign",
         "metadata": {
             "title": "Vim Easyalign",
             "html_class": "key-codes",
@@ -63,8 +63,8 @@
         }
     },
     {
-        "name": "vimscript.md",
-        "path": "data/md/vim/vimscript.md",
+        "name": "vimscript",
+        "path": "data/md/vim/vimscript",
         "metadata": {
             "title": "Vim scripting",
             "category": "Vim",
@@ -78,8 +78,8 @@
         }
     },
     {
-        "name": "vim-help.md",
-        "path": "data/md/vim/vim-help.md",
+        "name": "vim-help",
+        "path": "data/md/vim/vim-help",
         "metadata": {
             "title": "Vim helpfiles",
             "category": "Vim",
@@ -92,8 +92,8 @@
         }
     },
     {
-        "name": "vim-diff.md",
-        "path": "data/md/vim/vim-diff.md",
+        "name": "vim-diff",
+        "path": "data/md/vim/vim-diff",
         "metadata": {
             "title": "Vimdiff",
             "category": "Vim",
@@ -104,8 +104,8 @@
         }
     },
     {
-        "name": "vimscript-snippets.md",
-        "path": "data/md/vim/vimscript-snippets.md",
+        "name": "vimscript-snippets",
+        "path": "data/md/vim/vimscript-snippets",
         "metadata": {
             "title": "Vimscript snippets",
             "category": "Vim",
@@ -113,8 +113,8 @@
         }
     },
     {
-        "name": "tabular.md",
-        "path": "data/md/vim/tabular.md",
+        "name": "tabular",
+        "path": "data/md/vim/tabular",
         "metadata": {
             "title": "My picture",
             "category": "Vim",
@@ -129,8 +129,8 @@
         }
     },
     {
-        "name": "vim-rails.md",
-        "path": "data/md/vim/vim-rails.md",
+        "name": "vim-rails",
+        "path": "data/md/vim/vim-rails",
         "metadata": {
             "title": "Vim-rails",
             "category": "Vim",
@@ -139,8 +139,8 @@
         }
     },
     {
-        "name": "nodejs-fs.md",
-        "path": "data/md/nodejs/nodejs-fs.md",
+        "name": "nodejs-fs",
+        "path": "data/md/nodejs/nodejs-fs",
         "metadata": {
             "title": "fs",
             "category": "Node.js",
@@ -148,8 +148,8 @@
         }
     },
     {
-        "name": "nodejs-assert.md",
-        "path": "data/md/nodejs/nodejs-assert.md",
+        "name": "nodejs-assert",
+        "path": "data/md/nodejs/nodejs-assert",
         "metadata": {
             "title": "assert",
             "category": "Node.js",
@@ -157,8 +157,8 @@
         }
     },
     {
-        "name": "nodejs-stream.md",
-        "path": "data/md/nodejs/nodejs-stream.md",
+        "name": "nodejs-stream",
+        "path": "data/md/nodejs/nodejs-stream",
         "metadata": {
             "title": "Node.js streams",
             "category": "Node.js",
@@ -172,8 +172,8 @@
         }
     },
     {
-        "name": "nodejs-process.md",
-        "path": "data/md/nodejs/nodejs-process.md",
+        "name": "nodejs-process",
+        "path": "data/md/nodejs/nodejs-process",
         "metadata": {
             "title": "process",
             "category": "Node.js",
@@ -181,8 +181,8 @@
         }
     },
     {
-        "name": "nodejs.md",
-        "path": "data/md/nodejs/nodejs.md",
+        "name": "nodejs",
+        "path": "data/md/nodejs/nodejs",
         "metadata": {
             "title": "Node.js API",
             "category": "Node.js",
@@ -190,8 +190,8 @@
         }
     },
     {
-        "name": "nodejs-path.md",
-        "path": "data/md/nodejs/nodejs-path.md",
+        "name": "nodejs-path",
+        "path": "data/md/nodejs/nodejs-path",
         "metadata": {
             "title": "Node.js path API",
             "category": "Node.js",
@@ -200,8 +200,8 @@
         }
     },
     {
-        "name": "package-json.md",
-        "path": "data/md/nodejs/package-json.md",
+        "name": "package-json",
+        "path": "data/md/nodejs/package-json",
         "metadata": {
             "title": "package.json",
             "category": "Node.js",
@@ -212,8 +212,8 @@
         }
     },
     {
-        "name": "knex.md",
-        "path": "data/md/databases/knex.md",
+        "name": "knex",
+        "path": "data/md/databases/knex",
         "metadata": {
             "title": "Knex",
             "layout": "2017/sheet",
@@ -232,8 +232,8 @@
         }
     },
     {
-        "name": "postgresql-json.md",
-        "path": "data/md/databases/postgresql-json.md",
+        "name": "postgresql-json",
+        "path": "data/md/databases/postgresql-json",
         "metadata": {
             "title": "PostgreSQL JSON",
             "layout": "2017/sheet",
@@ -244,8 +244,8 @@
         }
     },
     {
-        "name": "mysql.md",
-        "path": "data/md/databases/mysql.md",
+        "name": "mysql",
+        "path": "data/md/databases/mysql",
         "metadata": {
             "title": "MySQL",
             "updated": "2020-07-05",
@@ -254,8 +254,8 @@
         }
     },
     {
-        "name": "sql-join.md",
-        "path": "data/md/databases/sql-join.md",
+        "name": "sql-join",
+        "path": "data/md/databases/sql-join",
         "metadata": {
             "title": "SQL joins",
             "layout": "2017/sheet",
@@ -265,8 +265,8 @@
         }
     },
     {
-        "name": "postgresql.md",
-        "path": "data/md/databases/postgresql.md",
+        "name": "postgresql",
+        "path": "data/md/databases/postgresql",
         "metadata": {
             "title": "PostgreSQL",
             "category": "Databases",
@@ -274,8 +274,8 @@
         }
     },
     {
-        "name": "ledger-periods.md",
-        "path": "data/md/ledger/ledger-periods.md",
+        "name": "ledger-periods",
+        "path": "data/md/ledger/ledger-periods",
         "metadata": {
             "title": "Ledger periods",
             "category": "Ledger",
@@ -283,8 +283,8 @@
         }
     },
     {
-        "name": "ledger-query.md",
-        "path": "data/md/ledger/ledger-query.md",
+        "name": "ledger-query",
+        "path": "data/md/ledger/ledger-query",
         "metadata": {
             "title": "Ledger queries",
             "category": "Ledger",
@@ -292,8 +292,8 @@
         }
     },
     {
-        "name": "ledger-format.md",
-        "path": "data/md/ledger/ledger-format.md",
+        "name": "ledger-format",
+        "path": "data/md/ledger/ledger-format",
         "metadata": {
             "title": "Ledger format",
             "category": "Ledger",
@@ -304,8 +304,8 @@
         }
     },
     {
-        "name": "ledger-csv.md",
-        "path": "data/md/ledger/ledger-csv.md",
+        "name": "ledger-csv",
+        "path": "data/md/ledger/ledger-csv",
         "metadata": {
             "title": "Ledger CSV format",
             "category": "Ledger",
@@ -313,8 +313,8 @@
         }
     },
     {
-        "name": "ledger-examples.md",
-        "path": "data/md/ledger/ledger-examples.md",
+        "name": "ledger-examples",
+        "path": "data/md/ledger/ledger-examples",
         "metadata": {
             "title": "Ledger examples",
             "category": "Ledger",
@@ -322,8 +322,8 @@
         }
     },
     {
-        "name": "ledger.md",
-        "path": "data/md/ledger/ledger.md",
+        "name": "ledger",
+        "path": "data/md/ledger/ledger",
         "metadata": {
             "title": "Ledger CLI",
             "category": "Ledger",
@@ -342,8 +342,8 @@
         }
     },
     {
-        "name": "hledger.md",
-        "path": "data/md/ledger/hledger.md",
+        "name": "hledger",
+        "path": "data/md/ledger/hledger",
         "metadata": {
             "title": "Hledger",
             "category": "Ledger",
@@ -365,8 +365,8 @@
         }
     },
     {
-        "name": "awscli.md",
-        "path": "data/md/devops/awscli.md",
+        "name": "awscli",
+        "path": "data/md/devops/awscli",
         "metadata": {
             "title": "AWS CLI",
             "category": "Devops",
@@ -375,8 +375,8 @@
         }
     },
     {
-        "name": "dockerfile.md",
-        "path": "data/md/devops/dockerfile.md",
+        "name": "dockerfile",
+        "path": "data/md/devops/dockerfile",
         "metadata": {
             "title": "Dockerfile",
             "category": "Devops",
@@ -386,8 +386,8 @@
         }
     },
     {
-        "name": "flynn.md",
-        "path": "data/md/devops/flynn.md",
+        "name": "flynn",
+        "path": "data/md/devops/flynn",
         "metadata": {
             "title": "Flynn",
             "category": "Devops",
@@ -395,8 +395,8 @@
         }
     },
     {
-        "name": "heroku.md",
-        "path": "data/md/devops/heroku.md",
+        "name": "heroku",
+        "path": "data/md/devops/heroku",
         "metadata": {
             "title": "Heroku",
             "category": "Devops",
@@ -408,8 +408,8 @@
         }
     },
     {
-        "name": "chef.md",
-        "path": "data/md/devops/chef.md",
+        "name": "chef",
+        "path": "data/md/devops/chef",
         "metadata": {
             "title": "Chef",
             "category": "Devops",
@@ -418,8 +418,8 @@
         }
     },
     {
-        "name": "deis.md",
-        "path": "data/md/devops/deis.md",
+        "name": "deis",
+        "path": "data/md/devops/deis",
         "metadata": {
             "title": "Deis",
             "category": "Devops",
@@ -428,8 +428,8 @@
         }
     },
     {
-        "name": "travis.md",
-        "path": "data/md/devops/travis.md",
+        "name": "travis",
+        "path": "data/md/devops/travis",
         "metadata": {
             "title": "Travis.yml",
             "category": "Devops",
@@ -451,8 +451,8 @@
         }
     },
     {
-        "name": "docker-compose.md",
-        "path": "data/md/devops/docker-compose.md",
+        "name": "docker-compose",
+        "path": "data/md/devops/docker-compose",
         "metadata": {
             "title": "docker-compose",
             "category": "Devops",
@@ -507,8 +507,8 @@
         }
     },
     {
-        "name": "docker.md",
-        "path": "data/md/devops/docker.md",
+        "name": "docker",
+        "path": "data/md/devops/docker",
         "metadata": {
             "title": "Docker CLI",
             "category": "Devops",
@@ -517,8 +517,8 @@
         }
     },
     {
-        "name": "vagrant.md",
-        "path": "data/md/devops/vagrant.md",
+        "name": "vagrant",
+        "path": "data/md/devops/vagrant",
         "metadata": {
             "title": "Vagrant",
             "category": "Devops",
@@ -527,8 +527,8 @@
         }
     },
     {
-        "name": "vagrantfile.md",
-        "path": "data/md/devops/vagrantfile.md",
+        "name": "vagrantfile",
+        "path": "data/md/devops/vagrantfile",
         "metadata": {
             "title": "Vagrantfile",
             "category": "Devops",
@@ -536,8 +536,8 @@
         }
     },
     {
-        "name": "circle.md",
-        "path": "data/md/devops/circle.md",
+        "name": "circle",
+        "path": "data/md/devops/circle",
         "metadata": {
             "title": "CircleCI",
             "category": "Devops",
@@ -573,8 +573,8 @@
         }
     },
     {
-        "name": "osx.md",
-        "path": "data/md/macos/osx.md",
+        "name": "osx",
+        "path": "data/md/macos/osx",
         "metadata": {
             "title": "OS X",
             "layout": "2017/sheet",
@@ -583,8 +583,8 @@
         }
     },
     {
-        "name": "macos-mouse-acceleration.md",
-        "path": "data/md/macos/macos-mouse-acceleration.md",
+        "name": "macos-mouse-acceleration",
+        "path": "data/md/macos/macos-mouse-acceleration",
         "metadata": {
             "title": "Mouse Acceleration",
             "layout": "2017/sheet",
@@ -597,8 +597,8 @@
         }
     },
     {
-        "name": "applescript.md",
-        "path": "data/md/macos/applescript.md",
+        "name": "applescript",
+        "path": "data/md/macos/applescript",
         "metadata": {
             "title": "AppleScript",
             "updated": "2018-12-06",
@@ -608,8 +608,8 @@
         }
     },
     {
-        "name": "gh-pages.md",
-        "path": "data/md/jekkyll/gh-pages.md",
+        "name": "gh-pages",
+        "path": "data/md/jekkyll/gh-pages",
         "metadata": {
             "title": "GitHub pages",
             "category": "Jekyll",
@@ -618,8 +618,8 @@
         }
     },
     {
-        "name": "jekyll-github.md",
-        "path": "data/md/jekkyll/jekyll-github.md",
+        "name": "jekyll-github",
+        "path": "data/md/jekkyll/jekyll-github",
         "metadata": {
             "title": "Jekyll for GitHub pages",
             "layout": "2017/sheet",
@@ -634,8 +634,8 @@
         }
     },
     {
-        "name": "jekyll.md",
-        "path": "data/md/jekkyll/jekyll.md",
+        "name": "jekyll",
+        "path": "data/md/jekkyll/jekyll",
         "metadata": {
             "title": "My blog post",
             "jekyll_escape": "true",
@@ -662,8 +662,8 @@
         }
     },
     {
-        "name": "org-mode.md",
-        "path": "data/md/app/org-mode.md",
+        "name": "org-mode",
+        "path": "data/md/app/org-mode",
         "metadata": {
             "title": "Org Mode",
             "layout": "2017/sheet",
@@ -674,8 +674,8 @@
         }
     },
     {
-        "name": "atom.md",
-        "path": "data/md/app/atom.md",
+        "name": "atom",
+        "path": "data/md/app/atom",
         "metadata": {
             "title": "Atom",
             "category": "Apps",
@@ -685,8 +685,8 @@
         }
     },
     {
-        "name": "sketch.md",
-        "path": "data/md/app/sketch.md",
+        "name": "sketch",
+        "path": "data/md/app/sketch",
         "metadata": {
             "title": "Sketch",
             "category": "Apps",
@@ -695,8 +695,8 @@
         }
     },
     {
-        "name": "editorconfig.md",
-        "path": "data/md/app/editorconfig.md",
+        "name": "editorconfig",
+        "path": "data/md/app/editorconfig",
         "metadata": {
             "title": "editorconfig",
             "layout": "2017/sheet",
@@ -707,8 +707,8 @@
         }
     },
     {
-        "name": "inkscape.md",
-        "path": "data/md/app/inkscape.md",
+        "name": "inkscape",
+        "path": "data/md/app/inkscape",
         "metadata": {
             "title": "Inkscape",
             "category": "Apps",
@@ -717,8 +717,8 @@
         }
     },
     {
-        "name": "flashlight.md",
-        "path": "data/md/app/flashlight.md",
+        "name": "flashlight",
+        "path": "data/md/app/flashlight",
         "metadata": {
             "title": "Flashlight",
             "category": "Apps",
@@ -726,8 +726,8 @@
         }
     },
     {
-        "name": "weechat.md",
-        "path": "data/md/app/weechat.md",
+        "name": "weechat",
+        "path": "data/md/app/weechat",
         "metadata": {
             "title": "Weechat",
             "category": "Apps",
@@ -735,8 +735,8 @@
         }
     },
     {
-        "name": "spacemacs.md",
-        "path": "data/md/app/spacemacs.md",
+        "name": "spacemacs",
+        "path": "data/md/app/spacemacs",
         "metadata": {
             "title": "Spacemacs",
             "layout": "2017/sheet",
@@ -747,8 +747,8 @@
         }
     },
     {
-        "name": "vscode.md",
-        "path": "data/md/app/vscode.md",
+        "name": "vscode",
+        "path": "data/md/app/vscode",
         "metadata": {
             "title": "Visual Studio Code",
             "category": "Apps",
@@ -760,8 +760,8 @@
         }
     },
     {
-        "name": "sublime-text.md",
-        "path": "data/md/app/sublime-text.md",
+        "name": "sublime-text",
+        "path": "data/md/app/sublime-text",
         "metadata": {
             "title": "Sublime Text",
             "category": "Apps",
@@ -769,8 +769,8 @@
         }
     },
     {
-        "name": "python.md",
-        "path": "data/md/python/python.md",
+        "name": "python",
+        "path": "data/md/python/python",
         "metadata": {
             "title": "Python",
             "category": "Python",
@@ -778,8 +778,8 @@
         }
     },
     {
-        "name": "mako.md",
-        "path": "data/md/python/mako.md",
+        "name": "mako",
+        "path": "data/md/python/mako",
         "metadata": {
             "title": "Mako",
             "category": "Python",
@@ -789,8 +789,8 @@
         }
     },
     {
-        "name": "jinja.md",
-        "path": "data/md/python/jinja.md",
+        "name": "jinja",
+        "path": "data/md/python/jinja",
         "metadata": {
             "title": "Jinja",
             "category": "Python",
@@ -798,8 +798,8 @@
         }
     },
     {
-        "name": "bulma.md",
-        "path": "data/md/css/bulma.md",
+        "name": "bulma",
+        "path": "data/md/css/bulma",
         "metadata": {
             "title": "Bulma",
             "category": "CSS",
@@ -812,8 +812,8 @@
         }
     },
     {
-        "name": "css.md",
-        "path": "data/md/css/css.md",
+        "name": "css",
+        "path": "data/md/css/css",
         "metadata": {
             "title": "CSS",
             "category": "CSS",
@@ -826,8 +826,8 @@
         }
     },
     {
-        "name": "stylus.md",
-        "path": "data/md/css/stylus.md",
+        "name": "stylus",
+        "path": "data/md/css/stylus",
         "metadata": {
             "title": "Stylus",
             "category": "CSS",
@@ -850,8 +850,8 @@
         }
     },
     {
-        "name": "css-tricks.md",
-        "path": "data/md/css/css-tricks.md",
+        "name": "css-tricks",
+        "path": "data/md/css/css-tricks",
         "metadata": {
             "title": "CSS tricks",
             "category": "CSS",
@@ -869,8 +869,8 @@
         }
     },
     {
-        "name": "css-flexbox.md",
-        "path": "data/md/css/css-flexbox.md",
+        "name": "css-flexbox",
+        "path": "data/md/css/css-flexbox",
         "metadata": {
             "title": "CSS flexbox",
             "category": "CSS",
@@ -887,8 +887,8 @@
         }
     },
     {
-        "name": "css-system-font-stack.md",
-        "path": "data/md/css/css-system-font-stack.md",
+        "name": "css-system-font-stack",
+        "path": "data/md/css/css-system-font-stack",
         "metadata": {
             "title": "\"CSS system fonts\"",
             "category": "CSS",
@@ -898,8 +898,8 @@
         }
     },
     {
-        "name": "cssnext.md",
-        "path": "data/md/css/cssnext.md",
+        "name": "cssnext",
+        "path": "data/md/css/cssnext",
         "metadata": {
             "title": "cssnext",
             "category": "CSS",
@@ -916,8 +916,8 @@
         }
     },
     {
-        "name": "bootstrap.md",
-        "path": "data/md/css/bootstrap.md",
+        "name": "bootstrap",
+        "path": "data/md/css/bootstrap",
         "metadata": {
             "title": "Bootstrap",
             "layout": "2017/sheet",
@@ -934,8 +934,8 @@
         }
     },
     {
-        "name": "css-antialias.md",
-        "path": "data/md/css/css-antialias.md",
+        "name": "css-antialias",
+        "path": "data/md/css/css-antialias",
         "metadata": {
             "title": "CSS antialiasing",
             "category": "CSS",
@@ -945,8 +945,8 @@
         }
     },
     {
-        "name": "sass.md",
-        "path": "data/md/css/sass.md",
+        "name": "sass",
+        "path": "data/md/css/sass",
         "metadata": {
             "title": "Sass",
             "category": "CSS",
@@ -970,8 +970,8 @@
         }
     },
     {
-        "name": "css-grid.md",
-        "path": "data/md/css/css-grid.md",
+        "name": "css-grid",
+        "path": "data/md/css/css-grid",
         "metadata": {
             "title": "CSS Grid",
             "category": "CSS",
@@ -983,8 +983,8 @@
         }
     },
     {
-        "name": "phoenix-migrations.md",
-        "path": "data/md/elixir/phoenix-migrations.md",
+        "name": "phoenix-migrations",
+        "path": "data/md/elixir/phoenix-migrations",
         "metadata": {
             "title": "\"Phoenix: Ecto migrations\"",
             "category": "Elixir",
@@ -994,8 +994,8 @@
         }
     },
     {
-        "name": "elixir-metaprogramming.md",
-        "path": "data/md/elixir/elixir-metaprogramming.md",
+        "name": "elixir-metaprogramming",
+        "path": "data/md/elixir/elixir-metaprogramming",
         "metadata": {
             "title": "Elixir metaprogramming",
             "category": "Elixir",
@@ -1003,8 +1003,8 @@
         }
     },
     {
-        "name": "phoenix-ecto.md",
-        "path": "data/md/elixir/phoenix-ecto.md",
+        "name": "phoenix-ecto",
+        "path": "data/md/elixir/phoenix-ecto",
         "metadata": {
             "title": "\"Phoenix: Ecto\"",
             "category": "Elixir",
@@ -1024,8 +1024,8 @@
         }
     },
     {
-        "name": "phoenix-routing.md",
-        "path": "data/md/elixir/phoenix-routing.md",
+        "name": "phoenix-routing",
+        "path": "data/md/elixir/phoenix-routing",
         "metadata": {
             "title": "\"Phoenix: Routing\"",
             "category": "Elixir",
@@ -1039,8 +1039,8 @@
         }
     },
     {
-        "name": "elixir.md",
-        "path": "data/md/elixir/elixir.md",
+        "name": "elixir",
+        "path": "data/md/elixir/elixir",
         "metadata": {
             "title": "Elixir",
             "category": "Elixir",
@@ -1054,8 +1054,8 @@
         }
     },
     {
-        "name": "ets.md",
-        "path": "data/md/elixir/ets.md",
+        "name": "ets",
+        "path": "data/md/elixir/ets",
         "metadata": {
             "title": "Erlang ETS",
             "category": "Elixir",
@@ -1064,8 +1064,8 @@
         }
     },
     {
-        "name": "exunit.md",
-        "path": "data/md/elixir/exunit.md",
+        "name": "exunit",
+        "path": "data/md/elixir/exunit",
         "metadata": {
             "title": "ExUnit",
             "category": "Elixir",
@@ -1075,8 +1075,8 @@
         }
     },
     {
-        "name": "phoenix.md",
-        "path": "data/md/elixir/phoenix.md",
+        "name": "phoenix",
+        "path": "data/md/elixir/phoenix",
         "metadata": {
             "title": "Phoenix",
             "category": "Elixir",
@@ -1089,8 +1089,8 @@
         }
     },
     {
-        "name": "phoenix-conn.md",
-        "path": "data/md/elixir/phoenix-conn.md",
+        "name": "phoenix-conn",
+        "path": "data/md/elixir/phoenix-conn",
         "metadata": {
             "title": "\"Phoenix: Plug.Conn\"",
             "category": "Elixir",
@@ -1100,8 +1100,8 @@
         }
     },
     {
-        "name": "phoenix-ecto@1.2.md",
-        "path": "data/md/elixir/phoenix-ecto@1.2.md",
+        "name": "phoenix-ecto@1.2",
+        "path": "data/md/elixir/phoenix-ecto@1.2",
         "metadata": {
             "title": "\"Phoenix: Ecto models\"",
             "category": "Elixir",
@@ -1120,8 +1120,8 @@
         }
     },
     {
-        "name": "phoenix-ecto@1.3.md",
-        "path": "data/md/elixir/phoenix-ecto@1.3.md",
+        "name": "phoenix-ecto@1.3",
+        "path": "data/md/elixir/phoenix-ecto@1.3",
         "metadata": {
             "title": "\"Phoenix: Ecto models\"",
             "category": "Hidden",
@@ -1130,8 +1130,8 @@
         }
     },
     {
-        "name": "phoenix@1.2.md",
-        "path": "data/md/elixir/phoenix@1.2.md",
+        "name": "phoenix@1.2",
+        "path": "data/md/elixir/phoenix@1.2",
         "metadata": {
             "title": "Phoenix 1.2",
             "category": "Elixir",
@@ -1141,8 +1141,8 @@
         }
     },
     {
-        "name": "csharp7.md",
-        "path": "data/md/c_like/csharp7.md",
+        "name": "csharp7",
+        "path": "data/md/c_like/csharp7",
         "metadata": {
             "title": "C# 7",
             "category": "C-like",
@@ -1154,8 +1154,8 @@
         }
     },
     {
-        "name": "go.md",
-        "path": "data/md/c_like/go.md",
+        "name": "go",
+        "path": "data/md/c_like/go",
         "metadata": {
             "title": "Go",
             "layout": "2017/sheet",
@@ -1169,8 +1169,8 @@
         }
     },
     {
-        "name": "c_preprocessor.md",
-        "path": "data/md/c_like/c_preprocessor.md",
+        "name": "c_preprocessor",
+        "path": "data/md/c_like/c_preprocessor",
         "metadata": {
             "title": "C Preprocessor",
             "category": "C-like",
@@ -1179,16 +1179,16 @@
         }
     },
     {
-        "name": "social-images.md",
-        "path": "data/md/others/social-images.md",
+        "name": "social-images",
+        "path": "data/md/others/social-images",
         "metadata": {
             "title": "Social media images",
             "layout": "2017/sheet"
         }
     },
     {
-        "name": "firebase.md",
-        "path": "data/md/others/firebase.md",
+        "name": "firebase",
+        "path": "data/md/others/firebase",
         "metadata": {
             "title": "Firebase",
             "prism_languages": "[coffeescript]",
@@ -1197,8 +1197,8 @@
         }
     },
     {
-        "name": "regexp.md",
-        "path": "data/md/others/regexp.md",
+        "name": "regexp",
+        "path": "data/md/others/regexp",
         "metadata": {
             "title": "regexp",
             "category": "Others",
@@ -1210,8 +1210,8 @@
         }
     },
     {
-        "name": "google_analytics.md",
-        "path": "data/md/others/google_analytics.md",
+        "name": "google_analytics",
+        "path": "data/md/others/google_analytics",
         "metadata": {
             "title": "Google Analytics",
             "layout": "2017/sheet",
@@ -1220,8 +1220,8 @@
         }
     },
     {
-        "name": "frequency-separation-retouching.md",
-        "path": "data/md/others/frequency-separation-retouching.md",
+        "name": "frequency-separation-retouching",
+        "path": "data/md/others/frequency-separation-retouching",
         "metadata": {
             "title": "Frequency separation retouching",
             "category": "Others",
@@ -1229,16 +1229,16 @@
         }
     },
     {
-        "name": "ios-provision.md",
-        "path": "data/md/others/ios-provision.md",
+        "name": "ios-provision",
+        "path": "data/md/others/ios-provision",
         "metadata": {
             "title": "iOS Provisioning Profiles",
             "layout": "2017/sheet"
         }
     },
     {
-        "name": "passenger.md",
-        "path": "data/md/others/passenger.md",
+        "name": "passenger",
+        "path": "data/md/others/passenger",
         "metadata": {
             "title": "Phusion Passenger",
             "tags": "[WIP]",
@@ -1246,24 +1246,24 @@
         }
     },
     {
-        "name": "ubuntu.md",
-        "path": "data/md/others/ubuntu.md",
+        "name": "ubuntu",
+        "path": "data/md/others/ubuntu",
         "metadata": {
             "title": "Ubuntu",
             "layout": "2017/sheet"
         }
     },
     {
-        "name": "less.md",
-        "path": "data/md/others/less.md",
+        "name": "less",
+        "path": "data/md/others/less",
         "metadata": {
             "title": "Less.js",
             "layout": "2017/sheet"
         }
     },
     {
-        "name": "watchman.md",
-        "path": "data/md/others/watchman.md",
+        "name": "watchman",
+        "path": "data/md/others/watchman",
         "metadata": {
             "title": "Watchman",
             "layout": "2017/sheet",
@@ -1273,8 +1273,8 @@
         }
     },
     {
-        "name": "make-assets.md",
-        "path": "data/md/others/make-assets.md",
+        "name": "make-assets",
+        "path": "data/md/others/make-assets",
         "metadata": {
             "title": "Make for assets",
             "layout": "2017/sheet",
@@ -1286,8 +1286,8 @@
         }
     },
     {
-        "name": "licenses.md",
-        "path": "data/md/others/licenses.md",
+        "name": "licenses",
+        "path": "data/md/others/licenses",
         "metadata": {
             "title": "Licenses",
             "section": "Development",
@@ -1296,8 +1296,8 @@
         }
     },
     {
-        "name": "nocode.md",
-        "path": "data/md/others/nocode.md",
+        "name": "nocode",
+        "path": "data/md/others/nocode",
         "metadata": {
             "title": "Nocode",
             "layout": "2017/sheet",
@@ -1306,8 +1306,8 @@
         }
     },
     {
-        "name": "resolutions.md",
-        "path": "data/md/others/resolutions.md",
+        "name": "resolutions",
+        "path": "data/md/others/resolutions",
         "metadata": {
             "title": "Screen resolutions",
             "layout": "2017/sheet",
@@ -1316,8 +1316,8 @@
         }
     },
     {
-        "name": "znc.md",
-        "path": "data/md/others/znc.md",
+        "name": "znc",
+        "path": "data/md/others/znc",
         "metadata": {
             "title": "ZNC bouncer",
             "layout": "2017/sheet",
@@ -1325,8 +1325,8 @@
         }
     },
     {
-        "name": "saucelabs.md",
-        "path": "data/md/others/saucelabs.md",
+        "name": "saucelabs",
+        "path": "data/md/others/saucelabs",
         "metadata": {
             "title": "Saucelabs",
             "layout": "2017/sheet",
@@ -1338,16 +1338,16 @@
         }
     },
     {
-        "name": "linux.md",
-        "path": "data/md/others/linux.md",
+        "name": "linux",
+        "path": "data/md/others/linux",
         "metadata": {
             "title": "Linux",
             "layout": "2017/sheet"
         }
     },
     {
-        "name": "datetime.md",
-        "path": "data/md/others/datetime.md",
+        "name": "datetime",
+        "path": "data/md/others/datetime",
         "metadata": {
             "title": "Date & time formats",
             "layout": "2017/sheet",
@@ -1357,8 +1357,8 @@
         }
     },
     {
-        "name": "figlet.md",
-        "path": "data/md/others/figlet.md",
+        "name": "figlet",
+        "path": "data/md/others/figlet",
         "metadata": {
             "title": "Figlet",
             "layout": "2017/sheet",
@@ -1372,8 +1372,8 @@
         }
     },
     {
-        "name": "firefox.md",
-        "path": "data/md/others/firefox.md",
+        "name": "firefox",
+        "path": "data/md/others/firefox",
         "metadata": {
             "title": "Firefox",
             "layout": "2017/sheet",
@@ -1382,8 +1382,8 @@
         }
     },
     {
-        "name": "semver.md",
-        "path": "data/md/others/semver.md",
+        "name": "semver",
+        "path": "data/md/others/semver",
         "metadata": {
             "title": "Semver",
             "layout": "2017/sheet",
@@ -1392,8 +1392,8 @@
         }
     },
     {
-        "name": "cask-index.md",
-        "path": "data/md/others/cask-index.md",
+        "name": "cask-index",
+        "path": "data/md/others/cask-index",
         "metadata": {
             "title": "Caskroom index",
             "layout": "2017/sheet",
@@ -1402,8 +1402,8 @@
         }
     },
     {
-        "name": "vainglory.md",
-        "path": "data/md/others/vainglory.md",
+        "name": "vainglory",
+        "path": "data/md/others/vainglory",
         "metadata": {
             "title": "Vainglory",
             "layout": "2017/sheet",
@@ -1411,8 +1411,8 @@
         }
     },
     {
-        "name": "unicode.md",
-        "path": "data/md/others/unicode.md",
+        "name": "unicode",
+        "path": "data/md/others/unicode",
         "metadata": {
             "title": "Unicode symbols",
             "layout": "2017/sheet",
@@ -1420,16 +1420,16 @@
         }
     },
     {
-        "name": "plantuml.md",
-        "path": "data/md/others/plantuml.md",
+        "name": "plantuml",
+        "path": "data/md/others/plantuml",
         "metadata": {
             "title": "PlantUML",
             "layout": "2017/sheet"
         }
     },
     {
-        "name": "cheatsheet-styles.md",
-        "path": "data/md/others/cheatsheet-styles.md",
+        "name": "cheatsheet-styles",
+        "path": "data/md/others/cheatsheet-styles",
         "metadata": {
             "title": "Cheatsheet styles",
             "layout": "2017/sheet",
@@ -1440,8 +1440,8 @@
         }
     },
     {
-        "name": "divshot.md",
-        "path": "data/md/others/divshot.md",
+        "name": "divshot",
+        "path": "data/md/others/divshot",
         "metadata": {
             "title": "Divshot",
             "layout": "2017/sheet",
@@ -1450,8 +1450,8 @@
         }
     },
     {
-        "name": "lua.md",
-        "path": "data/md/others/lua.md",
+        "name": "lua",
+        "path": "data/md/others/lua",
         "metadata": {
             "title": "Lua",
             "layout": "2017/sheet",
@@ -1463,8 +1463,8 @@
         }
     },
     {
-        "name": "google-webfonts.md",
-        "path": "data/md/others/google-webfonts.md",
+        "name": "google-webfonts",
+        "path": "data/md/others/google-webfonts",
         "metadata": {
             "title": "Google Webfonts",
             "layout": "2017/sheet",
@@ -1472,8 +1472,8 @@
         }
     },
     {
-        "name": "spreadsheet.md",
-        "path": "data/md/others/spreadsheet.md",
+        "name": "spreadsheet",
+        "path": "data/md/others/spreadsheet",
         "metadata": {
             "title": "Spreadsheet functions",
             "tags": "[WIP]",
@@ -1481,8 +1481,8 @@
         }
     },
     {
-        "name": "freenode.md",
-        "path": "data/md/others/freenode.md",
+        "name": "freenode",
+        "path": "data/md/others/freenode",
         "metadata": {
             "title": "Freenode",
             "layout": "2017/sheet",
@@ -1490,8 +1490,8 @@
         }
     },
     {
-        "name": "devise.md",
-        "path": "data/md/others/devise.md",
+        "name": "devise",
+        "path": "data/md/others/devise",
         "metadata": {
             "title": "Devise",
             "layout": "2017/sheet",
@@ -1499,8 +1499,8 @@
         }
     },
     {
-        "name": "cordova.md",
-        "path": "data/md/others/cordova.md",
+        "name": "cordova",
+        "path": "data/md/others/cordova",
         "metadata": {
             "title": "Apache Cordova",
             "layout": "2017/sheet",
@@ -1509,8 +1509,8 @@
         }
     },
     {
-        "name": "siege.md",
-        "path": "data/md/others/siege.md",
+        "name": "siege",
+        "path": "data/md/others/siege",
         "metadata": {
             "title": "Siege",
             "category": "Others",
@@ -1519,8 +1519,8 @@
         }
     },
     {
-        "name": "strftime.md",
-        "path": "data/md/others/strftime.md",
+        "name": "strftime",
+        "path": "data/md/others/strftime",
         "metadata": {
             "title": "strftime format",
             "layout": "2017/sheet",
@@ -1531,8 +1531,8 @@
         }
     },
     {
-        "name": "ph-food-delivery.md",
-        "path": "data/md/others/ph-food-delivery.md",
+        "name": "ph-food-delivery",
+        "path": "data/md/others/ph-food-delivery",
         "metadata": {
             "title": "Food delivery (Philippines)",
             "layout": "2017/sheet",
@@ -1541,8 +1541,8 @@
         }
     },
     {
-        "name": "imagemagick.md",
-        "path": "data/md/others/imagemagick.md",
+        "name": "imagemagick",
+        "path": "data/md/others/imagemagick",
         "metadata": {
             "title": "Imagemagick",
             "layout": "2017/sheet",
@@ -1550,8 +1550,8 @@
         }
     },
     {
-        "name": "simple_form.md",
-        "path": "data/md/others/simple_form.md",
+        "name": "simple_form",
+        "path": "data/md/others/simple_form",
         "metadata": {
             "title": "SimpleForm",
             "layout": "2017/sheet",
@@ -1559,8 +1559,8 @@
         }
     },
     {
-        "name": "premailer.md",
-        "path": "data/md/others/premailer.md",
+        "name": "premailer",
+        "path": "data/md/others/premailer",
         "metadata": {
             "title": "Premailer",
             "layout": "2017/sheet",
@@ -1569,16 +1569,16 @@
         }
     },
     {
-        "name": "command_line.md",
-        "path": "data/md/others/command_line.md",
+        "name": "command_line",
+        "path": "data/md/others/command_line",
         "metadata": {
             "title": "Command line stuff",
             "layout": "2017/sheet"
         }
     },
     {
-        "name": "html-meta.md",
-        "path": "data/md/html/html-meta.md",
+        "name": "html-meta",
+        "path": "data/md/html/html-meta",
         "metadata": {
             "title": "HTML meta tags",
             "category": "HTML",
@@ -1589,8 +1589,8 @@
         }
     },
     {
-        "name": "xpath.md",
-        "path": "data/md/html/xpath.md",
+        "name": "xpath",
+        "path": "data/md/html/xpath",
         "metadata": {
             "title": "Xpath",
             "category": "HTML",
@@ -1601,8 +1601,8 @@
         }
     },
     {
-        "name": "html-input.md",
-        "path": "data/md/html/html-input.md",
+        "name": "html-input",
+        "path": "data/md/html/html-input",
         "metadata": {
             "title": "Input tag",
             "category": "HTML",
@@ -1612,8 +1612,8 @@
         }
     },
     {
-        "name": "html-microformats.md",
-        "path": "data/md/html/html-microformats.md",
+        "name": "html-microformats",
+        "path": "data/md/html/html-microformats",
         "metadata": {
             "title": "Microformats",
             "category": "HTML",
@@ -1621,8 +1621,8 @@
         }
     },
     {
-        "name": "html-share.md",
-        "path": "data/md/html/html-share.md",
+        "name": "html-share",
+        "path": "data/md/html/html-share",
         "metadata": {
             "title": "Share links",
             "layout": "2017/sheet",
@@ -1633,8 +1633,8 @@
         }
     },
     {
-        "name": "html-email.md",
-        "path": "data/md/html/html-email.md",
+        "name": "html-email",
+        "path": "data/md/html/html-email",
         "metadata": {
             "title": "HTML emails",
             "category": "HTML",
@@ -1643,8 +1643,8 @@
         }
     },
     {
-        "name": "applinks.md",
-        "path": "data/md/html/applinks.md",
+        "name": "applinks",
+        "path": "data/md/html/applinks",
         "metadata": {
             "title": "Applinks",
             "category": "HTML",
@@ -1652,8 +1652,8 @@
         }
     },
     {
-        "name": "appcache.md",
-        "path": "data/md/html/appcache.md",
+        "name": "appcache",
+        "path": "data/md/html/appcache",
         "metadata": {
             "title": "Appcache",
             "category": "HTML",
@@ -1665,8 +1665,8 @@
         }
     },
     {
-        "name": "ie.md",
-        "path": "data/md/html/ie.md",
+        "name": "ie",
+        "path": "data/md/html/ie",
         "metadata": {
             "title": "Internet Explorer",
             "category": "HTML",
@@ -1676,8 +1676,8 @@
         }
     },
     {
-        "name": "layout-thrashing.md",
-        "path": "data/md/html/layout-thrashing.md",
+        "name": "layout-thrashing",
+        "path": "data/md/html/layout-thrashing",
         "metadata": {
             "title": "Layout thrashing",
             "category": "HTML",
@@ -1689,8 +1689,8 @@
         }
     },
     {
-        "name": "ie_bugs.md",
-        "path": "data/md/html/ie_bugs.md",
+        "name": "ie_bugs",
+        "path": "data/md/html/ie_bugs",
         "metadata": {
             "title": "Legacy IE bugs",
             "category": "HTML",
@@ -1700,8 +1700,8 @@
         }
     },
     {
-        "name": "html.md",
-        "path": "data/md/html/html.md",
+        "name": "html",
+        "path": "data/md/html/html",
         "metadata": {
             "title": "HTML",
             "category": "HTML",
@@ -1709,8 +1709,8 @@
         }
     },
     {
-        "name": "find.md",
-        "path": "data/md/cli/find.md",
+        "name": "find",
+        "path": "data/md/cli/find",
         "metadata": {
             "title": "Find",
             "category": "CLI",
@@ -1719,8 +1719,8 @@
         }
     },
     {
-        "name": "makefile.md",
-        "path": "data/md/cli/makefile.md",
+        "name": "makefile",
+        "path": "data/md/cli/makefile",
         "metadata": {
             "title": "Makefile",
             "prism_languages": "[makefile]",
@@ -1733,8 +1733,8 @@
         }
     },
     {
-        "name": "emacs.md",
-        "path": "data/md/cli/emacs.md",
+        "name": "emacs",
+        "path": "data/md/cli/emacs",
         "metadata": {
             "title": "Emacs",
             "category": "CLI",
@@ -1742,8 +1742,8 @@
         }
     },
     {
-        "name": "httpie.md",
-        "path": "data/md/cli/httpie.md",
+        "name": "httpie",
+        "path": "data/md/cli/httpie",
         "metadata": {
             "title": "httpie",
             "category": "CLI",
@@ -1758,8 +1758,8 @@
         }
     },
     {
-        "name": "rtorrent.md",
-        "path": "data/md/cli/rtorrent.md",
+        "name": "rtorrent",
+        "path": "data/md/cli/rtorrent",
         "metadata": {
             "title": "rTorrent",
             "category": "CLI",
@@ -1768,8 +1768,8 @@
         }
     },
     {
-        "name": "adb.md",
-        "path": "data/md/cli/adb.md",
+        "name": "adb",
+        "path": "data/md/cli/adb",
         "metadata": {
             "title": "adb (Android Debug Bridge)",
             "category": "CLI",
@@ -1780,8 +1780,8 @@
         }
     },
     {
-        "name": "fish-shell.md",
-        "path": "data/md/cli/fish-shell.md",
+        "name": "fish-shell",
+        "path": "data/md/cli/fish-shell",
         "metadata": {
             "title": "Fish shell",
             "category": "CLI",
@@ -1792,8 +1792,8 @@
         }
     },
     {
-        "name": "watchexec.md",
-        "path": "data/md/cli/watchexec.md",
+        "name": "watchexec",
+        "path": "data/md/cli/watchexec",
         "metadata": {
             "title": "Watchexec",
             "layout": "2017/sheet",
@@ -1805,8 +1805,8 @@
         }
     },
     {
-        "name": "scp.md",
-        "path": "data/md/cli/scp.md",
+        "name": "scp",
+        "path": "data/md/cli/scp",
         "metadata": {
             "title": "scp",
             "category": "CLI",
@@ -1816,8 +1816,8 @@
         }
     },
     {
-        "name": "animated_gif.md",
-        "path": "data/md/cli/animated_gif.md",
+        "name": "animated_gif",
+        "path": "data/md/cli/animated_gif",
         "metadata": {
             "title": "Animated GIFs",
             "category": "CLI",
@@ -1825,8 +1825,8 @@
         }
     },
     {
-        "name": "ansi.md",
-        "path": "data/md/cli/ansi.md",
+        "name": "ansi",
+        "path": "data/md/cli/ansi",
         "metadata": {
             "title": "Ansi codes",
             "category": "CLI",
@@ -1835,8 +1835,8 @@
         }
     },
     {
-        "name": "sh-pipes.md",
-        "path": "data/md/cli/sh-pipes.md",
+        "name": "sh-pipes",
+        "path": "data/md/cli/sh-pipes",
         "metadata": {
             "title": "\"Shell: named pipes\"",
             "category": "CLI",
@@ -1844,8 +1844,8 @@
         }
     },
     {
-        "name": "clip.md",
-        "path": "data/md/cli/clip.md",
+        "name": "clip",
+        "path": "data/md/cli/clip",
         "metadata": {
             "title": "Command Line Interface Pages",
             "category": "CLI",
@@ -1855,8 +1855,8 @@
         }
     },
     {
-        "name": "curl.md",
-        "path": "data/md/cli/curl.md",
+        "name": "curl",
+        "path": "data/md/cli/curl",
         "metadata": {
             "title": "Curl",
             "category": "CLI",
@@ -1865,8 +1865,8 @@
         }
     },
     {
-        "name": "pass.md",
-        "path": "data/md/cli/pass.md",
+        "name": "pass",
+        "path": "data/md/cli/pass",
         "metadata": {
             "title": "Pass",
             "layout": "2017/sheet",
@@ -1874,8 +1874,8 @@
         }
     },
     {
-        "name": "ncftp.md",
-        "path": "data/md/cli/ncftp.md",
+        "name": "ncftp",
+        "path": "data/md/cli/ncftp",
         "metadata": {
             "title": "ncftp",
             "category": "CLI",
@@ -1883,8 +1883,8 @@
         }
     },
     {
-        "name": "rename.md",
-        "path": "data/md/cli/rename.md",
+        "name": "rename",
+        "path": "data/md/cli/rename",
         "metadata": {
             "title": "rename",
             "category": "CLI",
@@ -1893,8 +1893,8 @@
         }
     },
     {
-        "name": "rsync.md",
-        "path": "data/md/cli/rsync.md",
+        "name": "rsync",
+        "path": "data/md/cli/rsync",
         "metadata": {
             "title": "Rsync",
             "category": "CLI",
@@ -1903,8 +1903,8 @@
         }
     },
     {
-        "name": "screen.md",
-        "path": "data/md/cli/screen.md",
+        "name": "screen",
+        "path": "data/md/cli/screen",
         "metadata": {
             "title": "Screen",
             "category": "CLI",
@@ -1915,8 +1915,8 @@
         }
     },
     {
-        "name": "grep.md",
-        "path": "data/md/cli/grep.md",
+        "name": "grep",
+        "path": "data/md/cli/grep",
         "metadata": {
             "title": "GNU grep",
             "category": "CLI",
@@ -1925,8 +1925,8 @@
         }
     },
     {
-        "name": "ffmpeg.md",
-        "path": "data/md/cli/ffmpeg.md",
+        "name": "ffmpeg",
+        "path": "data/md/cli/ffmpeg",
         "metadata": {
             "title": "ffmpeg",
             "category": "CLI",
@@ -1934,8 +1934,8 @@
         }
     },
     {
-        "name": "zsh.md",
-        "path": "data/md/cli/zsh.md",
+        "name": "zsh",
+        "path": "data/md/cli/zsh",
         "metadata": {
             "title": "zsh",
             "category": "CLI",
@@ -1943,8 +1943,8 @@
         }
     },
     {
-        "name": "top.md",
-        "path": "data/md/cli/top.md",
+        "name": "top",
+        "path": "data/md/cli/top",
         "metadata": {
             "title": "top",
             "category": "CLI",
@@ -1954,8 +1954,8 @@
         }
     },
     {
-        "name": "gnupg.md",
-        "path": "data/md/cli/gnupg.md",
+        "name": "gnupg",
+        "path": "data/md/cli/gnupg",
         "metadata": {
             "title": "GnuPG",
             "category": "CLI",
@@ -1970,8 +1970,8 @@
         }
     },
     {
-        "name": "cron.md",
-        "path": "data/md/cli/cron.md",
+        "name": "cron",
+        "path": "data/md/cli/cron",
         "metadata": {
             "title": "Cron",
             "category": "CLI",
@@ -1981,8 +1981,8 @@
         }
     },
     {
-        "name": "man.md",
-        "path": "data/md/cli/man.md",
+        "name": "man",
+        "path": "data/md/cli/man",
         "metadata": {
             "title": "Man",
             "category": "CLI",
@@ -1990,8 +1990,8 @@
         }
     },
     {
-        "name": "tar.md",
-        "path": "data/md/cli/tar.md",
+        "name": "tar",
+        "path": "data/md/cli/tar",
         "metadata": {
             "title": "tar",
             "category": "CLI",
@@ -2001,8 +2001,8 @@
         }
     },
     {
-        "name": "pm2.md",
-        "path": "data/md/cli/pm2.md",
+        "name": "pm2",
+        "path": "data/md/cli/pm2",
         "metadata": {
             "title": "pm2",
             "category": "CLI",
@@ -2012,8 +2012,8 @@
         }
     },
     {
-        "name": "sed.md",
-        "path": "data/md/cli/sed.md",
+        "name": "sed",
+        "path": "data/md/cli/sed",
         "metadata": {
             "title": "sed",
             "category": "CLI",
@@ -2022,8 +2022,8 @@
         }
     },
     {
-        "name": "composer.md",
-        "path": "data/md/cli/composer.md",
+        "name": "composer",
+        "path": "data/md/cli/composer",
         "metadata": {
             "title": "composer",
             "category": "CLI",
@@ -2035,8 +2035,8 @@
         }
     },
     {
-        "name": "tmux.md",
-        "path": "data/md/cli/tmux.md",
+        "name": "tmux",
+        "path": "data/md/cli/tmux",
         "metadata": {
             "title": "tmux",
             "category": "CLI",
@@ -2044,8 +2044,8 @@
         }
     },
     {
-        "name": "bash.md",
-        "path": "data/md/cli/bash.md",
+        "name": "bash",
+        "path": "data/md/cli/bash",
         "metadata": {
             "title": "Bash scripting",
             "category": "CLI",
@@ -2057,8 +2057,8 @@
         }
     },
     {
-        "name": "homebrew.md",
-        "path": "data/md/cli/homebrew.md",
+        "name": "homebrew",
+        "path": "data/md/cli/homebrew",
         "metadata": {
             "title": "Homebrew",
             "layout": "2017/sheet",
@@ -2067,8 +2067,8 @@
         }
     },
     {
-        "name": "sh.md",
-        "path": "data/md/cli/sh.md",
+        "name": "sh",
+        "path": "data/md/cli/sh",
         "metadata": {
             "title": "Shell scripting",
             "category": "CLI",
@@ -2076,8 +2076,8 @@
         }
     },
     {
-        "name": "php.md",
-        "path": "data/md/php/php.md",
+        "name": "php",
+        "path": "data/md/php/php",
         "metadata": {
             "title": "PHP",
             "category": "PHP",
@@ -2087,8 +2087,8 @@
         }
     },
     {
-        "name": "ansible-guide.md",
-        "path": "data/md/ansible/ansible-guide.md",
+        "name": "ansible-guide",
+        "path": "data/md/ansible/ansible-guide",
         "metadata": {
             "title": "\"Ansible quickstart\"",
             "category": "Ansible",
@@ -2106,8 +2106,8 @@
         }
     },
     {
-        "name": "ansible-modules.md",
-        "path": "data/md/ansible/ansible-modules.md",
+        "name": "ansible-modules",
+        "path": "data/md/ansible/ansible-modules",
         "metadata": {
             "title": "Ansible modules",
             "category": "Ansible",
@@ -2153,8 +2153,8 @@
         }
     },
     {
-        "name": "ansible-roles.md",
-        "path": "data/md/ansible/ansible-roles.md",
+        "name": "ansible-roles",
+        "path": "data/md/ansible/ansible-roles",
         "metadata": {
             "title": "Ansible roles",
             "category": "Ansible",
@@ -2162,8 +2162,8 @@
         }
     },
     {
-        "name": "ansible.md",
-        "path": "data/md/ansible/ansible.md",
+        "name": "ansible",
+        "path": "data/md/ansible/ansible",
         "metadata": {
             "title": "Ansible",
             "category": "Ansible",
@@ -2190,8 +2190,8 @@
         }
     },
     {
-        "name": "ansible-examples.md",
-        "path": "data/md/ansible/ansible-examples.md",
+        "name": "ansible-examples",
+        "path": "data/md/ansible/ansible-examples",
         "metadata": {
             "title": "Ansible examples",
             "category": "Ansible",
@@ -2199,8 +2199,8 @@
         }
     },
     {
-        "name": "markdown.md",
-        "path": "data/md/markup/markdown.md",
+        "name": "markdown",
+        "path": "data/md/markup/markdown",
         "metadata": {
             "title": "Markdown",
             "category": "Markup",
@@ -2211,8 +2211,8 @@
         }
     },
     {
-        "name": "yaml.md",
-        "path": "data/md/markup/yaml.md",
+        "name": "yaml",
+        "path": "data/md/markup/yaml",
         "metadata": {
             "title": "Yaml",
             "category": "Markup",
@@ -2235,8 +2235,8 @@
         }
     },
     {
-        "name": "rst.md",
-        "path": "data/md/markup/rst.md",
+        "name": "rst",
+        "path": "data/md/markup/rst",
         "metadata": {
             "title": "ReStructuredText",
             "category": "Markup",
@@ -2244,8 +2244,8 @@
         }
     },
     {
-        "name": "tomdoc.md",
-        "path": "data/md/markup/tomdoc.md",
+        "name": "tomdoc",
+        "path": "data/md/markup/tomdoc",
         "metadata": {
             "title": "Tomdoc",
             "category": "Markup",
@@ -2253,8 +2253,8 @@
         }
     },
     {
-        "name": "rdoc.md",
-        "path": "data/md/markup/rdoc.md",
+        "name": "rdoc",
+        "path": "data/md/markup/rdoc",
         "metadata": {
             "title": "Rdoc",
             "category": "Markup",
@@ -2263,8 +2263,8 @@
         }
     },
     {
-        "name": "textile.md",
-        "path": "data/md/markup/textile.md",
+        "name": "textile",
+        "path": "data/md/markup/textile",
         "metadata": {
             "title": "Textile",
             "category": "Markup",
@@ -2274,8 +2274,8 @@
         }
     },
     {
-        "name": "kramdown.md",
-        "path": "data/md/markup/kramdown.md",
+        "name": "kramdown",
+        "path": "data/md/markup/kramdown",
         "metadata": {
             "title": "Kramdown",
             "category": "Markup",
@@ -2287,8 +2287,8 @@
         }
     },
     {
-        "name": "emmet.md",
-        "path": "data/md/markup/emmet.md",
+        "name": "emmet",
+        "path": "data/md/markup/emmet",
         "metadata": {
             "title": "Emmet",
             "category": "Markup",
@@ -2299,8 +2299,8 @@
         }
     },
     {
-        "name": "haml.md",
-        "path": "data/md/markup/haml.md",
+        "name": "haml",
+        "path": "data/md/markup/haml",
         "metadata": {
             "title": "Haml",
             "category": "Markup",
@@ -2309,8 +2309,8 @@
         }
     },
     {
-        "name": "jquery.md",
-        "path": "data/md/js_libraries/jquery.md",
+        "name": "jquery",
+        "path": "data/md/js_libraries/jquery",
         "metadata": {
             "title": "jQuery",
             "category": "JavaScript libraries",
@@ -2322,8 +2322,8 @@
         }
     },
     {
-        "name": "mocha.md",
-        "path": "data/md/js_libraries/mocha.md",
+        "name": "mocha",
+        "path": "data/md/js_libraries/mocha",
         "metadata": {
             "title": "Mocha.js",
             "category": "JavaScript libraries",
@@ -2331,8 +2331,8 @@
         }
     },
     {
-        "name": "mocha-tdd.md",
-        "path": "data/md/js_libraries/mocha-tdd.md",
+        "name": "mocha-tdd",
+        "path": "data/md/js_libraries/mocha-tdd",
         "metadata": {
             "title": "Mocha.js TDD interface",
             "category": "JavaScript libraries",
@@ -2340,8 +2340,8 @@
         }
     },
     {
-        "name": "commander.js.md",
-        "path": "data/md/js_libraries/commander.js.md",
+        "name": "commander.js",
+        "path": "data/md/js_libraries/commander.js",
         "metadata": {
             "title": "Commander.js",
             "category": "JavaScript libraries",
@@ -2349,8 +2349,8 @@
         }
     },
     {
-        "name": "lodash.md",
-        "path": "data/md/js_libraries/lodash.md",
+        "name": "lodash",
+        "path": "data/md/js_libraries/lodash",
         "metadata": {
             "title": "Lodash",
             "category": "JavaScript libraries",
@@ -2361,8 +2361,8 @@
         }
     },
     {
-        "name": "chai.md",
-        "path": "data/md/js_libraries/chai.md",
+        "name": "chai",
+        "path": "data/md/js_libraries/chai",
         "metadata": {
             "title": "Chai.js",
             "category": "JavaScript libraries",
@@ -2375,8 +2375,8 @@
         }
     },
     {
-        "name": "modernizr.md",
-        "path": "data/md/js_libraries/modernizr.md",
+        "name": "modernizr",
+        "path": "data/md/js_libraries/modernizr",
         "metadata": {
             "title": "Modernizr",
             "category": "JavaScript libraries",
@@ -2386,8 +2386,8 @@
         }
     },
     {
-        "name": "spine.md",
-        "path": "data/md/js_libraries/spine.md",
+        "name": "spine",
+        "path": "data/md/js_libraries/spine",
         "metadata": {
             "title": "Spine",
             "category": "JavaScript libraries",
@@ -2398,8 +2398,8 @@
         }
     },
     {
-        "name": "jquery-cdn.md",
-        "path": "data/md/js_libraries/jquery-cdn.md",
+        "name": "jquery-cdn",
+        "path": "data/md/js_libraries/jquery-cdn",
         "metadata": {
             "title": "jQuery CDN",
             "category": "JavaScript libraries",
@@ -2408,8 +2408,8 @@
         }
     },
     {
-        "name": "sinon.md",
-        "path": "data/md/js_libraries/sinon.md",
+        "name": "sinon",
+        "path": "data/md/js_libraries/sinon",
         "metadata": {
             "title": "Sinon",
             "category": "JavaScript libraries",
@@ -2419,8 +2419,8 @@
         }
     },
     {
-        "name": "nock.md",
-        "path": "data/md/js_libraries/nock.md",
+        "name": "nock",
+        "path": "data/md/js_libraries/nock",
         "metadata": {
             "title": "Nock",
             "category": "JavaScript libraries",
@@ -2428,8 +2428,8 @@
         }
     },
     {
-        "name": "mobx.md",
-        "path": "data/md/js_libraries/mobx.md",
+        "name": "mobx",
+        "path": "data/md/js_libraries/mobx",
         "metadata": {
             "title": "Mobx",
             "category": "JavaScript libraries",
@@ -2439,8 +2439,8 @@
         }
     },
     {
-        "name": "umdjs.md",
-        "path": "data/md/js_libraries/umdjs.md",
+        "name": "umdjs",
+        "path": "data/md/js_libraries/umdjs",
         "metadata": {
             "title": "Universal JS module loader",
             "category": "JavaScript libraries",
@@ -2448,8 +2448,8 @@
         }
     },
     {
-        "name": "co.md",
-        "path": "data/md/js_libraries/co.md",
+        "name": "co",
+        "path": "data/md/js_libraries/co",
         "metadata": {
             "title": "co",
             "category": "JavaScript libraries",
@@ -2460,8 +2460,8 @@
         }
     },
     {
-        "name": "immutable.js.md",
-        "path": "data/md/js_libraries/immutable.js.md",
+        "name": "immutable.js",
+        "path": "data/md/js_libraries/immutable.js",
         "metadata": {
             "title": "Immutable.js",
             "category": "JavaScript libraries",
@@ -2469,8 +2469,8 @@
         }
     },
     {
-        "name": "virtual-dom.md",
-        "path": "data/md/js_libraries/virtual-dom.md",
+        "name": "virtual-dom",
+        "path": "data/md/js_libraries/virtual-dom",
         "metadata": {
             "title": "Virtual-dom",
             "category": "JavaScript libraries",
@@ -2478,8 +2478,8 @@
         }
     },
     {
-        "name": "harvey.js.md",
-        "path": "data/md/js_libraries/harvey.js.md",
+        "name": "harvey.js",
+        "path": "data/md/js_libraries/harvey.js",
         "metadata": {
             "title": "Harvey.js",
             "category": "JavaScript libraries",
@@ -2491,8 +2491,8 @@
         }
     },
     {
-        "name": "polyfill.io.md",
-        "path": "data/md/js_libraries/polyfill.io.md",
+        "name": "polyfill.io",
+        "path": "data/md/js_libraries/polyfill.io",
         "metadata": {
             "title": "Polyfill.io",
             "category": "JavaScript libraries",
@@ -2502,8 +2502,8 @@
         }
     },
     {
-        "name": "riot.md",
-        "path": "data/md/js_libraries/riot.md",
+        "name": "riot",
+        "path": "data/md/js_libraries/riot",
         "metadata": {
             "title": "Riot.js",
             "category": "JavaScript libraries",
@@ -2511,8 +2511,8 @@
         }
     },
     {
-        "name": "weinre.md",
-        "path": "data/md/js_libraries/weinre.md",
+        "name": "weinre",
+        "path": "data/md/js_libraries/weinre",
         "metadata": {
             "title": "Weinre",
             "category": "JavaScript libraries",
@@ -2523,8 +2523,8 @@
         }
     },
     {
-        "name": "parsley.md",
-        "path": "data/md/js_libraries/parsley.md",
+        "name": "parsley",
+        "path": "data/md/js_libraries/parsley",
         "metadata": {
             "title": "Parsley.js",
             "updated": "2018-12-06",
@@ -2555,8 +2555,8 @@
         }
     },
     {
-        "name": "101.md",
-        "path": "data/md/js_libraries/101.md",
+        "name": "101",
+        "path": "data/md/js_libraries/101",
         "metadata": {
             "title": "101",
             "category": "JavaScript libraries",
@@ -2567,8 +2567,8 @@
         }
     },
     {
-        "name": "mocha-html.md",
-        "path": "data/md/js_libraries/mocha-html.md",
+        "name": "mocha-html",
+        "path": "data/md/js_libraries/mocha-html",
         "metadata": {
             "title": "Mocha HTML",
             "category": "JavaScript libraries",
@@ -2576,8 +2576,8 @@
         }
     },
     {
-        "name": "yarn.md",
-        "path": "data/md/js_libraries/yarn.md",
+        "name": "yarn",
+        "path": "data/md/js_libraries/yarn",
         "metadata": {
             "title": "Yarn",
             "category": "JavaScript libraries",
@@ -2589,8 +2589,8 @@
         }
     },
     {
-        "name": "koa.md",
-        "path": "data/md/js_libraries/koa.md",
+        "name": "koa",
+        "path": "data/md/js_libraries/koa",
         "metadata": {
             "title": "Koa",
             "category": "JavaScript libraries",
@@ -2598,8 +2598,8 @@
         }
     },
     {
-        "name": "jasmine.md",
-        "path": "data/md/js_libraries/jasmine.md",
+        "name": "jasmine",
+        "path": "data/md/js_libraries/jasmine",
         "metadata": {
             "title": "Jasmine",
             "category": "JavaScript libraries",
@@ -2610,8 +2610,8 @@
         }
     },
     {
-        "name": "vows.md",
-        "path": "data/md/js_libraries/vows.md",
+        "name": "vows",
+        "path": "data/md/js_libraries/vows",
         "metadata": {
             "title": "Vows",
             "category": "JavaScript libraries",
@@ -2620,8 +2620,8 @@
         }
     },
     {
-        "name": "bluebird.md",
-        "path": "data/md/js_libraries/bluebird.md",
+        "name": "bluebird",
+        "path": "data/md/js_libraries/bluebird",
         "metadata": {
             "title": "bluebird.js",
             "category": "JavaScript libraries",
@@ -2633,8 +2633,8 @@
         }
     },
     {
-        "name": "gremlins.md",
-        "path": "data/md/js_libraries/gremlins.md",
+        "name": "gremlins",
+        "path": "data/md/js_libraries/gremlins",
         "metadata": {
             "title": "Gremlins.js",
             "category": "JavaScript libraries",
@@ -2646,8 +2646,8 @@
         }
     },
     {
-        "name": "jshint.md",
-        "path": "data/md/js_libraries/jshint.md",
+        "name": "jshint",
+        "path": "data/md/js_libraries/jshint",
         "metadata": {
             "title": "Jshint",
             "category": "JavaScript libraries",
@@ -2657,8 +2657,8 @@
         }
     },
     {
-        "name": "blessed.md",
-        "path": "data/md/js_libraries/blessed.md",
+        "name": "blessed",
+        "path": "data/md/js_libraries/blessed",
         "metadata": {
             "title": "Blessed",
             "category": "JavaScript libraries",
@@ -2674,8 +2674,8 @@
         }
     },
     {
-        "name": "sequelize.md",
-        "path": "data/md/js_libraries/sequelize.md",
+        "name": "sequelize",
+        "path": "data/md/js_libraries/sequelize",
         "metadata": {
             "title": "{ type: Sequelize.STRING, allowNull: false },",
             "category": "JavaScript libraries",
@@ -2690,8 +2690,8 @@
         }
     },
     {
-        "name": "express.md",
-        "path": "data/md/js_libraries/express.md",
+        "name": "express",
+        "path": "data/md/js_libraries/express",
         "metadata": {
             "title": "\"MyApp\",",
             "category": "JavaScript libraries",
@@ -2699,8 +2699,8 @@
         }
     },
     {
-        "name": "camp.md",
-        "path": "data/md/js_libraries/camp.md",
+        "name": "camp",
+        "path": "data/md/js_libraries/camp",
         "metadata": {
             "title": "Camp",
             "layout": "2017/sheet",
@@ -2709,12 +2709,12 @@
             "weight": "-1",
             "intro": "|",
             "text": "'Hello world'",
-            "See": "[WebSocket](https://github.com/espadrine/sc/blob/master/doc/Readme.md#websocket)"
+            "See": "[WebSocket](https://github.com/espadrine/sc/blob/master/doc/Readme#websocket)"
         }
     },
     {
-        "name": "zombie.md",
-        "path": "data/md/js_libraries/zombie.md",
+        "name": "zombie",
+        "path": "data/md/js_libraries/zombie",
         "metadata": {
             "title": "Zombie",
             "category": "JavaScript libraries",
@@ -2723,8 +2723,8 @@
         }
     },
     {
-        "name": "modella.md",
-        "path": "data/md/js_libraries/modella.md",
+        "name": "modella",
+        "path": "data/md/js_libraries/modella",
         "metadata": {
             "title": "Modella",
             "category": "JavaScript libraries",
@@ -2734,20 +2734,20 @@
         }
     },
     {
-        "name": "gulp.md",
-        "path": "data/md/js_libraries/gulp.md",
+        "name": "gulp",
+        "path": "data/md/js_libraries/gulp",
         "metadata": {
             "title": "Gulp",
             "category": "JavaScript libraries",
             "layout": "2017/sheet",
             "tags": "[Archived]",
             "archived": "The information on this sheet may possibly be outdated.",
-            "https": "//github.com/gulpjs/gulp/blob/master/docs/getting-started.md#getting-started"
+            "https": "//github.com/gulpjs/gulp/blob/master/docs/getting-started#getting-started"
         }
     },
     {
-        "name": "js-model_lib.md",
-        "path": "data/md/js_libraries/js-model_lib.md",
+        "name": "js-model_lib",
+        "path": "data/md/js_libraries/js-model_lib",
         "metadata": {
             "title": "js-model library",
             "category": "JavaScript libraries",
@@ -2757,8 +2757,8 @@
         }
     },
     {
-        "name": "sinon-chai.md",
-        "path": "data/md/js_libraries/sinon-chai.md",
+        "name": "sinon-chai",
+        "path": "data/md/js_libraries/sinon-chai",
         "metadata": {
             "title": "Sinon-chai",
             "category": "JavaScript libraries",
@@ -2766,8 +2766,8 @@
         }
     },
     {
-        "name": "angularjs.md",
-        "path": "data/md/js_libraries/angularjs.md",
+        "name": "angularjs",
+        "path": "data/md/js_libraries/angularjs",
         "metadata": {
             "title": "Angular.js",
             "category": "JavaScript libraries",
@@ -2779,8 +2779,8 @@
         }
     },
     {
-        "name": "jade.md",
-        "path": "data/md/js_libraries/jade.md",
+        "name": "jade",
+        "path": "data/md/js_libraries/jade",
         "metadata": {
             "title": "Jade",
             "category": "JavaScript libraries",
@@ -2788,8 +2788,8 @@
         }
     },
     {
-        "name": "deku.md",
-        "path": "data/md/js_libraries/deku.md",
+        "name": "deku",
+        "path": "data/md/js_libraries/deku",
         "metadata": {
             "title": "Deku v2",
             "category": "JavaScript libraries",
@@ -2798,8 +2798,8 @@
         }
     },
     {
-        "name": "jscoverage.md",
-        "path": "data/md/js_libraries/jscoverage.md",
+        "name": "jscoverage",
+        "path": "data/md/js_libraries/jscoverage",
         "metadata": {
             "title": "jscoverage",
             "category": "JavaScript libraries",
@@ -2808,8 +2808,8 @@
         }
     },
     {
-        "name": "ractive.md",
-        "path": "data/md/js_libraries/ractive.md",
+        "name": "ractive",
+        "path": "data/md/js_libraries/ractive",
         "metadata": {
             "title": "Ractive.js",
             "category": "JavaScript libraries",
@@ -2852,8 +2852,8 @@
         }
     },
     {
-        "name": "mocha-blanket.md",
-        "path": "data/md/js_libraries/mocha-blanket.md",
+        "name": "mocha-blanket",
+        "path": "data/md/js_libraries/mocha-blanket",
         "metadata": {
             "title": "Mocha blanket",
             "category": "JavaScript libraries",
@@ -2864,8 +2864,8 @@
         }
     },
     {
-        "name": "underscore-string.md",
-        "path": "data/md/js_libraries/underscore-string.md",
+        "name": "underscore-string",
+        "path": "data/md/js_libraries/underscore-string",
         "metadata": {
             "title": "Underscore-string",
             "category": "JavaScript libraries",
@@ -2873,8 +2873,8 @@
         }
     },
     {
-        "name": "parsimmon.md",
-        "path": "data/md/js_libraries/parsimmon.md",
+        "name": "parsimmon",
+        "path": "data/md/js_libraries/parsimmon",
         "metadata": {
             "title": "Parsimmon",
             "category": "JavaScript libraries",
@@ -2882,8 +2882,8 @@
         }
     },
     {
-        "name": "superagent.md",
-        "path": "data/md/js_libraries/superagent.md",
+        "name": "superagent",
+        "path": "data/md/js_libraries/superagent",
         "metadata": {
             "title": "Superagent",
             "category": "JavaScript libraries",
@@ -2914,8 +2914,8 @@
         }
     },
     {
-        "name": "rollup.md",
-        "path": "data/md/js_libraries/rollup.md",
+        "name": "rollup",
+        "path": "data/md/js_libraries/rollup",
         "metadata": {
             "title": "Rollup.js",
             "category": "JavaScript libraries",
@@ -2937,8 +2937,8 @@
         }
     },
     {
-        "name": "middleman.md",
-        "path": "data/md/js_libraries/middleman.md",
+        "name": "middleman",
+        "path": "data/md/js_libraries/middleman",
         "metadata": {
             "title": "Middleman 3",
             "category": "JavaScript libraries",
@@ -2948,8 +2948,8 @@
         }
     },
     {
-        "name": "qunit.md",
-        "path": "data/md/js_libraries/qunit.md",
+        "name": "qunit",
+        "path": "data/md/js_libraries/qunit",
         "metadata": {
             "title": "Qunit",
             "category": "JavaScript libraries",
@@ -2958,8 +2958,8 @@
         }
     },
     {
-        "name": "qjs.md",
-        "path": "data/md/js_libraries/qjs.md",
+        "name": "qjs",
+        "path": "data/md/js_libraries/qjs",
         "metadata": {
             "title": "Q.js",
             "category": "JavaScript libraries",
@@ -2967,8 +2967,8 @@
         }
     },
     {
-        "name": "browser-sync.md",
-        "path": "data/md/js_libraries/browser-sync.md",
+        "name": "browser-sync",
+        "path": "data/md/js_libraries/browser-sync",
         "metadata": {
             "title": "Browsersync",
             "category": "JavaScript libraries",
@@ -2976,8 +2976,8 @@
         }
     },
     {
-        "name": "stencil.md",
-        "path": "data/md/js_libraries/stencil.md",
+        "name": "stencil",
+        "path": "data/md/js_libraries/stencil",
         "metadata": {
             "title": "Stencil",
             "category": "JavaScript libraries",
@@ -2991,8 +2991,8 @@
         }
     },
     {
-        "name": "expectjs.md",
-        "path": "data/md/js_libraries/expectjs.md",
+        "name": "expectjs",
+        "path": "data/md/js_libraries/expectjs",
         "metadata": {
             "title": "expect.js",
             "category": "JavaScript libraries",
@@ -3005,8 +3005,8 @@
         }
     },
     {
-        "name": "shelljs.md",
-        "path": "data/md/js_libraries/shelljs.md",
+        "name": "shelljs",
+        "path": "data/md/js_libraries/shelljs",
         "metadata": {
             "title": "Shell.js",
             "category": "JavaScript libraries",
@@ -3017,8 +3017,8 @@
         }
     },
     {
-        "name": "minimist.md",
-        "path": "data/md/js_libraries/minimist.md",
+        "name": "minimist",
+        "path": "data/md/js_libraries/minimist",
         "metadata": {
             "title": "minimist",
             "category": "JavaScript libraries",
@@ -3039,8 +3039,8 @@
         }
     },
     {
-        "name": "jest.md",
-        "path": "data/md/js_libraries/jest.md",
+        "name": "jest",
+        "path": "data/md/js_libraries/jest",
         "metadata": {
             "title": "Jest",
             "category": "JavaScript libraries",
@@ -3053,8 +3053,8 @@
         }
     },
     {
-        "name": "bower-api.md",
-        "path": "data/md/js_libraries/bower-api.md",
+        "name": "bower-api",
+        "path": "data/md/js_libraries/bower-api",
         "metadata": {
             "title": "Bower API",
             "category": "JavaScript libraries",
@@ -3079,8 +3079,8 @@
         }
     },
     {
-        "name": "handlebars.js.md",
-        "path": "data/md/js_libraries/handlebars.js.md",
+        "name": "handlebars.js",
+        "path": "data/md/js_libraries/handlebars.js",
         "metadata": {
             "title": "Handlebars.js",
             "category": "JavaScript libraries",
@@ -3089,8 +3089,8 @@
         }
     },
     {
-        "name": "ember.md",
-        "path": "data/md/js_libraries/ember.md",
+        "name": "ember",
+        "path": "data/md/js_libraries/ember",
         "metadata": {
             "title": "Ember.js",
             "category": "JavaScript libraries",
@@ -3100,8 +3100,8 @@
         }
     },
     {
-        "name": "flow.md",
-        "path": "data/md/js_libraries/flow.md",
+        "name": "flow",
+        "path": "data/md/js_libraries/flow",
         "metadata": {
             "title": "Flow",
             "layout": "2017/sheet",
@@ -3129,8 +3129,8 @@
         }
     },
     {
-        "name": "deku@1.md",
-        "path": "data/md/js_libraries/deku@1.md",
+        "name": "deku@1",
+        "path": "data/md/js_libraries/deku@1",
         "metadata": {
             "title": "Deku v1",
             "category": "JavaScript libraries",
@@ -3140,8 +3140,8 @@
         }
     },
     {
-        "name": "pug.md",
-        "path": "data/md/js_libraries/pug.md",
+        "name": "pug",
+        "path": "data/md/js_libraries/pug",
         "metadata": {
             "title": "Pug",
             "category": "JavaScript libraries",
@@ -3151,12 +3151,12 @@
             "weight": "-3",
             "tags": "[Featurable]",
             "See": "[Mixin blocks](https://pugjs.org/language/mixins.html#mixin-blocks)",
-            "include": "markdown article.md"
+            "include": "markdown article"
         }
     },
     {
-        "name": "yargs.md",
-        "path": "data/md/js_libraries/yargs.md",
+        "name": "yargs",
+        "path": "data/md/js_libraries/yargs",
         "metadata": {
             "title": "Yargs",
             "category": "JavaScript libraries",
@@ -3170,8 +3170,8 @@
         }
     },
     {
-        "name": "nopt.md",
-        "path": "data/md/js_libraries/nopt.md",
+        "name": "nopt",
+        "path": "data/md/js_libraries/nopt",
         "metadata": {
             "title": "Nopt",
             "category": "JavaScript libraries",
@@ -3191,8 +3191,8 @@
         }
     },
     {
-        "name": "browserify.md",
-        "path": "data/md/js_libraries/browserify.md",
+        "name": "browserify",
+        "path": "data/md/js_libraries/browserify",
         "metadata": {
             "title": "Browserify",
             "category": "JavaScript libraries",
@@ -3202,8 +3202,8 @@
         }
     },
     {
-        "name": "moment.md",
-        "path": "data/md/js_libraries/moment.md",
+        "name": "moment",
+        "path": "data/md/js_libraries/moment",
         "metadata": {
             "title": "Moment.js",
             "category": "JavaScript libraries",
@@ -3213,8 +3213,8 @@
         }
     },
     {
-        "name": "backbone.md",
-        "path": "data/md/js_libraries/backbone.md",
+        "name": "backbone",
+        "path": "data/md/js_libraries/backbone",
         "metadata": {
             "title": "Backbone.js",
             "layout": "2017/sheet",
@@ -3241,8 +3241,8 @@
         }
     },
     {
-        "name": "typescript.md",
-        "path": "data/md/js_libraries/typescript.md",
+        "name": "typescript",
+        "path": "data/md/js_libraries/typescript",
         "metadata": {
             "title": "TypeScript",
             "category": "JavaScript libraries",
@@ -3258,8 +3258,8 @@
         }
     },
     {
-        "name": "fastify.md",
-        "path": "data/md/js_libraries/fastify.md",
+        "name": "fastify",
+        "path": "data/md/js_libraries/fastify",
         "metadata": {
             "title": "Fastify",
             "category": "JavaScript libraries",
@@ -3286,8 +3286,8 @@
         }
     },
     {
-        "name": "webpack.md",
-        "path": "data/md/js_libraries/webpack.md",
+        "name": "webpack",
+        "path": "data/md/js_libraries/webpack",
         "metadata": {
             "title": "Webpack",
             "category": "JavaScript libraries",
@@ -3309,8 +3309,8 @@
         }
     },
     {
-        "name": "meow.md",
-        "path": "data/md/js_libraries/meow.md",
+        "name": "meow",
+        "path": "data/md/js_libraries/meow",
         "metadata": {
             "title": "Meow",
             "category": "JavaScript libraries",
@@ -3329,8 +3329,8 @@
         }
     },
     {
-        "name": "tape.md",
-        "path": "data/md/js_libraries/tape.md",
+        "name": "tape",
+        "path": "data/md/js_libraries/tape",
         "metadata": {
             "title": "Tape",
             "category": "JavaScript libraries",
@@ -3338,8 +3338,8 @@
         }
     },
     {
-        "name": "bookshelf.md",
-        "path": "data/md/js_libraries/bookshelf.md",
+        "name": "bookshelf",
+        "path": "data/md/js_libraries/bookshelf",
         "metadata": {
             "title": "Bookshelf.js",
             "category": "JavaScript libraries",
@@ -3349,8 +3349,8 @@
         }
     },
     {
-        "name": "kotlin.md",
-        "path": "data/md/java_jvm/kotlin.md",
+        "name": "kotlin",
+        "path": "data/md/java_jvm/kotlin",
         "metadata": {
             "title": "Kotlin",
             "layout": "2017/sheet",
@@ -3362,8 +3362,8 @@
         }
     },
     {
-        "name": "micronutrients.md",
-        "path": "data/md/fitness/micronutrients.md",
+        "name": "micronutrients",
+        "path": "data/md/fitness/micronutrients",
         "metadata": {
             "title": "Essential micronutrients",
             "category": "Fitness",
@@ -3372,8 +3372,8 @@
         }
     },
     {
-        "name": "general.md",
-        "path": "data/md/fitness/general.md",
+        "name": "general",
+        "path": "data/md/fitness/general",
         "metadata": {
             "title": "General fitness notes",
             "category": "Fitness",
@@ -3382,8 +3382,8 @@
         }
     },
     {
-        "name": "phat.md",
-        "path": "data/md/fitness/phat.md",
+        "name": "phat",
+        "path": "data/md/fitness/phat",
         "metadata": {
             "title": "Phat",
             "category": "Fitness",
@@ -3392,8 +3392,8 @@
         }
     },
     {
-        "name": "js-lazy.md",
-        "path": "data/md/javascript/js-lazy.md",
+        "name": "js-lazy",
+        "path": "data/md/javascript/js-lazy",
         "metadata": {
             "title": "JavaScript lazy shortcuts",
             "category": "JavaScript",
@@ -3401,8 +3401,8 @@
         }
     },
     {
-        "name": "vue@1.0.28.md",
-        "path": "data/md/javascript/vue@1.0.28.md",
+        "name": "vue@1.0.28",
+        "path": "data/md/javascript/vue@1.0.28",
         "metadata": {
             "title": "Vue.js v1.0.28",
             "category": "JavaScript",
@@ -3428,8 +3428,8 @@
         }
     },
     {
-        "name": "jsdoc.md",
-        "path": "data/md/javascript/jsdoc.md",
+        "name": "jsdoc",
+        "path": "data/md/javascript/jsdoc",
         "metadata": {
             "title": "Jsdoc",
             "category": "JavaScript",
@@ -3440,8 +3440,8 @@
         }
     },
     {
-        "name": "es6.md",
-        "path": "data/md/javascript/es6.md",
+        "name": "es6",
+        "path": "data/md/javascript/es6",
         "metadata": {
             "title": "'The Silkworm',",
             "category": "JavaScript",
@@ -3457,8 +3457,8 @@
         }
     },
     {
-        "name": "dom-selection.md",
-        "path": "data/md/javascript/dom-selection.md",
+        "name": "dom-selection",
+        "path": "data/md/javascript/dom-selection",
         "metadata": {
             "title": "DOM Selection",
             "category": "JavaScript",
@@ -3468,8 +3468,8 @@
         }
     },
     {
-        "name": "js-fetch.md",
-        "path": "data/md/javascript/js-fetch.md",
+        "name": "js-fetch",
+        "path": "data/md/javascript/js-fetch",
         "metadata": {
             "title": "fetch()",
             "category": "JavaScript",
@@ -3483,8 +3483,8 @@
         }
     },
     {
-        "name": "vue.md",
-        "path": "data/md/javascript/vue.md",
+        "name": "vue",
+        "path": "data/md/javascript/vue",
         "metadata": {
             "title": "Vue.js",
             "category": "JavaScript",
@@ -3515,8 +3515,8 @@
         }
     },
     {
-        "name": "canvas.md",
-        "path": "data/md/javascript/canvas.md",
+        "name": "canvas",
+        "path": "data/md/javascript/canvas",
         "metadata": {
             "title": "Canvas",
             "category": "JavaScript",
@@ -3526,8 +3526,8 @@
         }
     },
     {
-        "name": "web-workers.md",
-        "path": "data/md/javascript/web-workers.md",
+        "name": "web-workers",
+        "path": "data/md/javascript/web-workers",
         "metadata": {
             "title": "Web workers",
             "category": "JavaScript",
@@ -3554,8 +3554,8 @@
         }
     },
     {
-        "name": "dom-range.md",
-        "path": "data/md/javascript/dom-range.md",
+        "name": "dom-range",
+        "path": "data/md/javascript/dom-range",
         "metadata": {
             "title": "DOM Range",
             "category": "JavaScript",
@@ -3565,8 +3565,8 @@
         }
     },
     {
-        "name": "js-array.md",
-        "path": "data/md/javascript/js-array.md",
+        "name": "js-array",
+        "path": "data/md/javascript/js-array",
         "metadata": {
             "title": "JavaScript Arrays",
             "category": "JavaScript",
@@ -3574,8 +3574,8 @@
         }
     },
     {
-        "name": "js-speech.md",
-        "path": "data/md/javascript/js-speech.md",
+        "name": "js-speech",
+        "path": "data/md/javascript/js-speech",
         "metadata": {
             "title": "JavaScript speech synthesis",
             "category": "JavaScript",
@@ -3585,8 +3585,8 @@
         }
     },
     {
-        "name": "promise.md",
-        "path": "data/md/javascript/promise.md",
+        "name": "promise",
+        "path": "data/md/javascript/promise",
         "metadata": {
             "title": "Promises",
             "category": "JavaScript",
@@ -3595,8 +3595,8 @@
         }
     },
     {
-        "name": "js-appcache.md",
-        "path": "data/md/javascript/js-appcache.md",
+        "name": "js-appcache",
+        "path": "data/md/javascript/js-appcache",
         "metadata": {
             "title": "applicationCache",
             "category": "JavaScript",
@@ -3604,8 +3604,8 @@
         }
     },
     {
-        "name": "js-model.md",
-        "path": "data/md/javascript/js-model.md",
+        "name": "js-model",
+        "path": "data/md/javascript/js-model",
         "metadata": {
             "title": "js-model",
             "category": "JavaScript libraries",
@@ -3615,8 +3615,8 @@
         }
     },
     {
-        "name": "npm.md",
-        "path": "data/md/javascript/npm.md",
+        "name": "npm",
+        "path": "data/md/javascript/npm",
         "metadata": {
             "title": "npm",
             "category": "JavaScript",
@@ -3626,8 +3626,8 @@
         }
     },
     {
-        "name": "do.md",
-        "path": "data/md/ruby_libraries/do.md",
+        "name": "do",
+        "path": "data/md/ruby_libraries/do",
         "metadata": {
             "title": "Do gem",
             "category": "Ruby libraries",
@@ -3635,8 +3635,8 @@
         }
     },
     {
-        "name": "chunky_png.md",
-        "path": "data/md/ruby_libraries/chunky_png.md",
+        "name": "chunky_png",
+        "path": "data/md/ruby_libraries/chunky_png",
         "metadata": {
             "title": "Chunky PNG",
             "category": "Ruby libraries",
@@ -3644,8 +3644,8 @@
         }
     },
     {
-        "name": "pry.md",
-        "path": "data/md/ruby_libraries/pry.md",
+        "name": "pry",
+        "path": "data/md/ruby_libraries/pry",
         "metadata": {
             "title": "Pry",
             "category": "Ruby libraries",
@@ -3654,8 +3654,8 @@
         }
     },
     {
-        "name": "rack-test.md",
-        "path": "data/md/ruby_libraries/rack-test.md",
+        "name": "rack-test",
+        "path": "data/md/ruby_libraries/rack-test",
         "metadata": {
             "title": "rack-test",
             "category": "Ruby libraries",
@@ -3663,8 +3663,8 @@
         }
     },
     {
-        "name": "capybara.md",
-        "path": "data/md/ruby_libraries/capybara.md",
+        "name": "capybara",
+        "path": "data/md/ruby_libraries/capybara",
         "metadata": {
             "title": "Capybara",
             "category": "Ruby libraries",
@@ -3689,8 +3689,8 @@
         }
     },
     {
-        "name": "factory_bot.md",
-        "path": "data/md/ruby_libraries/factory_bot.md",
+        "name": "factory_bot",
+        "path": "data/md/ruby_libraries/factory_bot",
         "metadata": {
             "title": "Factory Bot",
             "category": "Ruby libraries",
@@ -3699,12 +3699,12 @@
             "updated": "2020-07-06",
             "keywords": "",
             "tags": "[Featurable]",
-            "See": "[Transient attributes](http://www.rubydoc.info/gems/factory_bot/file/GETTING_STARTED.md#Transient_Attributes)"
+            "See": "[Transient attributes](http://www.rubydoc.info/gems/factory_bot/file/GETTING_STARTED#Transient_Attributes)"
         }
     },
     {
-        "name": "ffaker.md",
-        "path": "data/md/ruby_libraries/ffaker.md",
+        "name": "ffaker",
+        "path": "data/md/ruby_libraries/ffaker",
         "metadata": {
             "title": "FFaker",
             "category": "Ruby libraries",
@@ -3714,8 +3714,8 @@
         }
     },
     {
-        "name": "ronn.md",
-        "path": "data/md/ruby_libraries/ronn.md",
+        "name": "ronn",
+        "path": "data/md/ruby_libraries/ronn",
         "metadata": {
             "title": "Ronn",
             "category": "Ruby libraries",
@@ -3727,8 +3727,8 @@
         }
     },
     {
-        "name": "sequel.md",
-        "path": "data/md/ruby_libraries/sequel.md",
+        "name": "sequel",
+        "path": "data/md/ruby_libraries/sequel",
         "metadata": {
             "title": "Sequel",
             "category": "Ruby libraries",
@@ -3742,8 +3742,8 @@
         }
     },
     {
-        "name": "machinist.md",
-        "path": "data/md/ruby_libraries/machinist.md",
+        "name": "machinist",
+        "path": "data/md/ruby_libraries/machinist",
         "metadata": {
             "title": "Machinist",
             "category": "Ruby libraries",
@@ -3753,8 +3753,8 @@
         }
     },
     {
-        "name": "slim.md",
-        "path": "data/md/ruby_libraries/slim.md",
+        "name": "slim",
+        "path": "data/md/ruby_libraries/slim",
         "metadata": {
             "title": "Slim",
             "category": "Ruby libraries",
@@ -3768,8 +3768,8 @@
         }
     },
     {
-        "name": "meta-tags.md",
-        "path": "data/md/ruby_libraries/meta-tags.md",
+        "name": "meta-tags",
+        "path": "data/md/ruby_libraries/meta-tags",
         "metadata": {
             "title": "'Member Login',",
             "category": "Ruby libraries",
@@ -3782,8 +3782,8 @@
         }
     },
     {
-        "name": "psdrb.md",
-        "path": "data/md/ruby_libraries/psdrb.md",
+        "name": "psdrb",
+        "path": "data/md/ruby_libraries/psdrb",
         "metadata": {
             "title": "PSD.rb",
             "category": "Ruby libraries",
@@ -3792,8 +3792,8 @@
         }
     },
     {
-        "name": "flux.md",
-        "path": "data/md/react/flux.md",
+        "name": "flux",
+        "path": "data/md/react/flux",
         "metadata": {
             "title": "Flux architecture",
             "category": "React",
@@ -3803,8 +3803,8 @@
         }
     },
     {
-        "name": "react@0.14.md",
-        "path": "data/md/react/react@0.14.md",
+        "name": "react@0.14",
+        "path": "data/md/react/react@0.14",
         "metadata": {
             "title": "React.js (v0.14)",
             "category": "React",
@@ -3844,8 +3844,8 @@
         }
     },
     {
-        "name": "redux.md",
-        "path": "data/md/react/redux.md",
+        "name": "redux",
+        "path": "data/md/react/redux",
         "metadata": {
             "title": "Redux",
             "category": "React",
@@ -3858,8 +3858,8 @@
         }
     },
     {
-        "name": "enzyme.md",
-        "path": "data/md/react/enzyme.md",
+        "name": "enzyme",
+        "path": "data/md/react/enzyme",
         "metadata": {
             "title": "Enzyme",
             "category": "React",
@@ -3873,8 +3873,8 @@
         }
     },
     {
-        "name": "react-router.md",
-        "path": "data/md/react/react-router.md",
+        "name": "react-router",
+        "path": "data/md/react/react-router",
         "metadata": {
             "title": "React-router",
             "category": "React",
@@ -3886,8 +3886,8 @@
         }
     },
     {
-        "name": "react.md",
-        "path": "data/md/react/react.md",
+        "name": "react",
+        "path": "data/md/react/react",
         "metadata": {
             "title": "React.js",
             "category": "React",
@@ -3918,8 +3918,8 @@
         }
     },
     {
-        "name": "enzyme@2.md",
-        "path": "data/md/react/enzyme@2.md",
+        "name": "enzyme@2",
+        "path": "data/md/react/enzyme@2",
         "metadata": {
             "title": "Enzyme v2",
             "category": "React",
@@ -3931,8 +3931,8 @@
         }
     },
     {
-        "name": "awesome-redux.md",
-        "path": "data/md/react/awesome-redux.md",
+        "name": "awesome-redux",
+        "path": "data/md/react/awesome-redux",
         "metadata": {
             "title": "Awesome Redux",
             "category": "React",
@@ -3945,8 +3945,8 @@
         }
     },
     {
-        "name": "ruby21.md",
-        "path": "data/md/ruby/ruby21.md",
+        "name": "ruby21",
+        "path": "data/md/ruby/ruby21",
         "metadata": {
             "title": "Ruby 2.1",
             "category": "Ruby",
@@ -3956,8 +3956,8 @@
         }
     },
     {
-        "name": "stimulus-reflex.md",
-        "path": "data/md/ruby/stimulus-reflex.md",
+        "name": "stimulus-reflex",
+        "path": "data/md/ruby/stimulus-reflex",
         "metadata": {
             "title": "StimulusReflex",
             "category": "Ruby",
@@ -3966,8 +3966,8 @@
         }
     },
     {
-        "name": "rubygems.md",
-        "path": "data/md/ruby/rubygems.md",
+        "name": "rubygems",
+        "path": "data/md/ruby/rubygems",
         "metadata": {
             "title": "Rubygems",
             "category": "Ruby",
@@ -3976,8 +3976,8 @@
         }
     },
     {
-        "name": "rake.md",
-        "path": "data/md/ruby/rake.md",
+        "name": "rake",
+        "path": "data/md/ruby/rake",
         "metadata": {
             "title": "Rake",
             "category": "Ruby",
@@ -3985,8 +3985,8 @@
         }
     },
     {
-        "name": "rbenv.md",
-        "path": "data/md/ruby/rbenv.md",
+        "name": "rbenv",
+        "path": "data/md/ruby/rbenv",
         "metadata": {
             "title": "rbenv",
             "category": "Ruby",
@@ -3999,8 +3999,8 @@
         }
     },
     {
-        "name": "bundler.md",
-        "path": "data/md/ruby/bundler.md",
+        "name": "bundler",
+        "path": "data/md/ruby/bundler",
         "metadata": {
             "title": "Bundler",
             "category": "Ruby",
@@ -4009,8 +4009,8 @@
         }
     },
     {
-        "name": "rspec.md",
-        "path": "data/md/ruby/rspec.md",
+        "name": "rspec",
+        "path": "data/md/ruby/rspec",
         "metadata": {
             "title": "RSpec",
             "category": "Ruby",
@@ -4019,8 +4019,8 @@
         }
     },
     {
-        "name": "ruby.md",
-        "path": "data/md/ruby/ruby.md",
+        "name": "ruby",
+        "path": "data/md/ruby/ruby",
         "metadata": {
             "title": "Ruby",
             "category": "Ruby",
@@ -4030,8 +4030,8 @@
         }
     },
     {
-        "name": "goby.md",
-        "path": "data/md/ruby/goby.md",
+        "name": "goby",
+        "path": "data/md/ruby/goby",
         "metadata": {
             "title": "Goby",
             "layout": "2017/sheet",
@@ -4045,8 +4045,8 @@
         }
     },
     {
-        "name": "minimist-ruby.md",
-        "path": "data/md/ruby/minimist-ruby.md",
+        "name": "minimist-ruby",
+        "path": "data/md/ruby/minimist-ruby",
         "metadata": {
             "title": "minimist ruby",
             "category": "JavaScript libraries",
@@ -4067,8 +4067,8 @@
         }
     },
     {
-        "name": "activeadmin.md",
-        "path": "data/md/ruby/activeadmin.md",
+        "name": "activeadmin",
+        "path": "data/md/ruby/activeadmin",
         "metadata": {
             "title": "ActiveAdmin",
             "category": "Ruby",
@@ -4076,8 +4076,8 @@
         }
     },
     {
-        "name": "rspec-rails.md",
-        "path": "data/md/ruby/rspec-rails.md",
+        "name": "rspec-rails",
+        "path": "data/md/ruby/rspec-rails",
         "metadata": {
             "title": "Rspec-rails",
             "category": "Ruby",
@@ -4088,8 +4088,8 @@
         }
     },
     {
-        "name": "git-tricks.md",
-        "path": "data/md/git/git-tricks.md",
+        "name": "git-tricks",
+        "path": "data/md/git/git-tricks",
         "metadata": {
             "title": "Git tricks",
             "category": "Git",
@@ -4097,8 +4097,8 @@
         }
     },
     {
-        "name": "git-revisions.md",
-        "path": "data/md/git/git-revisions.md",
+        "name": "git-revisions",
+        "path": "data/md/git/git-revisions",
         "metadata": {
             "title": "Git revisions",
             "category": "Git",
@@ -4109,8 +4109,8 @@
         }
     },
     {
-        "name": "git-log-format.md",
-        "path": "data/md/git/git-log-format.md",
+        "name": "git-log-format",
+        "path": "data/md/git/git-log-format",
         "metadata": {
             "title": "Git log format string",
             "category": "Git",
@@ -4121,8 +4121,8 @@
         }
     },
     {
-        "name": "tig.md",
-        "path": "data/md/git/tig.md",
+        "name": "tig",
+        "path": "data/md/git/tig",
         "metadata": {
             "title": "Tig",
             "category": "Git",
@@ -4132,8 +4132,8 @@
         }
     },
     {
-        "name": "git-log.md",
-        "path": "data/md/git/git-log.md",
+        "name": "git-log",
+        "path": "data/md/git/git-log",
         "metadata": {
             "title": "git log",
             "category": "Git",
@@ -4142,8 +4142,8 @@
         }
     },
     {
-        "name": "git-branch.md",
-        "path": "data/md/git/git-branch.md",
+        "name": "git-branch",
+        "path": "data/md/git/git-branch",
         "metadata": {
             "title": "Git branches",
             "category": "Git",
@@ -4152,8 +4152,8 @@
         }
     },
     {
-        "name": "git-extras.md",
-        "path": "data/md/git/git-extras.md",
+        "name": "git-extras",
+        "path": "data/md/git/git-extras",
         "metadata": {
             "title": "Git extras",
             "category": "Git",
@@ -4162,8 +4162,8 @@
         }
     },
     {
-        "name": "analytics.js.md",
-        "path": "data/md/analytics/analytics.js.md",
+        "name": "analytics.js",
+        "path": "data/md/analytics/analytics.js",
         "metadata": {
             "title": "Google Analytics's analytics.js",
             "category": "Analytics",
@@ -4177,8 +4177,8 @@
         }
     },
     {
-        "name": "analytics.md",
-        "path": "data/md/analytics/analytics.md",
+        "name": "analytics",
+        "path": "data/md/analytics/analytics",
         "metadata": {
             "title": "Analytics libraries",
             "layout": "2017/sheet",
@@ -4186,8 +4186,8 @@
         }
     },
     {
-        "name": "mixpanel.md",
-        "path": "data/md/analytics/mixpanel.md",
+        "name": "mixpanel",
+        "path": "data/md/analytics/mixpanel",
         "metadata": {
             "title": "Mixpanel",
             "layout": "2017/sheet",
@@ -4195,8 +4195,8 @@
         }
     },
     {
-        "name": "rails.md",
-        "path": "data/md/rails/rails.md",
+        "name": "rails",
+        "path": "data/md/rails/rails",
         "metadata": {
             "title": "Rails",
             "category": "Rails",
@@ -4204,8 +4204,8 @@
         }
     },
     {
-        "name": "rails-models.md",
-        "path": "data/md/rails/rails-models.md",
+        "name": "rails-models",
+        "path": "data/md/rails/rails-models",
         "metadata": {
             "title": "Rails models",
             "category": "Rails",
@@ -4221,8 +4221,8 @@
         }
     },
     {
-        "name": "rails-i18n.md",
-        "path": "data/md/rails/rails-i18n.md",
+        "name": "rails-i18n",
+        "path": "data/md/rails/rails-i18n",
         "metadata": {
             "title": "\"T\u00edtulo\"",
             "category": "Rails",
@@ -4273,8 +4273,8 @@
         }
     },
     {
-        "name": "rails-plugins.md",
-        "path": "data/md/rails/rails-plugins.md",
+        "name": "rails-plugins",
+        "path": "data/md/rails/rails-plugins",
         "metadata": {
             "title": "Rails plugins",
             "category": "Rails",
@@ -4284,8 +4284,8 @@
         }
     },
     {
-        "name": "rails-forms.md",
-        "path": "data/md/rails/rails-forms.md",
+        "name": "rails-forms",
+        "path": "data/md/rails/rails-forms",
         "metadata": {
             "title": "Rails form helpers",
             "category": "Rails",
@@ -4303,8 +4303,8 @@
         }
     },
     {
-        "name": "rails-controllers.md",
-        "path": "data/md/rails/rails-controllers.md",
+        "name": "rails-controllers",
+        "path": "data/md/rails/rails-controllers",
         "metadata": {
             "title": "Rails controllers",
             "category": "Rails",
@@ -4313,8 +4313,8 @@
         }
     },
     {
-        "name": "rails-migrations.md",
-        "path": "data/md/rails/rails-migrations.md",
+        "name": "rails-migrations",
+        "path": "data/md/rails/rails-migrations",
         "metadata": {
             "title": "Rails migrations",
             "category": "Rails",
@@ -4323,8 +4323,8 @@
         }
     },
     {
-        "name": "rails-routes.md",
-        "path": "data/md/rails/rails-routes.md",
+        "name": "rails-routes",
+        "path": "data/md/rails/rails-routes",
         "metadata": {
             "title": "Routes",
             "category": "Rails",
@@ -4340,8 +4340,8 @@
         }
     },
     {
-        "name": "rails-tricks.md",
-        "path": "data/md/rails/rails-tricks.md",
+        "name": "rails-tricks",
+        "path": "data/md/rails/rails-tricks",
         "metadata": {
             "title": "Rails tricks",
             "category": "Rails",
@@ -4353,8 +4353,8 @@
         }
     },
     {
-        "name": "rails-helpers.md",
-        "path": "data/md/rails/rails-helpers.md",
+        "name": "rails-helpers",
+        "path": "data/md/rails/rails-helpers",
         "metadata": {
             "title": "Rails helpers",
             "category": "Rails",
@@ -4373,8 +4373,8 @@
         }
     },
     {
-        "name": "arel.md",
-        "path": "data/md/rails/arel.md",
+        "name": "arel",
+        "path": "data/md/rails/arel",
         "metadata": {
             "title": "Arel",
             "category": "Rails",

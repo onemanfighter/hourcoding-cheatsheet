@@ -45,7 +45,7 @@ function Component(props: IComponentProps) {
         setFocusState(false);
       }}
     >
-      {removeExtenstionFromString(props.name.toUpperCase())}
+      {props.name.toUpperCase()}
       {focusState && (
         <div className="text-md font-light mx-2 text-green-500">
           {props.title}

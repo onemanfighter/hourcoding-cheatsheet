@@ -7,51 +7,51 @@
             "type": "folder",
             "children": [
                 {
-                    "name": "projectionist.md",
+                    "name": "projectionist",
                     "title": "Projectionist"
                 },
                 {
-                    "name": "vimscript-functions.md",
+                    "name": "vimscript-functions",
                     "title": "Vimscript functions"
                 },
                 {
-                    "name": "vim.md",
+                    "name": "vim",
                     "title": "Vim"
                 },
                 {
-                    "name": "vim-unite.md",
+                    "name": "vim-unite",
                     "title": "Vim-Unite"
                 },
                 {
-                    "name": "vim-digraphs.md",
+                    "name": "vim-digraphs",
                     "title": "Vim digraphs"
                 },
                 {
-                    "name": "vim-easyalign.md",
+                    "name": "vim-easyalign",
                     "title": "Vim Easyalign"
                 },
                 {
-                    "name": "vimscript.md",
+                    "name": "vimscript",
                     "title": "Vim scripting"
                 },
                 {
-                    "name": "vim-help.md",
+                    "name": "vim-help",
                     "title": "Vim helpfiles"
                 },
                 {
-                    "name": "vim-diff.md",
+                    "name": "vim-diff",
                     "title": "Vimdiff"
                 },
                 {
-                    "name": "vimscript-snippets.md",
+                    "name": "vimscript-snippets",
                     "title": "Vimscript snippets"
                 },
                 {
-                    "name": "tabular.md",
+                    "name": "tabular",
                     "title": "My picture"
                 },
                 {
-                    "name": "vim-rails.md",
+                    "name": "vim-rails",
                     "title": "Vim-rails"
                 }
             ]
@@ -61,31 +61,31 @@
             "type": "folder",
             "children": [
                 {
-                    "name": "nodejs-fs.md",
+                    "name": "nodejs-fs",
                     "title": "fs"
                 },
                 {
-                    "name": "nodejs-assert.md",
+                    "name": "nodejs-assert",
                     "title": "assert"
                 },
                 {
-                    "name": "nodejs-stream.md",
+                    "name": "nodejs-stream",
                     "title": "Node.js streams"
                 },
                 {
-                    "name": "nodejs-process.md",
+                    "name": "nodejs-process",
                     "title": "process"
                 },
                 {
-                    "name": "nodejs.md",
+                    "name": "nodejs",
                     "title": "Node.js API"
                 },
                 {
-                    "name": "nodejs-path.md",
+                    "name": "nodejs-path",
                     "title": "Node.js path API"
                 },
                 {
-                    "name": "package-json.md",
+                    "name": "package-json",
                     "title": "package.json"
                 }
             ]
@@ -95,23 +95,23 @@
             "type": "folder",
             "children": [
                 {
-                    "name": "knex.md",
+                    "name": "knex",
                     "title": "Knex"
                 },
                 {
-                    "name": "postgresql-json.md",
+                    "name": "postgresql-json",
                     "title": "PostgreSQL JSON"
                 },
                 {
-                    "name": "mysql.md",
+                    "name": "mysql",
                     "title": "MySQL"
                 },
                 {
-                    "name": "sql-join.md",
+                    "name": "sql-join",
                     "title": "SQL joins"
                 },
                 {
-                    "name": "postgresql.md",
+                    "name": "postgresql",
                     "title": "PostgreSQL"
                 }
             ]
@@ -121,31 +121,31 @@
             "type": "folder",
             "children": [
                 {
-                    "name": "ledger-periods.md",
+                    "name": "ledger-periods",
                     "title": "Ledger periods"
                 },
                 {
-                    "name": "ledger-query.md",
+                    "name": "ledger-query",
                     "title": "Ledger queries"
                 },
                 {
-                    "name": "ledger-format.md",
+                    "name": "ledger-format",
                     "title": "Ledger format"
                 },
                 {
-                    "name": "ledger-csv.md",
+                    "name": "ledger-csv",
                     "title": "Ledger CSV format"
                 },
                 {
-                    "name": "ledger-examples.md",
+                    "name": "ledger-examples",
                     "title": "Ledger examples"
                 },
                 {
-                    "name": "ledger.md",
+                    "name": "ledger",
                     "title": "Ledger CLI"
                 },
                 {
-                    "name": "hledger.md",
+                    "name": "hledger",
                     "title": "Hledger"
                 }
             ]
@@ -155,51 +155,51 @@
             "type": "folder",
             "children": [
                 {
-                    "name": "awscli.md",
+                    "name": "awscli",
                     "title": "AWS CLI"
                 },
                 {
-                    "name": "dockerfile.md",
+                    "name": "dockerfile",
                     "title": "Dockerfile"
                 },
                 {
-                    "name": "flynn.md",
+                    "name": "flynn",
                     "title": "Flynn"
                 },
                 {
-                    "name": "heroku.md",
+                    "name": "heroku",
                     "title": "Heroku"
                 },
                 {
-                    "name": "chef.md",
+                    "name": "chef",
                     "title": "Chef"
                 },
                 {
-                    "name": "deis.md",
+                    "name": "deis",
                     "title": "Deis"
                 },
                 {
-                    "name": "travis.md",
+                    "name": "travis",
                     "title": "Travis.yml"
                 },
                 {
-                    "name": "docker-compose.md",
+                    "name": "docker-compose",
                     "title": "docker-compose"
                 },
                 {
-                    "name": "docker.md",
+                    "name": "docker",
                     "title": "Docker CLI"
                 },
                 {
-                    "name": "vagrant.md",
+                    "name": "vagrant",
                     "title": "Vagrant"
                 },
                 {
-                    "name": "vagrantfile.md",
+                    "name": "vagrantfile",
                     "title": "Vagrantfile"
                 },
                 {
-                    "name": "circle.md",
+                    "name": "circle",
                     "title": "CircleCI"
                 }
             ]
@@ -209,15 +209,15 @@
             "type": "folder",
             "children": [
                 {
-                    "name": "osx.md",
+                    "name": "osx",
                     "title": "OS X"
                 },
                 {
-                    "name": "macos-mouse-acceleration.md",
+                    "name": "macos-mouse-acceleration",
                     "title": "Mouse Acceleration"
                 },
                 {
-                    "name": "applescript.md",
+                    "name": "applescript",
                     "title": "AppleScript"
                 }
             ]
@@ -227,15 +227,15 @@
             "type": "folder",
             "children": [
                 {
-                    "name": "gh-pages.md",
+                    "name": "gh-pages",
                     "title": "GitHub pages"
                 },
                 {
-                    "name": "jekyll-github.md",
+                    "name": "jekyll-github",
                     "title": "Jekyll for GitHub pages"
                 },
                 {
-                    "name": "jekyll.md",
+                    "name": "jekyll",
                     "title": "My blog post"
                 }
             ]
@@ -245,43 +245,43 @@
             "type": "folder",
             "children": [
                 {
-                    "name": "org-mode.md",
+                    "name": "org-mode",
                     "title": "Org Mode"
                 },
                 {
-                    "name": "atom.md",
+                    "name": "atom",
                     "title": "Atom"
                 },
                 {
-                    "name": "sketch.md",
+                    "name": "sketch",
                     "title": "Sketch"
                 },
                 {
-                    "name": "editorconfig.md",
+                    "name": "editorconfig",
                     "title": "editorconfig"
                 },
                 {
-                    "name": "inkscape.md",
+                    "name": "inkscape",
                     "title": "Inkscape"
                 },
                 {
-                    "name": "flashlight.md",
+                    "name": "flashlight",
                     "title": "Flashlight"
                 },
                 {
-                    "name": "weechat.md",
+                    "name": "weechat",
                     "title": "Weechat"
                 },
                 {
-                    "name": "spacemacs.md",
+                    "name": "spacemacs",
                     "title": "Spacemacs"
                 },
                 {
-                    "name": "vscode.md",
+                    "name": "vscode",
                     "title": "Visual Studio Code"
                 },
                 {
-                    "name": "sublime-text.md",
+                    "name": "sublime-text",
                     "title": "Sublime Text"
                 }
             ]
@@ -291,15 +291,15 @@
             "type": "folder",
             "children": [
                 {
-                    "name": "python.md",
+                    "name": "python",
                     "title": "Python"
                 },
                 {
-                    "name": "mako.md",
+                    "name": "mako",
                     "title": "Mako"
                 },
                 {
-                    "name": "jinja.md",
+                    "name": "jinja",
                     "title": "Jinja"
                 }
             ]
@@ -309,47 +309,47 @@
             "type": "folder",
             "children": [
                 {
-                    "name": "bulma.md",
+                    "name": "bulma",
                     "title": "Bulma"
                 },
                 {
-                    "name": "css.md",
+                    "name": "css",
                     "title": "CSS"
                 },
                 {
-                    "name": "stylus.md",
+                    "name": "stylus",
                     "title": "Stylus"
                 },
                 {
-                    "name": "css-tricks.md",
+                    "name": "css-tricks",
                     "title": "CSS tricks"
                 },
                 {
-                    "name": "css-flexbox.md",
+                    "name": "css-flexbox",
                     "title": "CSS flexbox"
                 },
                 {
-                    "name": "css-system-font-stack.md",
+                    "name": "css-system-font-stack",
                     "title": "\"CSS system fonts\""
                 },
                 {
-                    "name": "cssnext.md",
+                    "name": "cssnext",
                     "title": "cssnext"
                 },
                 {
-                    "name": "bootstrap.md",
+                    "name": "bootstrap",
                     "title": "Bootstrap"
                 },
                 {
-                    "name": "css-antialias.md",
+                    "name": "css-antialias",
                     "title": "CSS antialiasing"
                 },
                 {
-                    "name": "sass.md",
+                    "name": "sass",
                     "title": "Sass"
                 },
                 {
-                    "name": "css-grid.md",
+                    "name": "css-grid",
                     "title": "CSS Grid"
                 }
             ]
@@ -359,51 +359,51 @@
             "type": "folder",
             "children": [
                 {
-                    "name": "phoenix-migrations.md",
+                    "name": "phoenix-migrations",
                     "title": "\"Phoenix: Ecto migrations\""
                 },
                 {
-                    "name": "elixir-metaprogramming.md",
+                    "name": "elixir-metaprogramming",
                     "title": "Elixir metaprogramming"
                 },
                 {
-                    "name": "phoenix-ecto.md",
+                    "name": "phoenix-ecto",
                     "title": "\"Phoenix: Ecto\""
                 },
                 {
-                    "name": "phoenix-routing.md",
+                    "name": "phoenix-routing",
                     "title": "\"Phoenix: Routing\""
                 },
                 {
-                    "name": "elixir.md",
+                    "name": "elixir",
                     "title": "Elixir"
                 },
                 {
-                    "name": "ets.md",
+                    "name": "ets",
                     "title": "Erlang ETS"
                 },
                 {
-                    "name": "exunit.md",
+                    "name": "exunit",
                     "title": "ExUnit"
                 },
                 {
-                    "name": "phoenix.md",
+                    "name": "phoenix",
                     "title": "Phoenix"
                 },
                 {
-                    "name": "phoenix-conn.md",
+                    "name": "phoenix-conn",
                     "title": "\"Phoenix: Plug.Conn\""
                 },
                 {
-                    "name": "phoenix-ecto@1.2.md",
+                    "name": "phoenix-ecto@1.2",
                     "title": "\"Phoenix: Ecto models\""
                 },
                 {
-                    "name": "phoenix-ecto@1.3.md",
+                    "name": "phoenix-ecto@1.3",
                     "title": "\"Phoenix: Ecto models\""
                 },
                 {
-                    "name": "phoenix@1.2.md",
+                    "name": "phoenix@1.2",
                     "title": "Phoenix 1.2"
                 }
             ]
@@ -413,15 +413,15 @@
             "type": "folder",
             "children": [
                 {
-                    "name": "csharp7.md",
+                    "name": "csharp7",
                     "title": "C# 7"
                 },
                 {
-                    "name": "go.md",
+                    "name": "go",
                     "title": "Go"
                 },
                 {
-                    "name": "c_preprocessor.md",
+                    "name": "c_preprocessor",
                     "title": "C Preprocessor"
                 }
             ]
@@ -431,163 +431,163 @@
             "type": "folder",
             "children": [
                 {
-                    "name": "social-images.md",
+                    "name": "social-images",
                     "title": "Social media images"
                 },
                 {
-                    "name": "firebase.md",
+                    "name": "firebase",
                     "title": "Firebase"
                 },
                 {
-                    "name": "regexp.md",
+                    "name": "regexp",
                     "title": "regexp"
                 },
                 {
-                    "name": "google_analytics.md",
+                    "name": "google_analytics",
                     "title": "Google Analytics"
                 },
                 {
-                    "name": "frequency-separation-retouching.md",
+                    "name": "frequency-separation-retouching",
                     "title": "Frequency separation retouching"
                 },
                 {
-                    "name": "ios-provision.md",
+                    "name": "ios-provision",
                     "title": "iOS Provisioning Profiles"
                 },
                 {
-                    "name": "passenger.md",
+                    "name": "passenger",
                     "title": "Phusion Passenger"
                 },
                 {
-                    "name": "ubuntu.md",
+                    "name": "ubuntu",
                     "title": "Ubuntu"
                 },
                 {
-                    "name": "less.md",
+                    "name": "less",
                     "title": "Less.js"
                 },
                 {
-                    "name": "watchman.md",
+                    "name": "watchman",
                     "title": "Watchman"
                 },
                 {
-                    "name": "make-assets.md",
+                    "name": "make-assets",
                     "title": "Make for assets"
                 },
                 {
-                    "name": "licenses.md",
+                    "name": "licenses",
                     "title": "Licenses"
                 },
                 {
-                    "name": "nocode.md",
+                    "name": "nocode",
                     "title": "Nocode"
                 },
                 {
-                    "name": "resolutions.md",
+                    "name": "resolutions",
                     "title": "Screen resolutions"
                 },
                 {
-                    "name": "znc.md",
+                    "name": "znc",
                     "title": "ZNC bouncer"
                 },
                 {
-                    "name": "saucelabs.md",
+                    "name": "saucelabs",
                     "title": "Saucelabs"
                 },
                 {
-                    "name": "linux.md",
+                    "name": "linux",
                     "title": "Linux"
                 },
                 {
-                    "name": "datetime.md",
+                    "name": "datetime",
                     "title": "Date & time formats"
                 },
                 {
-                    "name": "figlet.md",
+                    "name": "figlet",
                     "title": "Figlet"
                 },
                 {
-                    "name": "firefox.md",
+                    "name": "firefox",
                     "title": "Firefox"
                 },
                 {
-                    "name": "semver.md",
+                    "name": "semver",
                     "title": "Semver"
                 },
                 {
-                    "name": "cask-index.md",
+                    "name": "cask-index",
                     "title": "Caskroom index"
                 },
                 {
-                    "name": "vainglory.md",
+                    "name": "vainglory",
                     "title": "Vainglory"
                 },
                 {
-                    "name": "unicode.md",
+                    "name": "unicode",
                     "title": "Unicode symbols"
                 },
                 {
-                    "name": "plantuml.md",
+                    "name": "plantuml",
                     "title": "PlantUML"
                 },
                 {
-                    "name": "cheatsheet-styles.md",
+                    "name": "cheatsheet-styles",
                     "title": "Cheatsheet styles"
                 },
                 {
-                    "name": "divshot.md",
+                    "name": "divshot",
                     "title": "Divshot"
                 },
                 {
-                    "name": "lua.md",
+                    "name": "lua",
                     "title": "Lua"
                 },
                 {
-                    "name": "google-webfonts.md",
+                    "name": "google-webfonts",
                     "title": "Google Webfonts"
                 },
                 {
-                    "name": "spreadsheet.md",
+                    "name": "spreadsheet",
                     "title": "Spreadsheet functions"
                 },
                 {
-                    "name": "freenode.md",
+                    "name": "freenode",
                     "title": "Freenode"
                 },
                 {
-                    "name": "devise.md",
+                    "name": "devise",
                     "title": "Devise"
                 },
                 {
-                    "name": "cordova.md",
+                    "name": "cordova",
                     "title": "Apache Cordova"
                 },
                 {
-                    "name": "siege.md",
+                    "name": "siege",
                     "title": "Siege"
                 },
                 {
-                    "name": "strftime.md",
+                    "name": "strftime",
                     "title": "strftime format"
                 },
                 {
-                    "name": "ph-food-delivery.md",
+                    "name": "ph-food-delivery",
                     "title": "Food delivery (Philippines)"
                 },
                 {
-                    "name": "imagemagick.md",
+                    "name": "imagemagick",
                     "title": "Imagemagick"
                 },
                 {
-                    "name": "simple_form.md",
+                    "name": "simple_form",
                     "title": "SimpleForm"
                 },
                 {
-                    "name": "premailer.md",
+                    "name": "premailer",
                     "title": "Premailer"
                 },
                 {
-                    "name": "command_line.md",
+                    "name": "command_line",
                     "title": "Command line stuff"
                 }
             ]
@@ -597,51 +597,51 @@
             "type": "folder",
             "children": [
                 {
-                    "name": "html-meta.md",
+                    "name": "html-meta",
                     "title": "HTML meta tags"
                 },
                 {
-                    "name": "xpath.md",
+                    "name": "xpath",
                     "title": "Xpath"
                 },
                 {
-                    "name": "html-input.md",
+                    "name": "html-input",
                     "title": "Input tag"
                 },
                 {
-                    "name": "html-microformats.md",
+                    "name": "html-microformats",
                     "title": "Microformats"
                 },
                 {
-                    "name": "html-share.md",
+                    "name": "html-share",
                     "title": "Share links"
                 },
                 {
-                    "name": "html-email.md",
+                    "name": "html-email",
                     "title": "HTML emails"
                 },
                 {
-                    "name": "applinks.md",
+                    "name": "applinks",
                     "title": "Applinks"
                 },
                 {
-                    "name": "appcache.md",
+                    "name": "appcache",
                     "title": "Appcache"
                 },
                 {
-                    "name": "ie.md",
+                    "name": "ie",
                     "title": "Internet Explorer"
                 },
                 {
-                    "name": "layout-thrashing.md",
+                    "name": "layout-thrashing",
                     "title": "Layout thrashing"
                 },
                 {
-                    "name": "ie_bugs.md",
+                    "name": "ie_bugs",
                     "title": "Legacy IE bugs"
                 },
                 {
-                    "name": "html.md",
+                    "name": "html",
                     "title": "HTML"
                 }
             ]
@@ -651,139 +651,139 @@
             "type": "folder",
             "children": [
                 {
-                    "name": "find.md",
+                    "name": "find",
                     "title": "Find"
                 },
                 {
-                    "name": "makefile.md",
+                    "name": "makefile",
                     "title": "Makefile"
                 },
                 {
-                    "name": "emacs.md",
+                    "name": "emacs",
                     "title": "Emacs"
                 },
                 {
-                    "name": "httpie.md",
+                    "name": "httpie",
                     "title": "httpie"
                 },
                 {
-                    "name": "rtorrent.md",
+                    "name": "rtorrent",
                     "title": "rTorrent"
                 },
                 {
-                    "name": "adb.md",
+                    "name": "adb",
                     "title": "adb (Android Debug Bridge)"
                 },
                 {
-                    "name": "fish-shell.md",
+                    "name": "fish-shell",
                     "title": "Fish shell"
                 },
                 {
-                    "name": "watchexec.md",
+                    "name": "watchexec",
                     "title": "Watchexec"
                 },
                 {
-                    "name": "scp.md",
+                    "name": "scp",
                     "title": "scp"
                 },
                 {
-                    "name": "animated_gif.md",
+                    "name": "animated_gif",
                     "title": "Animated GIFs"
                 },
                 {
-                    "name": "ansi.md",
+                    "name": "ansi",
                     "title": "Ansi codes"
                 },
                 {
-                    "name": "sh-pipes.md",
+                    "name": "sh-pipes",
                     "title": "\"Shell: named pipes\""
                 },
                 {
-                    "name": "clip.md",
+                    "name": "clip",
                     "title": "Command Line Interface Pages"
                 },
                 {
-                    "name": "curl.md",
+                    "name": "curl",
                     "title": "Curl"
                 },
                 {
-                    "name": "pass.md",
+                    "name": "pass",
                     "title": "Pass"
                 },
                 {
-                    "name": "ncftp.md",
+                    "name": "ncftp",
                     "title": "ncftp"
                 },
                 {
-                    "name": "rename.md",
+                    "name": "rename",
                     "title": "rename"
                 },
                 {
-                    "name": "rsync.md",
+                    "name": "rsync",
                     "title": "Rsync"
                 },
                 {
-                    "name": "screen.md",
+                    "name": "screen",
                     "title": "Screen"
                 },
                 {
-                    "name": "grep.md",
+                    "name": "grep",
                     "title": "GNU grep"
                 },
                 {
-                    "name": "ffmpeg.md",
+                    "name": "ffmpeg",
                     "title": "ffmpeg"
                 },
                 {
-                    "name": "zsh.md",
+                    "name": "zsh",
                     "title": "zsh"
                 },
                 {
-                    "name": "top.md",
+                    "name": "top",
                     "title": "top"
                 },
                 {
-                    "name": "gnupg.md",
+                    "name": "gnupg",
                     "title": "GnuPG"
                 },
                 {
-                    "name": "cron.md",
+                    "name": "cron",
                     "title": "Cron"
                 },
                 {
-                    "name": "man.md",
+                    "name": "man",
                     "title": "Man"
                 },
                 {
-                    "name": "tar.md",
+                    "name": "tar",
                     "title": "tar"
                 },
                 {
-                    "name": "pm2.md",
+                    "name": "pm2",
                     "title": "pm2"
                 },
                 {
-                    "name": "sed.md",
+                    "name": "sed",
                     "title": "sed"
                 },
                 {
-                    "name": "composer.md",
+                    "name": "composer",
                     "title": "composer"
                 },
                 {
-                    "name": "tmux.md",
+                    "name": "tmux",
                     "title": "tmux"
                 },
                 {
-                    "name": "bash.md",
+                    "name": "bash",
                     "title": "Bash scripting"
                 },
                 {
-                    "name": "homebrew.md",
+                    "name": "homebrew",
                     "title": "Homebrew"
                 },
                 {
-                    "name": "sh.md",
+                    "name": "sh",
                     "title": "Shell scripting"
                 }
             ]
@@ -793,7 +793,7 @@
             "type": "folder",
             "children": [
                 {
-                    "name": "php.md",
+                    "name": "php",
                     "title": "PHP"
                 }
             ]
@@ -803,23 +803,23 @@
             "type": "folder",
             "children": [
                 {
-                    "name": "ansible-guide.md",
+                    "name": "ansible-guide",
                     "title": "\"Ansible quickstart\""
                 },
                 {
-                    "name": "ansible-modules.md",
+                    "name": "ansible-modules",
                     "title": "Ansible modules"
                 },
                 {
-                    "name": "ansible-roles.md",
+                    "name": "ansible-roles",
                     "title": "Ansible roles"
                 },
                 {
-                    "name": "ansible.md",
+                    "name": "ansible",
                     "title": "Ansible"
                 },
                 {
-                    "name": "ansible-examples.md",
+                    "name": "ansible-examples",
                     "title": "Ansible examples"
                 }
             ]
@@ -829,39 +829,39 @@
             "type": "folder",
             "children": [
                 {
-                    "name": "markdown.md",
+                    "name": "markdown",
                     "title": "Markdown"
                 },
                 {
-                    "name": "yaml.md",
+                    "name": "yaml",
                     "title": "Yaml"
                 },
                 {
-                    "name": "rst.md",
+                    "name": "rst",
                     "title": "ReStructuredText"
                 },
                 {
-                    "name": "tomdoc.md",
+                    "name": "tomdoc",
                     "title": "Tomdoc"
                 },
                 {
-                    "name": "rdoc.md",
+                    "name": "rdoc",
                     "title": "Rdoc"
                 },
                 {
-                    "name": "textile.md",
+                    "name": "textile",
                     "title": "Textile"
                 },
                 {
-                    "name": "kramdown.md",
+                    "name": "kramdown",
                     "title": "Kramdown"
                 },
                 {
-                    "name": "emmet.md",
+                    "name": "emmet",
                     "title": "Emmet"
                 },
                 {
-                    "name": "haml.md",
+                    "name": "haml",
                     "title": "Haml"
                 }
             ]
@@ -871,303 +871,303 @@
             "type": "folder",
             "children": [
                 {
-                    "name": "jquery.md",
+                    "name": "jquery",
                     "title": "jQuery"
                 },
                 {
-                    "name": "mocha.md",
+                    "name": "mocha",
                     "title": "Mocha.js"
                 },
                 {
-                    "name": "mocha-tdd.md",
+                    "name": "mocha-tdd",
                     "title": "Mocha.js TDD interface"
                 },
                 {
-                    "name": "commander.js.md",
+                    "name": "commander.js",
                     "title": "Commander.js"
                 },
                 {
-                    "name": "lodash.md",
+                    "name": "lodash",
                     "title": "Lodash"
                 },
                 {
-                    "name": "chai.md",
+                    "name": "chai",
                     "title": "Chai.js"
                 },
                 {
-                    "name": "modernizr.md",
+                    "name": "modernizr",
                     "title": "Modernizr"
                 },
                 {
-                    "name": "spine.md",
+                    "name": "spine",
                     "title": "Spine"
                 },
                 {
-                    "name": "jquery-cdn.md",
+                    "name": "jquery-cdn",
                     "title": "jQuery CDN"
                 },
                 {
-                    "name": "sinon.md",
+                    "name": "sinon",
                     "title": "Sinon"
                 },
                 {
-                    "name": "nock.md",
+                    "name": "nock",
                     "title": "Nock"
                 },
                 {
-                    "name": "mobx.md",
+                    "name": "mobx",
                     "title": "Mobx"
                 },
                 {
-                    "name": "umdjs.md",
+                    "name": "umdjs",
                     "title": "Universal JS module loader"
                 },
                 {
-                    "name": "co.md",
+                    "name": "co",
                     "title": "co"
                 },
                 {
-                    "name": "immutable.js.md",
+                    "name": "immutable.js",
                     "title": "Immutable.js"
                 },
                 {
-                    "name": "virtual-dom.md",
+                    "name": "virtual-dom",
                     "title": "Virtual-dom"
                 },
                 {
-                    "name": "harvey.js.md",
+                    "name": "harvey.js",
                     "title": "Harvey.js"
                 },
                 {
-                    "name": "polyfill.io.md",
+                    "name": "polyfill.io",
                     "title": "Polyfill.io"
                 },
                 {
-                    "name": "riot.md",
+                    "name": "riot",
                     "title": "Riot.js"
                 },
                 {
-                    "name": "weinre.md",
+                    "name": "weinre",
                     "title": "Weinre"
                 },
                 {
-                    "name": "parsley.md",
+                    "name": "parsley",
                     "title": "Parsley.js"
                 },
                 {
-                    "name": "101.md",
+                    "name": "101",
                     "title": "101"
                 },
                 {
-                    "name": "mocha-html.md",
+                    "name": "mocha-html",
                     "title": "Mocha HTML"
                 },
                 {
-                    "name": "yarn.md",
+                    "name": "yarn",
                     "title": "Yarn"
                 },
                 {
-                    "name": "koa.md",
+                    "name": "koa",
                     "title": "Koa"
                 },
                 {
-                    "name": "jasmine.md",
+                    "name": "jasmine",
                     "title": "Jasmine"
                 },
                 {
-                    "name": "vows.md",
+                    "name": "vows",
                     "title": "Vows"
                 },
                 {
-                    "name": "bluebird.md",
+                    "name": "bluebird",
                     "title": "bluebird.js"
                 },
                 {
-                    "name": "gremlins.md",
+                    "name": "gremlins",
                     "title": "Gremlins.js"
                 },
                 {
-                    "name": "jshint.md",
+                    "name": "jshint",
                     "title": "Jshint"
                 },
                 {
-                    "name": "blessed.md",
+                    "name": "blessed",
                     "title": "Blessed"
                 },
                 {
-                    "name": "sequelize.md",
+                    "name": "sequelize",
                     "title": "{ type: Sequelize.STRING, allowNull: false },"
                 },
                 {
-                    "name": "express.md",
+                    "name": "express",
                     "title": "\"MyApp\","
                 },
                 {
-                    "name": "camp.md",
+                    "name": "camp",
                     "title": "Camp"
                 },
                 {
-                    "name": "zombie.md",
+                    "name": "zombie",
                     "title": "Zombie"
                 },
                 {
-                    "name": "modella.md",
+                    "name": "modella",
                     "title": "Modella"
                 },
                 {
-                    "name": "gulp.md",
+                    "name": "gulp",
                     "title": "Gulp"
                 },
                 {
-                    "name": "js-model_lib.md",
+                    "name": "js-model_lib",
                     "title": "js-model library"
                 },
                 {
-                    "name": "sinon-chai.md",
+                    "name": "sinon-chai",
                     "title": "Sinon-chai"
                 },
                 {
-                    "name": "angularjs.md",
+                    "name": "angularjs",
                     "title": "Angular.js"
                 },
                 {
-                    "name": "jade.md",
+                    "name": "jade",
                     "title": "Jade"
                 },
                 {
-                    "name": "deku.md",
+                    "name": "deku",
                     "title": "Deku v2"
                 },
                 {
-                    "name": "jscoverage.md",
+                    "name": "jscoverage",
                     "title": "jscoverage"
                 },
                 {
-                    "name": "ractive.md",
+                    "name": "ractive",
                     "title": "Ractive.js"
                 },
                 {
-                    "name": "mocha-blanket.md",
+                    "name": "mocha-blanket",
                     "title": "Mocha blanket"
                 },
                 {
-                    "name": "underscore-string.md",
+                    "name": "underscore-string",
                     "title": "Underscore-string"
                 },
                 {
-                    "name": "parsimmon.md",
+                    "name": "parsimmon",
                     "title": "Parsimmon"
                 },
                 {
-                    "name": "superagent.md",
+                    "name": "superagent",
                     "title": "Superagent"
                 },
                 {
-                    "name": "rollup.md",
+                    "name": "rollup",
                     "title": "Rollup.js"
                 },
                 {
-                    "name": "middleman.md",
+                    "name": "middleman",
                     "title": "Middleman 3"
                 },
                 {
-                    "name": "qunit.md",
+                    "name": "qunit",
                     "title": "Qunit"
                 },
                 {
-                    "name": "qjs.md",
+                    "name": "qjs",
                     "title": "Q.js"
                 },
                 {
-                    "name": "browser-sync.md",
+                    "name": "browser-sync",
                     "title": "Browsersync"
                 },
                 {
-                    "name": "stencil.md",
+                    "name": "stencil",
                     "title": "Stencil"
                 },
                 {
-                    "name": "expectjs.md",
+                    "name": "expectjs",
                     "title": "expect.js"
                 },
                 {
-                    "name": "shelljs.md",
+                    "name": "shelljs",
                     "title": "Shell.js"
                 },
                 {
-                    "name": "minimist.md",
+                    "name": "minimist",
                     "title": "minimist"
                 },
                 {
-                    "name": "jest.md",
+                    "name": "jest",
                     "title": "Jest"
                 },
                 {
-                    "name": "bower-api.md",
+                    "name": "bower-api",
                     "title": "Bower API"
                 },
                 {
-                    "name": "handlebars.js.md",
+                    "name": "handlebars.js",
                     "title": "Handlebars.js"
                 },
                 {
-                    "name": "ember.md",
+                    "name": "ember",
                     "title": "Ember.js"
                 },
                 {
-                    "name": "flow.md",
+                    "name": "flow",
                     "title": "Flow"
                 },
                 {
-                    "name": "deku@1.md",
+                    "name": "deku@1",
                     "title": "Deku v1"
                 },
                 {
-                    "name": "pug.md",
+                    "name": "pug",
                     "title": "Pug"
                 },
                 {
-                    "name": "yargs.md",
+                    "name": "yargs",
                     "title": "Yargs"
                 },
                 {
-                    "name": "nopt.md",
+                    "name": "nopt",
                     "title": "Nopt"
                 },
                 {
-                    "name": "browserify.md",
+                    "name": "browserify",
                     "title": "Browserify"
                 },
                 {
-                    "name": "moment.md",
+                    "name": "moment",
                     "title": "Moment.js"
                 },
                 {
-                    "name": "backbone.md",
+                    "name": "backbone",
                     "title": "Backbone.js"
                 },
                 {
-                    "name": "typescript.md",
+                    "name": "typescript",
                     "title": "TypeScript"
                 },
                 {
-                    "name": "fastify.md",
+                    "name": "fastify",
                     "title": "Fastify"
                 },
                 {
-                    "name": "webpack.md",
+                    "name": "webpack",
                     "title": "Webpack"
                 },
                 {
-                    "name": "meow.md",
+                    "name": "meow",
                     "title": "Meow"
                 },
                 {
-                    "name": "tape.md",
+                    "name": "tape",
                     "title": "Tape"
                 },
                 {
-                    "name": "bookshelf.md",
+                    "name": "bookshelf",
                     "title": "Bookshelf.js"
                 }
             ]
@@ -1177,7 +1177,7 @@
             "type": "folder",
             "children": [
                 {
-                    "name": "kotlin.md",
+                    "name": "kotlin",
                     "title": "Kotlin"
                 }
             ]
@@ -1187,15 +1187,15 @@
             "type": "folder",
             "children": [
                 {
-                    "name": "micronutrients.md",
+                    "name": "micronutrients",
                     "title": "Essential micronutrients"
                 },
                 {
-                    "name": "general.md",
+                    "name": "general",
                     "title": "General fitness notes"
                 },
                 {
-                    "name": "phat.md",
+                    "name": "phat",
                     "title": "Phat"
                 }
             ]
@@ -1205,67 +1205,67 @@
             "type": "folder",
             "children": [
                 {
-                    "name": "js-lazy.md",
+                    "name": "js-lazy",
                     "title": "JavaScript lazy shortcuts"
                 },
                 {
-                    "name": "vue@1.0.28.md",
+                    "name": "vue@1.0.28",
                     "title": "Vue.js v1.0.28"
                 },
                 {
-                    "name": "jsdoc.md",
+                    "name": "jsdoc",
                     "title": "Jsdoc"
                 },
                 {
-                    "name": "es6.md",
+                    "name": "es6",
                     "title": "'The Silkworm',"
                 },
                 {
-                    "name": "dom-selection.md",
+                    "name": "dom-selection",
                     "title": "DOM Selection"
                 },
                 {
-                    "name": "js-fetch.md",
+                    "name": "js-fetch",
                     "title": "fetch()"
                 },
                 {
-                    "name": "vue.md",
+                    "name": "vue",
                     "title": "Vue.js"
                 },
                 {
-                    "name": "canvas.md",
+                    "name": "canvas",
                     "title": "Canvas"
                 },
                 {
-                    "name": "web-workers.md",
+                    "name": "web-workers",
                     "title": "Web workers"
                 },
                 {
-                    "name": "dom-range.md",
+                    "name": "dom-range",
                     "title": "DOM Range"
                 },
                 {
-                    "name": "js-array.md",
+                    "name": "js-array",
                     "title": "JavaScript Arrays"
                 },
                 {
-                    "name": "js-speech.md",
+                    "name": "js-speech",
                     "title": "JavaScript speech synthesis"
                 },
                 {
-                    "name": "promise.md",
+                    "name": "promise",
                     "title": "Promises"
                 },
                 {
-                    "name": "js-appcache.md",
+                    "name": "js-appcache",
                     "title": "applicationCache"
                 },
                 {
-                    "name": "js-model.md",
+                    "name": "js-model",
                     "title": "js-model"
                 },
                 {
-                    "name": "npm.md",
+                    "name": "npm",
                     "title": "npm"
                 }
             ]
@@ -1275,55 +1275,55 @@
             "type": "folder",
             "children": [
                 {
-                    "name": "do.md",
+                    "name": "do",
                     "title": "Do gem"
                 },
                 {
-                    "name": "chunky_png.md",
+                    "name": "chunky_png",
                     "title": "Chunky PNG"
                 },
                 {
-                    "name": "pry.md",
+                    "name": "pry",
                     "title": "Pry"
                 },
                 {
-                    "name": "rack-test.md",
+                    "name": "rack-test",
                     "title": "rack-test"
                 },
                 {
-                    "name": "capybara.md",
+                    "name": "capybara",
                     "title": "Capybara"
                 },
                 {
-                    "name": "factory_bot.md",
+                    "name": "factory_bot",
                     "title": "Factory Bot"
                 },
                 {
-                    "name": "ffaker.md",
+                    "name": "ffaker",
                     "title": "FFaker"
                 },
                 {
-                    "name": "ronn.md",
+                    "name": "ronn",
                     "title": "Ronn"
                 },
                 {
-                    "name": "sequel.md",
+                    "name": "sequel",
                     "title": "Sequel"
                 },
                 {
-                    "name": "machinist.md",
+                    "name": "machinist",
                     "title": "Machinist"
                 },
                 {
-                    "name": "slim.md",
+                    "name": "slim",
                     "title": "Slim"
                 },
                 {
-                    "name": "meta-tags.md",
+                    "name": "meta-tags",
                     "title": "'Member Login',"
                 },
                 {
-                    "name": "psdrb.md",
+                    "name": "psdrb",
                     "title": "PSD.rb"
                 }
             ]
@@ -1333,35 +1333,35 @@
             "type": "folder",
             "children": [
                 {
-                    "name": "flux.md",
+                    "name": "flux",
                     "title": "Flux architecture"
                 },
                 {
-                    "name": "react@0.14.md",
+                    "name": "react@0.14",
                     "title": "React.js (v0.14)"
                 },
                 {
-                    "name": "redux.md",
+                    "name": "redux",
                     "title": "Redux"
                 },
                 {
-                    "name": "enzyme.md",
+                    "name": "enzyme",
                     "title": "Enzyme"
                 },
                 {
-                    "name": "react-router.md",
+                    "name": "react-router",
                     "title": "React-router"
                 },
                 {
-                    "name": "react.md",
+                    "name": "react",
                     "title": "React.js"
                 },
                 {
-                    "name": "enzyme@2.md",
+                    "name": "enzyme@2",
                     "title": "Enzyme v2"
                 },
                 {
-                    "name": "awesome-redux.md",
+                    "name": "awesome-redux",
                     "title": "Awesome Redux"
                 }
             ]
@@ -1371,51 +1371,51 @@
             "type": "folder",
             "children": [
                 {
-                    "name": "ruby21.md",
+                    "name": "ruby21",
                     "title": "Ruby 2.1"
                 },
                 {
-                    "name": "stimulus-reflex.md",
+                    "name": "stimulus-reflex",
                     "title": "StimulusReflex"
                 },
                 {
-                    "name": "rubygems.md",
+                    "name": "rubygems",
                     "title": "Rubygems"
                 },
                 {
-                    "name": "rake.md",
+                    "name": "rake",
                     "title": "Rake"
                 },
                 {
-                    "name": "rbenv.md",
+                    "name": "rbenv",
                     "title": "rbenv"
                 },
                 {
-                    "name": "bundler.md",
+                    "name": "bundler",
                     "title": "Bundler"
                 },
                 {
-                    "name": "rspec.md",
+                    "name": "rspec",
                     "title": "RSpec"
                 },
                 {
-                    "name": "ruby.md",
+                    "name": "ruby",
                     "title": "Ruby"
                 },
                 {
-                    "name": "goby.md",
+                    "name": "goby",
                     "title": "Goby"
                 },
                 {
-                    "name": "minimist-ruby.md",
+                    "name": "minimist-ruby",
                     "title": "minimist ruby"
                 },
                 {
-                    "name": "activeadmin.md",
+                    "name": "activeadmin",
                     "title": "ActiveAdmin"
                 },
                 {
-                    "name": "rspec-rails.md",
+                    "name": "rspec-rails",
                     "title": "Rspec-rails"
                 }
             ]
@@ -1425,31 +1425,31 @@
             "type": "folder",
             "children": [
                 {
-                    "name": "git-tricks.md",
+                    "name": "git-tricks",
                     "title": "Git tricks"
                 },
                 {
-                    "name": "git-revisions.md",
+                    "name": "git-revisions",
                     "title": "Git revisions"
                 },
                 {
-                    "name": "git-log-format.md",
+                    "name": "git-log-format",
                     "title": "Git log format string"
                 },
                 {
-                    "name": "tig.md",
+                    "name": "tig",
                     "title": "Tig"
                 },
                 {
-                    "name": "git-log.md",
+                    "name": "git-log",
                     "title": "git log"
                 },
                 {
-                    "name": "git-branch.md",
+                    "name": "git-branch",
                     "title": "Git branches"
                 },
                 {
-                    "name": "git-extras.md",
+                    "name": "git-extras",
                     "title": "Git extras"
                 }
             ]
@@ -1459,15 +1459,15 @@
             "type": "folder",
             "children": [
                 {
-                    "name": "analytics.js.md",
+                    "name": "analytics.js",
                     "title": "Google Analytics's analytics.js"
                 },
                 {
-                    "name": "analytics.md",
+                    "name": "analytics",
                     "title": "Analytics libraries"
                 },
                 {
-                    "name": "mixpanel.md",
+                    "name": "mixpanel",
                     "title": "Mixpanel"
                 }
             ]
@@ -1477,47 +1477,47 @@
             "type": "folder",
             "children": [
                 {
-                    "name": "rails.md",
+                    "name": "rails",
                     "title": "Rails"
                 },
                 {
-                    "name": "rails-models.md",
+                    "name": "rails-models",
                     "title": "Rails models"
                 },
                 {
-                    "name": "rails-i18n.md",
+                    "name": "rails-i18n",
                     "title": "\"T\u00edtulo\""
                 },
                 {
-                    "name": "rails-plugins.md",
+                    "name": "rails-plugins",
                     "title": "Rails plugins"
                 },
                 {
-                    "name": "rails-forms.md",
+                    "name": "rails-forms",
                     "title": "Rails form helpers"
                 },
                 {
-                    "name": "rails-controllers.md",
+                    "name": "rails-controllers",
                     "title": "Rails controllers"
                 },
                 {
-                    "name": "rails-migrations.md",
+                    "name": "rails-migrations",
                     "title": "Rails migrations"
                 },
                 {
-                    "name": "rails-routes.md",
+                    "name": "rails-routes",
                     "title": "Routes"
                 },
                 {
-                    "name": "rails-tricks.md",
+                    "name": "rails-tricks",
                     "title": "Rails tricks"
                 },
                 {
-                    "name": "rails-helpers.md",
+                    "name": "rails-helpers",
                     "title": "Rails helpers"
                 },
                 {
-                    "name": "arel.md",
+                    "name": "arel",
                     "title": "Arel"
                 }
             ]

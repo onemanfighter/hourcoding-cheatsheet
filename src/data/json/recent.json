@@ -1,7 +1,7 @@
 [
     {
-        "name": "clip.md",
-        "path": "data/md/cli/clip.md",
+        "name": "clip",
+        "path": "data/md/cli/clip",
         "metadata": {
             "title": "Command Line Interface Pages",
             "category": "CLI",
@@ -11,8 +11,8 @@
         }
     },
     {
-        "name": "tig.md",
-        "path": "data/md/git/tig.md",
+        "name": "tig",
+        "path": "data/md/git/tig",
         "metadata": {
             "title": "Tig",
             "category": "Git",
@@ -22,8 +22,8 @@
         }
     },
     {
-        "name": "atom.md",
-        "path": "data/md/app/atom.md",
+        "name": "atom",
+        "path": "data/md/app/atom",
         "metadata": {
             "title": "Atom",
             "category": "Apps",
@@ -33,8 +33,8 @@
         }
     },
     {
-        "name": "tar.md",
-        "path": "data/md/cli/tar.md",
+        "name": "tar",
+        "path": "data/md/cli/tar",
         "metadata": {
             "title": "tar",
             "category": "CLI",
@@ -44,8 +44,8 @@
         }
     },
     {
-        "name": "grep.md",
-        "path": "data/md/cli/grep.md",
+        "name": "grep",
+        "path": "data/md/cli/grep",
         "metadata": {
             "title": "GNU grep",
             "category": "CLI",
@@ -54,8 +54,8 @@
         }
     },
     {
-        "name": "screen.md",
-        "path": "data/md/cli/screen.md",
+        "name": "screen",
+        "path": "data/md/cli/screen",
         "metadata": {
             "title": "Screen",
             "category": "CLI",
@@ -66,8 +66,8 @@
         }
     },
     {
-        "name": "factory_bot.md",
-        "path": "data/md/ruby_libraries/factory_bot.md",
+        "name": "factory_bot",
+        "path": "data/md/ruby_libraries/factory_bot",
         "metadata": {
             "title": "Factory Bot",
             "category": "Ruby libraries",
@@ -76,12 +76,12 @@
             "updated": "2020-07-06",
             "keywords": "",
             "tags": "[Featurable]",
-            "See": "[Transient attributes](http://www.rubydoc.info/gems/factory_bot/file/GETTING_STARTED.md#Transient_Attributes)"
+            "See": "[Transient attributes](http://www.rubydoc.info/gems/factory_bot/file/GETTING_STARTED#Transient_Attributes)"
         }
     },
     {
-        "name": "stimulus-reflex.md",
-        "path": "data/md/ruby/stimulus-reflex.md",
+        "name": "stimulus-reflex",
+        "path": "data/md/ruby/stimulus-reflex",
         "metadata": {
             "title": "StimulusReflex",
             "category": "Ruby",
@@ -90,8 +90,8 @@
         }
     },
     {
-        "name": "vim.md",
-        "path": "data/md/vim/vim.md",
+        "name": "vim",
+        "path": "data/md/vim/vim",
         "metadata": {
             "title": "Vim",
             "category": "Vim",
@@ -104,8 +104,8 @@
         }
     },
     {
-        "name": "vimscript.md",
-        "path": "data/md/vim/vimscript.md",
+        "name": "vimscript",
+        "path": "data/md/vim/vimscript",
         "metadata": {
             "title": "Vim scripting",
             "category": "Vim",
@@ -119,8 +119,8 @@
         }
     },
     {
-        "name": "react.md",
-        "path": "data/md/react/react.md",
+        "name": "react",
+        "path": "data/md/react/react",
         "metadata": {
             "title": "React.js",
             "category": "React",
@@ -151,8 +151,8 @@
         }
     },
     {
-        "name": "httpie.md",
-        "path": "data/md/cli/httpie.md",
+        "name": "httpie",
+        "path": "data/md/cli/httpie",
         "metadata": {
             "title": "httpie",
             "category": "CLI",
@@ -167,8 +167,8 @@
         }
     },
     {
-        "name": "mysql.md",
-        "path": "data/md/databases/mysql.md",
+        "name": "mysql",
+        "path": "data/md/databases/mysql",
         "metadata": {
             "title": "MySQL",
             "updated": "2020-07-05",
@@ -177,8 +177,8 @@
         }
     },
     {
-        "name": "flow.md",
-        "path": "data/md/js_libraries/flow.md",
+        "name": "flow",
+        "path": "data/md/js_libraries/flow",
         "metadata": {
             "title": "Flow",
             "layout": "2017/sheet",
@@ -206,8 +206,8 @@
         }
     },
     {
-        "name": "bash.md",
-        "path": "data/md/cli/bash.md",
+        "name": "bash",
+        "path": "data/md/cli/bash",
         "metadata": {
             "title": "Bash scripting",
             "category": "CLI",
@@ -219,8 +219,8 @@
         }
     },
     {
-        "name": "sass.md",
-        "path": "data/md/css/sass.md",
+        "name": "sass",
+        "path": "data/md/css/sass",
         "metadata": {
             "title": "Sass",
             "category": "CSS",
@@ -244,8 +244,8 @@
         }
     },
     {
-        "name": "resolutions.md",
-        "path": "data/md/others/resolutions.md",
+        "name": "resolutions",
+        "path": "data/md/others/resolutions",
         "metadata": {
             "title": "Screen resolutions",
             "layout": "2017/sheet",
@@ -254,8 +254,8 @@
         }
     },
     {
-        "name": "emmet.md",
-        "path": "data/md/markup/emmet.md",
+        "name": "emmet",
+        "path": "data/md/markup/emmet",
         "metadata": {
             "title": "Emmet",
             "category": "Markup",

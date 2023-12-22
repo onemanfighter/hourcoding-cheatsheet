@@ -80,7 +80,7 @@ export default function DetailsScreen(props: IDetailsScreenProps) {
  */
 function showMdData(path: string, responseHandler: (mdData: string) => void) {
   if (path === "") return;
-  const readmePath = require(`../../${path}`);
+  const readmePath = require(`../../${path}.md`);
   fetch(readmePath)
     .then((res) => {
       return res.text();

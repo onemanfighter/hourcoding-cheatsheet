@@ -50,7 +50,7 @@ export default function NavComponent(props: INavComponentProps) {
             position={{ vertical: "bottom", horizontal: "left" }}
             overlap="circular"
           >
-            <NavLinkComponent to="/csofficialdoc" text="Cheatsheets" />
+            <NavLinkComponent to="/csofficialdoc" text="New cheatsheets" />
           </BadgeProvider>
           <NavLinkComponent to="/categories" text="Categories" />
         </div>
@@ -70,7 +70,7 @@ function NavigationButtonUnderHood(props: { showNav: boolean }) {
   return (
     <Collapse in={props.showNav} timeout={200}>
       <div className="max-w-7xl min:md xl:m-auto md:mx-10 mx-3 flex flex-col text-sm md:text-base lg:hidden  ">
-        <NavLinkComponent to="/csofficialdoc" text="Cheatsheets" />
+        <NavLinkComponent to="/csofficialdoc" text="New cheatsheets" />
         <NavLinkComponent to="/categories" text="Categories" />
       </div>
     </Collapse>

@@ -62,24 +62,22 @@ export default function SearchComponent(props: ISearchComponentProps) {
 
   return (
     <>
-      <div className="">
-        <Snackbar
-          anchorOrigin={{ vertical: "bottom", horizontal: "center" }}
-          open={snackbarOpen}
-          autoHideDuration={3000}
-          onClose={() => {
-            setSnackbarOpen(false);
-          }}
+      <Snackbar
+        anchorOrigin={{ vertical: "bottom", horizontal: "center" }}
+        open={snackbarOpen}
+        autoHideDuration={3000}
+        onClose={() => {
+          setSnackbarOpen(false);
+        }}
+      >
+        <Alert
+          onClose={() => setSnackbarOpen(false)}
+          severity="error"
+          sx={{ width: "100%" }}
         >
-          <Alert
-            onClose={() => setSnackbarOpen(false)}
-            severity="error"
-            sx={{ width: "100%" }}
-          >
-            Please enter the name of the cheatsheet.
-          </Alert>
-        </Snackbar>
-      </div>
+          Please enter the name of the cheatsheet.
+        </Alert>
+      </Snackbar>
       <Stack direction="row" sx={{ alignContent: "center" }}>
         <ListItem>
           <Autocomplete

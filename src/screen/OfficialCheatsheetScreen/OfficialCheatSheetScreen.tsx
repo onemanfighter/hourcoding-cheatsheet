@@ -2,7 +2,7 @@ import { useContext, useState } from "react";
 import { NavLink, Outlet } from "react-router-dom";
 import BackButton from "../../components/BackButton/BackButtonComponent";
 import { OverApiContext } from "../../contextProvider/Context";
-import { Alert } from "@mui/material";
+import { Alert, Collapse } from "@mui/material";
 
 /**
  * Proptypes definition for the OfficialDocCheatsheetScreen component.
@@ -18,6 +18,8 @@ export interface IOfficialDocCheatsheetScreenProps {}
 export default function OfficialDocCheatsheetScreen(
   props: IOfficialDocCheatsheetScreenProps
 ) {
+  const [showAlert, setShowAlert] = useState(true);
+
   const data = useContext(OverApiContext);
   const [categoryName, setCategoryName] = useState<string>("");
   const category = data != null ? data["children"] : [];
@@ -27,14 +29,22 @@ export default function OfficialDocCheatsheetScreen(
 
   return (
     <div className="">
-      <div className=" max-w-7xl min:md xl:mx-auto xl:my-4 md:mx-10 mx-3 md:p-5 p-2 xl:mt-10 md:m-5 m-2 flex items-start justify-start shadow-md md:my-6 my-2">
-        <div className=" flex-row items-center rounded">
-          <Alert severity="info">
-            These cheatsheets are created using the official documentation of
-            corresponding frameworks, languages, and libraries.
-          </Alert>
+      <Collapse in={showAlert}>
+        <div className=" max-w-7xl min:md xl:mx-auto xl:my-4 md:mx-10 mx-3 md:p-5 p-2 xl:mt-10 md:m-5 m-2 flex items-start justify-start shadow-md md:my-6 my-2">
+          <div className=" flex-row items-center rounded">
+            <Alert
+              severity="info"
+              onClose={() => {
+                setShowAlert(false);
+              }}
+            >
+              These cheatsheets are created using the official documentation of
+              corresponding frameworks, languages, and libraries.
+            </Alert>
+          </div>
         </div>
-      </div>
+      </Collapse>
+
       <div className=" max-w-7xl min:md xl:mx-auto xl:my-4 md:mx-10 mx-3 md:p-5 p-2 lg:mt-10 md:md-5 flex items-start justify-start shadow-md md:my-6 my-3">
         <BackButton />
         <div className="text-lg md:text-xl lg:text-3xl mx-3 text-amber-950">

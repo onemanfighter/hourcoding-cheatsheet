@@ -7,10 +7,17 @@ import {
   MainScreenHeader,
   MainScreenSubHeader,
 } from "./string/MainScreenStrings";
-import ListOfCategories from "./sub_component/ListOfCategories";
-import ListOfCheatsheets from "./sub_component/ListOfCheatsheets";
-import ListOfLatestCheatsheets from "./sub_component/ListOfLatestCheatsheets";
 import AccordionProvider from "../../components/Accordian/AccordianProvider";
+import { Suspense, lazy } from "react";
+
+// Lazy loading
+const ListOfCheatsheets = lazy(
+  () => import("./sub_component/ListOfCheatsheets")
+);
+const ListOfCategories = lazy(() => import("./sub_component/ListOfCategories"));
+const ListOfLatestCheatsheets = lazy(
+  () => import("./sub_component/ListOfLatestCheatsheets")
+);
 
 /**
  * Properties for the MainScreen component.
@@ -65,7 +72,9 @@ function Content() {
     <div className="flex flex-col justify-center items-center w-full my-4">
       <AccordionProvider headingText={ListOfCategoriesHeader}>
         <div className="flex flex-wrap justify-center items-center w-full bg-accordion-background">
-          <ListOfCategories />
+          <Suspense fallback={<div>Loading...</div>}>
+            <ListOfCategories />
+          </Suspense>
         </div>
       </AccordionProvider>
       <AccordionProvider
@@ -73,7 +82,9 @@ function Content() {
         showBadge={true}
       >
         <div className="grid grid-cols-2 xl:grid-cols-3 justify-center items-center w-full bg-accordion-background">
-          <ListOfLatestCheatsheets />
+          <Suspense fallback={<div>Loading...</div>}>
+            <ListOfLatestCheatsheets />
+          </Suspense>
         </div>
       </AccordionProvider>
       <div className="flex flex-col justify-center m-4 w-full">
@@ -82,7 +93,9 @@ function Content() {
         </h1>
       </div>
       <div className="flex justify-center items-center w-full">
-        <ListOfCheatsheets />
+        <Suspense fallback={<div>Loading...</div>}>
+          <ListOfCheatsheets />
+        </Suspense>
       </div>
     </div>
   );

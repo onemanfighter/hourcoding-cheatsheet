@@ -26,7 +26,7 @@ export interface IMainScreenProps {}
 export default function MainScreen(props: IMainScreenProps) {
   return (
     <div className="xl:m-auto mx-10 my-10 max-w-7xl ">
-      <div className="flex flex-col justify-center items-center w-full my-4 bg-search-background bg-fixed">
+      <div className="flex flex-col justify-center items-center w-full my-4 bg-search-background">
         <div>
           <div className="flex flex-col justify-center items-center w-full">
             <img
@@ -64,7 +64,7 @@ function Content() {
   return (
     <div className="flex flex-col justify-center items-center w-full my-4">
       <AccordionProvider headingText={ListOfCategoriesHeader}>
-        <div className="flex flex-wrap justify-center items-center w-full bg-accordion-background bg-fixed">
+        <div className="flex flex-wrap justify-center items-center w-full bg-accordion-background">
           <ListOfCategories />
         </div>
       </AccordionProvider>
@@ -72,7 +72,7 @@ function Content() {
         headingText={ListOfLatestCheatsheetsHeader}
         showBadge={true}
       >
-        <div className="grid grid-cols-2 xl:grid-cols-3 justify-center items-center w-full bg-accordion-background bg-fixed">
+        <div className="grid grid-cols-2 xl:grid-cols-3 justify-center items-center w-full bg-accordion-background">
           <ListOfLatestCheatsheets />
         </div>
       </AccordionProvider>

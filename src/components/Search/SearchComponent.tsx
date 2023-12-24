@@ -1,11 +1,18 @@
-import { Autocomplete, ListItem, Stack, TextField } from "@mui/material";
+import {
+  Alert,
+  Autocomplete,
+  ListItem,
+  Snackbar,
+  Stack,
+  TextField,
+} from "@mui/material";
 import { useContext, useState } from "react";
-import NavLinkComponent from "../Navigation/NavLinkComponent";
 import { MainDataFileContext } from "../../contextProvider/Context";
 import {
   SearchButtonText,
   SearchPlaceholderText,
 } from "../string/ComponentStrings";
+import { useNavigate } from "react-router-dom";
 export interface ISearchComponentProps {}
 
 /**
@@ -23,6 +30,17 @@ export interface SearchProps {
  * @returns Search component.
  */
 export default function SearchComponent(props: ISearchComponentProps) {
+  const [snackbarOpen, setSnackbarOpen] = useState(false);
+  const navigate = useNavigate();
+
+  const handleSearch = () => {
+    if (search === "") {
+      setSnackbarOpen(true);
+    } else {
+      navigate(`/details/${getSearchTo()}`);
+    }
+  };
+
   const data = useContext(MainDataFileContext);
   const [search, setSearch] = useState("");
   const dataFileState = data != null ? data : [];
@@ -43,29 +61,51 @@ export default function SearchComponent(props: ISearchComponentProps) {
   };
 
   return (
-    <Stack direction="row" sx={{ alignContent: "center" }}>
-      <ListItem>
-        <Autocomplete
-          sx={{ minWidth: 300, minHeight: 20 }}
-          id="free-solo-demo"
-          freeSolo
-          options={searchTitleList}
-          onInputChange={(e, value) => setSearch(value)}
-          renderInput={(params) => (
-            <TextField
-              {...params}
-              className="border-amber-600 md:w-52 w-40 text-base"
-              label={SearchPlaceholderText}
-            />
-          )}
-        />
-      </ListItem>
-      <ListItem sx={{ minWidth: 120, maxWidth: 300 }}>
-        <NavLinkComponent
-          to={`details/${getSearchTo()}`}
-          text={SearchButtonText}
-        />
-      </ListItem>
-    </Stack>
+    <>
+      <div className="">
+        <Snackbar
+          anchorOrigin={{ vertical: "bottom", horizontal: "center" }}
+          open={snackbarOpen}
+          autoHideDuration={3000}
+          onClose={() => {
+            setSnackbarOpen(false);
+          }}
+        >
+          <Alert
+            onClose={() => setSnackbarOpen(false)}
+            severity="error"
+            sx={{ width: "100%" }}
+          >
+            Please enter the name of the cheatsheet.
+          </Alert>
+        </Snackbar>
+      </div>
+      <Stack direction="row" sx={{ alignContent: "center" }}>
+        <ListItem>
+          <Autocomplete
+            sx={{ minWidth: 300, minHeight: 20 }}
+            id="free-solo-demo"
+            freeSolo
+            options={searchTitleList}
+            onInputChange={(e, value) => setSearch(value)}
+            renderInput={(params) => (
+              <TextField
+                {...params}
+                className="border-amber-600 md:w-52 w-40 text-base"
+                label={SearchPlaceholderText}
+              />
+            )}
+          />
+        </ListItem>
+        <ListItem sx={{ minWidth: 120, maxWidth: 300 }}>
+          <button
+            onClick={handleSearch}
+            className="text-center text-md shadow-md w-full p-2 xl:m-3 m-1 bg-amber-200 hover:bg-gradient-to-r from-amber-400 to-amber-600 rounded-md"
+          >
+            {SearchButtonText}
+          </button>
+        </ListItem>
+      </Stack>
+    </>
   );
 }

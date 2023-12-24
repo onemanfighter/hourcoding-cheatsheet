@@ -66,3 +66,12 @@ def create_folder_structure_json2(path):
 	return result 
 
 
+
+def changeExtensionFromHtmlToMd(folder_path): 
+	for filename in os.listdir(folder_path):
+		infilename = os.path.join(folder_path,filename)
+		if not os.path.isfile(infilename): continue
+		oldbase = os.path.splitext(filename)
+		newname = infilename.replace('.html', '.md')
+		output = os.rename(infilename, newname)
+

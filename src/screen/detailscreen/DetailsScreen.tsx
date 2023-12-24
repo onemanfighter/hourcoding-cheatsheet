@@ -1,8 +1,8 @@
 import MarkdownPreview from "@uiw/react-markdown-preview";
 import { useContext, useState } from "react";
 import { useParams } from "react-router-dom";
-import BackButton from "../../components/BackButtonComponent";
-import { DataFileContext } from "../../contextProvider/Context";
+import BackButton from "../../components/BackButton/BackButtonComponent";
+import { MainDataFileContext } from "../../contextProvider/Context";
 import markdownStyle from "./css/Markdown.module.css";
 import { fixMdFileString } from "../../utils/HelperFunction";
 
@@ -18,7 +18,7 @@ export interface IDetailsScreenProps {}
  * @returns Details screen.
  */
 export default function DetailsScreen(props: IDetailsScreenProps) {
-  const data = useContext(DataFileContext);
+  const data = useContext(MainDataFileContext);
   const dataFileState = data != null ? data : [];
 
   const [state, setState] = useState<string>("");
@@ -40,14 +40,14 @@ export default function DetailsScreen(props: IDetailsScreenProps) {
   });
 
   return (
-    <div className="max-w-6xl min:md xl:mx-auto xl:my-4 mx-10 p-5 mt-10 ">
+    <div className="max-w-7xl min:md xl:mx-auto xl:my-4 mx-10 p-5 mt-10 ">
       <div className="m-1 p-2 flex items-start">
         <BackButton />
-        <div className="text-3xl mx-3 text-amber-950">
+        <div className="lg:text-3xl md:text-2xl text-xl mx-3 text-amber-950">
           <i className=" font-thin">{name}</i> Cheatsheet
         </div>
       </div>
-      <div className=" border border-black p-3 flex items-start rounded-lg font-bold text-amber-700">
+      <div className=" text-sm lg:text-lg border border-black p-3 flex items-start rounded-lg font-bold text-amber-700">
         {name && (
           <div className=" rounded-md outline-dashed p-2 mx-1 outline-amber-300">
             {`Cheatsheet name : ${name}`}

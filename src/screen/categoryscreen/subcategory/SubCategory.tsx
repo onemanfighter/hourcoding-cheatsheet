@@ -1,7 +1,7 @@
 import { useContext } from "react";
 import { useParams } from "react-router-dom";
 import { DataContext } from "../../../contextProvider/Context";
-import CheatsheetCard from "../../../components/CardComponent";
+import CheatsheetCard from "../../../components/Card/CardComponent";
 
 /**
  * Proptypes for the SubCategory component.

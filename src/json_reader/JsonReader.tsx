@@ -12,8 +12,10 @@ export async function fetchData() {
  *
  * @returns Data from the datafile.json file.
  */
-export async function fetchFileData() {
-  return await import("../data/json/datafile.json").then((res) => res.default);
+export async function fetchMainFileData() {
+  return await import("../data/json/MainDetailDataFile.json").then(
+    (res) => res.default
+  );
 }
 
 /**
@@ -23,4 +25,13 @@ export async function fetchFileData() {
  */
 export async function fetchRecentFileData() {
   return await import(`../data/json/recent.json`).then((res) => res.default);
+}
+
+/**
+ * Function to fetch the data from the overapi.json file.
+ *
+ * @returns Data from the overapi.json file.
+ */
+export async function fetchOverApiData() {
+  return await import(`../data/json/DocMdData.json`).then((res) => res.default);
 }

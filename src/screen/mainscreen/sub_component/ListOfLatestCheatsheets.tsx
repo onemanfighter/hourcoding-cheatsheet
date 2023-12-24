@@ -45,7 +45,10 @@ function Component(props: IComponentProps) {
     >
       {props.name.toUpperCase()}
       {focusState && (
-        <div className="text-md font-light mx-2 text-green-500">
+        <div
+          className="text-md font-light mx-2 text-green-500"
+          key={props.name}
+        >
           {props.title}
         </div>
       )}

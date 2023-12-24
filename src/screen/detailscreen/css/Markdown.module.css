@@ -6,10 +6,17 @@
     font-size: 0.875rem;
     line-height: 1.5;
     word-break: break-word;
-    display: grid;
-    grid-gap: 1rem;
+    column-count: 2;
+    column-gap: 2rem;
     height: fit-content;
-    overflow: hidden;
+    overflow:scroll
+}
+
+@media screen and (max-width: 1021px) {
+        .markdown {
+            column-count: 1;
+            column-gap: 0rem;
+        }
 }
 
 .markdown a {
@@ -21,13 +28,23 @@
 .markdown h3{
     font-size: 1.2rem;
     font-weight: 500;
-    color: #dba530;
+    color: #f9cf74;
     margin: 0;
 }
 
 .markdown h2{
     font-size: 1.6rem;
     font-weight: 700;
-    color: #dba530;
+    margin-top: 2rem;
+    color: #ab7500;
     margin: 0;
+}
+
+.markdown div ul{
+    background-color: #f5d48daa;
+    box-shadow: 0 0 0 1px #f5d48d, 0 0 0 0 transparent;
+    margin: 1rem;
+    padding: 1rem;
+    border: 1px solid #ccae17;
+    border-radius: 1rem;
 }

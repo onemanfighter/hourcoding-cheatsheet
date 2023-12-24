@@ -1,4 +1,4 @@
-import SearchComponent from "../../components/SearchComponent";
+import SearchComponent from "../../components/Search/SearchComponent";
 import {
   ListOfCategoriesHeader,
   ListOfCheatsheetsHeader,
@@ -10,7 +10,7 @@ import {
 import ListOfCategories from "./sub_component/ListOfCategories";
 import ListOfCheatsheets from "./sub_component/ListOfCheatsheets";
 import ListOfLatestCheatsheets from "./sub_component/ListOfLatestCheatsheets";
-import AccordionProvider from "../../components/AccordianProvider";
+import AccordionProvider from "../../components/Accordian/AccordianProvider";
 
 /**
  * Properties for the MainScreen component.
@@ -25,21 +25,28 @@ export interface IMainScreenProps {}
  */
 export default function MainScreen(props: IMainScreenProps) {
   return (
-    <div className="lg:m-auto lg:my-10 mx-10 my-10 flex-grow max-w-5xl ">
+    <div className="xl:m-auto mx-10 my-10 max-w-7xl ">
       <div className="flex flex-col justify-center items-center w-full my-4 bg-search-background bg-fixed">
         <div>
           <div className="flex flex-col justify-center items-center w-full">
-            <h1 className="text-3xl font-bold text-center my-4">
+            <img
+              src={require("../../assets/image/LogoNoBackground.png")}
+              alt="Main logo"
+              className=" h-16 mt-2 md:h-24"
+            />
+            <h1 className="md:text-3xl text-xl font-bold text-center my-4">
               {MainScreenHeader}
             </h1>
-            <h2 className="text-xl text-center m-2">{MainScreenSubHeader}</h2>
-            <h2 className="text-center my-2 rounded-md">
+            <h2 className="md:text-xl text-md text-center m-2">
+              {MainScreenSubHeader}
+            </h2>
+            <h2 className="text-center my-2 rounded-md hidden xl:block">
               {MainScreenDescriptionText}
             </h2>
           </div>
           <div className="flex flex-col justify-center items-center w-full"></div>
         </div>
-        <div className="items-center justify-between w-full">
+        <div className="items-center justify-between mx-10 ">
           <SearchComponent />
         </div>
       </div>
@@ -61,8 +68,11 @@ function Content() {
           <ListOfCategories />
         </div>
       </AccordionProvider>
-      <AccordionProvider headingText={ListOfLatestCheatsheetsHeader}>
-        <div className="grid grid-cols-2 justify-center items-center w-full bg-accordion-background bg-fixed">
+      <AccordionProvider
+        headingText={ListOfLatestCheatsheetsHeader}
+        showBadge={true}
+      >
+        <div className="grid grid-cols-2 xl:grid-cols-3 justify-center items-center w-full bg-accordion-background bg-fixed">
           <ListOfLatestCheatsheets />
         </div>
       </AccordionProvider>

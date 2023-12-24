@@ -1,10 +1,16 @@
 import { useEffect, useState } from "react";
 import {
   fetchData,
-  fetchFileData,
+  fetchMainFileData,
+  fetchOverApiData,
   fetchRecentFileData,
 } from "../json_reader/JsonReader";
-import { DataContext, DataFileContext, RecentFileContext } from "./Context";
+import {
+  DataContext,
+  MainDataFileContext,
+  OverApiContext,
+  RecentFileContext,
+} from "./Context";
 
 /**
  * Proptypes for the data context provider.
@@ -21,8 +27,9 @@ export interface IDataContextProviderProps {
  */
 export default function DataContextProvider(props: IDataContextProviderProps) {
   const [dataState, setDataState] = useState<any>();
-  const [dataFileState, setDataFileState] = useState<any>();
+  const [mainDataFileState, setMainDataFileState] = useState<any>();
   const [recentFileState, setRecentFileState] = useState<any>();
+  const [overApiDataState, setOverApiDataState] = useState<any>();
 
   // Fetch data from file structure json.
   useEffect(() => {
@@ -33,10 +40,12 @@ export default function DataContextProvider(props: IDataContextProviderProps) {
 
   // Fetch data from file data json.
   useEffect(() => {
-    fetchFileData().then((res) => {
-      setDataFileState(res.sort((a, b) => a["name"].localeCompare(b["name"])));
+    fetchMainFileData().then((res) => {
+      setMainDataFileState(
+        res.sort((a, b) => a["name"].localeCompare(b["name"]))
+      );
     });
-  }, [dataFileState]);
+  }, [mainDataFileState]);
 
   // Fetch data from recent file json.
   useEffect(() => {
@@ -45,13 +54,22 @@ export default function DataContextProvider(props: IDataContextProviderProps) {
     });
   }, [recentFileState]);
 
+  // Fetch data from overapi json.
+  useEffect(() => {
+    fetchOverApiData().then((res) => {
+      setOverApiDataState(res);
+    });
+  }, [overApiDataState]);
+
   return (
     <DataContext.Provider value={dataState}>
-      <DataFileContext.Provider value={dataFileState}>
-        <RecentFileContext.Provider value={recentFileState}>
-          {props.children}
-        </RecentFileContext.Provider>
-      </DataFileContext.Provider>
+      <RecentFileContext.Provider value={recentFileState}>
+        <OverApiContext.Provider value={overApiDataState}>
+          <MainDataFileContext.Provider value={mainDataFileState}>
+            {props.children}
+          </MainDataFileContext.Provider>
+        </OverApiContext.Provider>
+      </RecentFileContext.Provider>
     </DataContext.Provider>
   );
 }

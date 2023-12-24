@@ -40,16 +40,16 @@ export default function DetailsScreen(props: IDetailsScreenProps) {
   });
 
   return (
-    <div className="max-w-7xl min:md xl:mx-auto xl:my-4 mx-10 p-5 mt-10 ">
+    <div className="max-w-7xl min:md xl:mx-auto xl:my-4 md:mx-10 p-5 lg:mt-10 ">
       <div className="m-1 p-2 flex items-start">
         <BackButton />
-        <div className="lg:text-3xl md:text-2xl text-xl mx-3 text-amber-950">
+        <div className="lg:text-3xl md:text-2xl sm:text-xl text-lg mx-3 text-amber-950">
           <i className=" font-thin">{name}</i> Cheatsheet
         </div>
       </div>
-      <div className=" text-sm lg:text-lg border border-black p-3 flex items-start rounded-lg font-bold text-amber-700">
+      <div className=" text-sm lg:text-lg border border-black p-1 sm:p-2 flex items-start rounded-lg font-bold text-amber-700">
         {name && (
-          <div className=" rounded-md outline-dashed p-2 mx-1 outline-amber-300">
+          <div className=" rounded-md outline-dashed sm:p-2 p-1 mx-1 outline-amber-300">
             {`Cheatsheet name : ${name}`}
           </div>
         )}

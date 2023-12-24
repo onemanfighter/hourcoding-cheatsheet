@@ -54,7 +54,7 @@ export default function SearchComponent(props: ISearchComponentProps) {
           renderInput={(params) => (
             <TextField
               {...params}
-              className="border-amber-600 w-52"
+              className="border-amber-600 md:w-52 w-40 text-base"
               label={SearchPlaceholderText}
             />
           )}

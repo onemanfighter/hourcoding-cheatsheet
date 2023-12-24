@@ -17,7 +17,9 @@ export default function DefaultODCSScreenContent(
 ) {
   return (
     <div className="p-2 m-3 flex flex-wrap justify-center w-full h-full items-center overflow-scroll">
-      <div className="text-2xl font-bold">Most popular cheatsheets</div>
+      <div className="md:text-xl lg:text-2xl text-lg font-bold">
+        Most popular cheatsheets
+      </div>
       <div className="flex flex-wrap justify-center gap-4 px-2 items-center py-10">
         {imageData.map((image, index) => (
           <NavLink
@@ -29,11 +31,11 @@ export default function DefaultODCSScreenContent(
               <img
                 alt={image.name}
                 src={image.imagePath}
-                className="w-24 h-24"
+                className="md:w-24 md:h-24 h-12 w-12"
                 loading="lazy"
               />
             </div>
-            <div className="text-md font-thin mx-2 mb-2">
+            <div className="md:text-md text-sm font-thin mx-2 mb-2">
               {image.name.toUpperCase()}
             </div>
           </NavLink>

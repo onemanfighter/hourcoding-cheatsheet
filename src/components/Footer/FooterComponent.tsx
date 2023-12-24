@@ -30,28 +30,31 @@ function FooterContent() {
         <div className="mx-auto w-full max-w-screen-xl p-4 py-6 lg:py-8">
           <div className="md:flex md:justify-between">
             <div className="mb-6 md:mb-0">
-              <NavLink to="" className="flex items-center hover:text-amber-800">
+              <NavLink
+                to=""
+                className="flex flex-row justify-center md:justify-start hover:text-amber-800"
+              >
                 <img
                   src={require("../../assets/image/LogoNoBackground.png")}
-                  className="h-20 me-3"
+                  className="h-16 md:h-20 me-3"
                   alt="FlowBite Logo"
                   loading="lazy"
                 />
-                <span className="self-center text-2xl font-semibold whitespace-nowrap hover:text-amber-800 text-white">
+                <span className="self-center text-lg md:text-2xl font-semibold whitespace-nowrap hover:text-amber-800 text-white">
                   Cheatsheets
                 </span>
               </NavLink>
             </div>
-            <div className="grid grid-cols-2 gap-8 sm:gap-6 sm:grid-cols-3">
+            <div className="grid grid-cols-3 justify-center text-center gap-8 sm:gap-6 sm:grid-cols-3">
               <div>
-                <h2 className="mb-6 text-sm font-semibold text-gray-900 uppercase dark:text-white">
+                <h2 className="mb-1 sm:mb-2 md:mb-6 text-xs md:text-sm font-semibold text-gray-900 uppercase dark:text-white">
                   Resources
                 </h2>
                 <ul className="text-gray-500 dark:text-gray-400 font-medium">
-                  <li className="mb-4">
+                  <li className=" mb-1 md:mb-4">
                     <NavLink
                       to=""
-                      className="hover:underline hover:text-amber-800"
+                      className="text-xs md:text-base hover:underline hover:text-amber-800"
                     >
                       Cheatsheet
                     </NavLink>
@@ -59,7 +62,7 @@ function FooterContent() {
                   <li>
                     <NavLink
                       to="categories"
-                      className="hover:underline hover:text-amber-800"
+                      className="text-xs md:text-base hover:underline hover:text-amber-800"
                     >
                       Cheatsheet categories
                     </NavLink>
@@ -67,14 +70,14 @@ function FooterContent() {
                 </ul>
               </div>
               <div>
-                <h2 className="mb-6 text-sm font-semibold text-gray-900 uppercase dark:text-white">
+                <h2 className="mb-1 sm:mb-2 md:mb-6 text-xs md:text-sm font-semibold text-gray-900 uppercase dark:text-white">
                   Follow us
                 </h2>
                 <ul className="text-gray-500 dark:text-gray-400 font-medium">
-                  <li className="mb-4">
+                  <li className="mb-1 md:mb-4">
                     <NavLink
                       to="about"
-                      className="hover:underline hover:text-amber-800"
+                      className="text-xs md:text-base hover:underline hover:text-amber-800"
                     >
                       About us
                     </NavLink>
@@ -82,7 +85,7 @@ function FooterContent() {
                   <li>
                     <NavLink
                       to="contact"
-                      className="hover:underline hover:text-amber-800"
+                      className="text-xs md:text-base hover:underline hover:text-amber-800"
                     >
                       Contact
                     </NavLink>
@@ -90,14 +93,14 @@ function FooterContent() {
                 </ul>
               </div>
               <div>
-                <h2 className="mb-6 text-sm font-semibold text-gray-900 uppercase dark:text-white">
+                <h2 className="mb-1 sm:mb-2 md:mb-6 text-xs md:text-sm font-semibold text-gray-900 uppercase dark:text-white">
                   Legal
                 </h2>
                 <ul className="text-gray-500 dark:text-gray-400 font-medium">
-                  <li className="mb-4">
+                  <li className="mb-1 md:mb-4">
                     <NavLink
                       to="privacy"
-                      className="hover:underline hover:text-amber-800"
+                      className="text-xs md:text-base hover:underline hover:text-amber-800"
                     >
                       Privacy Policy
                     </NavLink>
@@ -105,7 +108,7 @@ function FooterContent() {
                   <li>
                     <NavLink
                       to="terms"
-                      className="hover:underline hover:text-amber-800"
+                      className="text-xs md:text-base hover:underline hover:text-amber-800"
                     >
                       Terms &amp; Conditions
                     </NavLink>
@@ -130,7 +133,7 @@ function FooterContent() {
 function SocialMedia() {
   return (
     <>
-      <div className="sm:flex sm:items-center sm:justify-between">
+      <div className=" flex flex-col md:flex-row items-center sm:justify-between">
         <span className="text-sm text-gray-500 sm:text-center dark:text-gray-400">
           © 2023{" "}
           <NavLink to="" className="hover:underline hover:text-amber-800">

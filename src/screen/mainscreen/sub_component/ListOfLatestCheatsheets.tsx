@@ -35,7 +35,7 @@ function Component(props: IComponentProps) {
     <NavLink
       to={`details/${props.name}`}
       key={props.name}
-      className=" m-2 py-2 px-4 border border-amber-800 bg-slate-200 opacity-80 overflow-hidden truncate flex flex-row justify-start hover:bg-amber-300 hover:text-white rounded-md hover:scale-x-105 transition-transform"
+      className=" m-1 py-1 md:m-2 md:py-2 px-4 border border-amber-800 bg-slate-200 opacity-80 overflow-hidden truncate flex flex-row justify-start hover:bg-amber-300 hover:text-white rounded-md hover:scale-x-105 transition-transform"
       onMouseEnter={() => {
         setFocusState(true);
       }}

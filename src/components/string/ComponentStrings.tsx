@@ -13,5 +13,5 @@ export const NavTitle = "Hourcoding.com | Cheatsheets";
  * SearchComponent related strings
  * path: src/components/SearchComponent.tsx
  */
-export const SearchButtonText = "Click to search";
+export const SearchButtonText = "Search";
 export const SearchPlaceholderText = "Search cheatsheet";

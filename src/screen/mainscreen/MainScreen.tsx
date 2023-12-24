@@ -25,19 +25,19 @@ export interface IMainScreenProps {}
  */
 export default function MainScreen(props: IMainScreenProps) {
   return (
-    <div className="xl:m-auto mx-10 my-10 max-w-7xl ">
+    <div className="xl:m-auto md:mx-10 mx-5 my-10 max-w-7xl ">
       <div className="flex flex-col justify-center items-center w-full my-4 bg-search-background">
         <div>
-          <div className="flex flex-col justify-center items-center w-full">
+          <div className="flex flex-col  justify-center items-center w-full">
             <img
               src={require("../../assets/image/LogoNoBackground.png")}
               alt="Main logo"
               className=" h-16 mt-2 md:h-24"
             />
-            <h1 className="md:text-3xl text-xl font-bold text-center my-4">
+            <h1 className="md:text-3xl text-md sm:text-xl font-bold text-center my-4">
               {MainScreenHeader}
             </h1>
-            <h2 className="md:text-xl text-md text-center m-2">
+            <h2 className="md:text-xl text-sm sm:text-md text-md text-center m-2">
               {MainScreenSubHeader}
             </h2>
             <h2 className="text-center my-2 rounded-md hidden xl:block">
@@ -77,7 +77,9 @@ function Content() {
         </div>
       </AccordionProvider>
       <div className="flex flex-col justify-center m-4 w-full">
-        <h1 className="text-2xl font-bold">{ListOfCheatsheetsHeader}</h1>
+        <h1 className="md:text-2xl text-lg px-2 font-bold">
+          {ListOfCheatsheetsHeader}
+        </h1>
       </div>
       <div className="flex justify-center items-center w-full">
         <ListOfCheatsheets />

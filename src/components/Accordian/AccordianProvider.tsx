@@ -19,7 +19,7 @@ export interface IAccordianProviderProps {
  */
 export default function AccordionProvider(props: IAccordianProviderProps) {
   return (
-    <Accordion className="w-full my-2" defaultExpanded>
+    <Accordion className="w-full my:1 md:my-2" defaultExpanded>
       <AccordionSummary
         expandIcon={<ExpandMoreSharp />}
         aria-controls="panel1a-content"
@@ -30,13 +30,17 @@ export default function AccordionProvider(props: IAccordianProviderProps) {
             badgeContent={"New"}
             position={{ vertical: "top", horizontal: "left" }}
           >
-            <div className="flex flex-col justify-center m-4 w-full">
-              <h1 className="text-2xl font-bold">{props.headingText}</h1>
+            <div className="flex flex-col justify-center md:m-4 m-1  w-full">
+              <h1 className="md:text-2xl text-lg font-bold">
+                {props.headingText}
+              </h1>
             </div>
           </BadgeProvider>
         ) : (
-          <div className="flex flex-col justify-center m-4 w-full">
-            <h1 className="text-2xl font-bold">{props.headingText}</h1>
+          <div className="flex flex-col justify-center md:m-4 m-1 w-full">
+            <h1 className="md:text-2xl text-lg font-bold">
+              {props.headingText}
+            </h1>
           </div>
         )}
       </AccordionSummary>

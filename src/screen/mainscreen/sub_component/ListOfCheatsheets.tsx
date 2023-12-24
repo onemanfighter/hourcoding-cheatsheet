@@ -24,7 +24,7 @@ export default function ListOfCheatsheets() {
         return (
           <>
             {!isNew && (
-              <div className=" relative xl:col-span-3 col-span-2 font-light mx-2 text-lg w-full text-start self-center py-4">
+              <div className=" relative xl:col-span-3 col-span-2 font-light mx-2 md:text-lg text-base w-full text-start self-center py-4">
                 {character === "2"
                   ? "Official docs cheatsheets"
                   : character.toUpperCase()}
@@ -56,11 +56,11 @@ function Component(props: IComponentProps) {
       onMouseLeave={() => {
         setFocusState(false);
       }}
-      className=" m-2 py-2 px-4 shadow-lg overflow-hidden truncate flex flex-row justify-start bg-amber-200 hover:bg-amber-400 text-amber-600 hover:text-amber-100 hover:scale-x-105 rounded-md transition-all"
+      className=" text-sm md:text-md m-1 py-1 md:m-2 md:py-2 px-4 shadow-lg overflow-hidden truncate flex flex-row justify-start bg-amber-200 hover:bg-amber-400 text-amber-600 hover:text-amber-100 hover:scale-x-105 rounded-md transition-all"
     >
       {processDateFromName(props.name)}
       {focusState && (
-        <div className="text-md font-light mx-2 text-green-500">
+        <div className="md:text-md text-xs flex flex-col justify-center font-light mx-2 text-green-500">
           {props.title}
         </div>
       )}

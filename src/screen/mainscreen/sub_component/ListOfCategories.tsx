@@ -18,7 +18,7 @@ export default function ListOfCategories() {
           <NavLink
             to={`categories/${item["name"]}`}
             key={item["name"]}
-            className=" m-2 p-3 outline bg-amber-400 hover:bg-amber-500 text-white rounded-sm hover:scale-110 hover:rounded-tl-md transition-all"
+            className=" m-1.5 p-1.5 md:m-2 md:p-3 outline bg-amber-400 hover:bg-amber-500 text-white rounded-sm hover:scale-110 hover:rounded-tl-md transition-all"
           >
             {name.toUpperCase()}
           </NavLink>

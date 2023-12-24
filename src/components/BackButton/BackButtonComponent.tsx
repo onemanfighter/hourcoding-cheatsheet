@@ -20,7 +20,7 @@ export default function BackButton(props: IBackButtonProps) {
         <Button
           variant="contained"
           color="warning"
-          sx={{ borderRadius: 10, alignSelf: "center" }}
+          sx={{ borderRadius: 10, alignSelf: "center", height: 30 }}
         >
           <ArrowBack />
         </Button>

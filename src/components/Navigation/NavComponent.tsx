@@ -21,11 +21,11 @@ export default function NavComponent(props: INavComponentProps) {
   const [showNav, setShowNav] = useState(false);
   return (
     <>
-      <div className="max-w-7xl min:md xl:m-auto mx-10 flex justify-between  items-center shadow-lg rounded-md p-5">
+      <div className="max-w-7xl xl:m-auto lg:mx-10 m-3 flex justify-between items-center shadow-lg rounded-md px-5 py-3">
         <div className="flex flex-row items-start mx-3">
           <NavLink
             to="/"
-            className="text-lg font-sans font-bold bg-gradient-to-r from-amber-400 to-amber-600 hover:bg-gradient-to-l text-transparent bg-clip-text"
+            className="text-md md:text-lg font-sans font-bold bg-gradient-to-r from-amber-400 to-amber-600 hover:bg-gradient-to-l text-transparent bg-clip-text"
           >
             {NavTitle}
           </NavLink>
@@ -68,8 +68,8 @@ export default function NavComponent(props: INavComponentProps) {
  */
 function NavigationButtonUnderHood(props: { showNav: boolean }) {
   return (
-    <Collapse in={props.showNav}>
-      <div className="max-w-7xl min:md xl:m-auto mx-10 flex flex-col lg:hidden transition-all ">
+    <Collapse in={props.showNav} timeout={200}>
+      <div className="max-w-7xl min:md xl:m-auto md:mx-10 mx-3 flex flex-col text-sm md:text-base lg:hidden  ">
         <NavLinkComponent to="/csofficialdoc" text="Cheatsheets" />
         <NavLinkComponent to="/categories" text="Categories" />
       </div>

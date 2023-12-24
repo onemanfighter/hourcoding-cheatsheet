@@ -24,35 +24,34 @@ export default function CategoryScreen(props: ICategoryScreenProps) {
 
   return (
     <div className="">
-      <div className=" max-w-7xl min:md xl:mx-auto xl:my-4 mx-10 p-5 mt-10 flex items-start justify-start shadow-md my-6">
+      <div className=" max-w-7xl min:md xl:mx-auto xl:my-4 md:mx-10 mx-3 md:p-5 p-2 lg:mt-10 md:md-5 flex items-start justify-start shadow-md my-6">
         <BackButton />
-        <div className=" flex-row items-center "></div>
-        <div className=" text-3xl mx-3 text-amber-950">
+        <div className=" text-lg md:text-xl lg:text-3xl mx-3 text-amber-950">
           <NavLink to="" className="flex-row">
             Categories{" "}
           </NavLink>
         </div>
         {categoryName !== "" ? (
-          <div className="text-3xl text-amber-950 font-light">{` | ${categoryName}`}</div>
+          <div className="text-lg md:text-xl lg:text-3xl text-amber-950 font-light">{` | ${categoryName}`}</div>
         ) : (
           <></>
         )}
       </div>
-      <div className="max-w-7xl min:md xl:m-auto h-screen flex-row flex justify-start">
-        <div className=" shadow-xl my-2 py-4 xl:w-[30%] md:w-[300px] sm:w-[150px] flex flex-col justify-between overflow-scroll ">
+      <div className="max-w-7xl min:md xl:m-auto md:mx-10 mx-3 h-screen flex-row flex justify-start">
+        <div className=" shadow-xl my-2 py-4 xl:w-[30%] md:w-[300px] sm:w-[250px] w-[180px] flex flex-col justify-between overflow-scroll ">
           {category.map((item: any) => {
             const name: string = item["name"];
             return (
               <div
-                className="w-full flex flex-row text-center px-2"
+                className="flex flex-row items-start text-center"
                 key={item["name"]}
               >
                 <NavLink
                   to={`${item["name"]}`}
                   className={({ isActive }) =>
                     isActive
-                      ? " text-lg border my-1 py-2 hover:text-white hover:shadow-md bg-amber-700 text-white rounded-lg px-10 w-full"
-                      : " text-lg border my-1 py-2 hover:bg-amber-500 hover:text-white hover:shadow-md bg-inherit rounded-lg px-10 w-full"
+                      ? " text-sm md:text-lg border m-1 md:m-2 px-5 md:px-10 py-1 md:py-2 hover:text-white hover:shadow-md bg-amber-700 text-white rounded-lg  w-full"
+                      : " text-sm md:text-lg border m-1 md:m-2 px-5 md:px-10 py-1 md:py-2 hover:bg-amber-500 hover:text-white hover:shadow-md bg-inherit rounded-lg w-full"
                   }
                   onClick={() => {
                     setCategoryName(name);
@@ -64,7 +63,7 @@ export default function CategoryScreen(props: ICategoryScreenProps) {
             );
           }) ?? <></>}
         </div>
-        <div className=" flex flex-wrap flex-col justify-start items-center p-2 m-2 shadow-xl w-full">
+        <div className=" flex flex-wrap flex-col justify-start items-center p-2 md:p-2 m-2 shadow-xl w-full">
           <Outlet />
         </div>
       </div>

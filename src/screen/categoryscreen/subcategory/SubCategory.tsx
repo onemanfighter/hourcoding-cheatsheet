@@ -28,16 +28,17 @@ export default function SubCategory(props: ISubCategoryProps) {
 
   const categoryChild: Array<any> = categoryData[0]["children"];
   return (
-    <div className="p-2 m-3 flex flex-wrap justify-around items-baseline h-screen overflow-scroll">
+    <div className="p-2 m-3 flex flex-wrap justify-evenly items-baseline overflow-scroll">
       {categoryChild.map((child, index) => {
         const name: string = child["title"];
         const toLocation: string = child["name"];
+        const image: string = child["image"];
 
         return (
           <CheatsheetCard
             title={name}
             description={toLocation}
-            image={name}
+            image={image}
             to={toLocation}
             key={index}
           />

@@ -1,6 +1,7 @@
 import { useContext, useState } from "react";
 import { MainDataFileContext } from "../../../contextProvider/Context";
 import { NavLink } from "react-router-dom";
+import { processDateFromName } from "../../../utils/HelperFunction";
 
 /**
  * Functional component for the list of cheatsheets.
@@ -66,10 +67,4 @@ function Component(props: IComponentProps) {
       )}
     </NavLink>
   );
-}
-
-function processDateFromName(name: string) {
-  return (
-    name.match(/\d{4}-\d{2}-\d{2}/g) ? name.slice(11) : name
-  ).toUpperCase();
 }

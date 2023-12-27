@@ -1,4 +1,5 @@
 import {
+  Navigate,
   Route,
   createBrowserRouter,
   createRoutesFromChildren,
@@ -30,6 +31,12 @@ const SubComponentOfficialCheatsheet = lazy(
 const DetailsScreen = lazy(
   () => import("../screen/detailscreen/DetailsScreen")
 );
+
+const AllCheatsheetScreen = lazy(
+  () => import("../screen/allcheatsheetscreen/AllCheatsheetScreen")
+);
+
+const ErrorScreen = lazy(() => import("../screen/staticscreen/404"));
 const Contact = lazy(() => import("../screen/staticscreen/Contact"));
 const AboutScreen = lazy(() => import("../screen/staticscreen/About"));
 const PrivacyScreen = lazy(() => import("../screen/staticscreen/Privacy"));
@@ -93,6 +100,10 @@ const router = createBrowserRouter(
         />
       </Route>
       <Route
+        path="all"
+        element={<LazyLoaderComponent children={<AllCheatsheetScreen />} />}
+      />
+      <Route
         path="contact"
         element={<LazyLoaderComponent children={<Contact />} />}
       />
@@ -108,6 +119,11 @@ const router = createBrowserRouter(
         path="terms"
         element={<LazyLoaderComponent children={<TermsAndConditionScreen />} />}
       />
+      <Route
+        path="pagenotfound"
+        element={<LazyLoaderComponent children={<ErrorScreen />} />}
+      />
+      <Route path="*" element={<Navigate to="/pagenotfound" replace />} />
     </Route>
   )
 );

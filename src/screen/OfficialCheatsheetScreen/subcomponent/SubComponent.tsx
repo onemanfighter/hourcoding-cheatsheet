@@ -1,5 +1,5 @@
 import { useContext } from "react";
-import { useParams } from "react-router-dom";
+import { Navigate, useParams } from "react-router-dom";
 import { OverApiContext } from "../../../contextProvider/Context";
 import CheatsheetCard from "../../../components/Card/CardComponent";
 
@@ -28,6 +28,8 @@ export default function SubComponentOfficialCheatsheet(
   const categoryData = categories.filter((item: any) => {
     return item["name"] === docId;
   });
+
+  if (categoryData.length === 0) return <Navigate to="404" />;
 
   const categoryChild: Array<any> = categoryData[0]["children"];
   return (

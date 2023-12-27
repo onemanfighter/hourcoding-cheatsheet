@@ -1,5 +1,5 @@
 import { useContext } from "react";
-import { useParams } from "react-router-dom";
+import { Navigate, useParams } from "react-router-dom";
 import { DataContext } from "../../../contextProvider/Context";
 import CheatsheetCard from "../../../components/Card/CardComponent";
 
@@ -25,6 +25,7 @@ export default function SubCategory(props: ISubCategoryProps) {
   const categoryData = categories.filter((item: any) => {
     return item["name"] === category;
   });
+  if (categoryData.length === 0) return <Navigate to="404" />;
 
   const categoryChild: Array<any> = categoryData[0]["children"];
   return (

@@ -1,14 +1,19 @@
 import SearchComponent from "../../components/Search/SearchComponent";
 import {
-  ListOfCategoriesHeader,
   ListOfCheatsheetsHeader,
   ListOfLatestCheatsheetsHeader,
+  ListOfProgrammingCheatsheets,
   MainScreenDescriptionText,
   MainScreenHeader,
   MainScreenSubHeader,
 } from "./string/MainScreenStrings";
 import AccordionProvider from "../../components/Accordian/AccordianProvider";
 import { Suspense, lazy } from "react";
+import ListOfLangCheatsheets from "./sub_component/ListOfLangCheatsheets";
+import {
+  ArrowBackIosOutlined,
+  ArrowForwardIosOutlined,
+} from "@mui/icons-material";
 
 // Lazy loading
 const ListOfCheatsheets = lazy(
@@ -32,8 +37,17 @@ export interface IMainScreenProps {}
  */
 export default function MainScreen(props: IMainScreenProps) {
   return (
-    <div className="xl:m-auto md:mx-10 mx-5 my-10 max-w-7xl ">
-      <div className="flex flex-col justify-center items-center w-full my-4 bg-search-background">
+    <div className="xl:m-auto md:mx-10 mx-5 max-w-7xl ">
+      <div className=" xl:m-auto my-5 max-w-7xl flex flex-row justify-center items-center">
+        <ArrowBackIosOutlined />
+        <div className="py-2 flex flex-row justify-start items-center overflow-scroll">
+          <Suspense fallback={<div>Loading...</div>}>
+            <ListOfCategories />
+          </Suspense>
+        </div>
+        <ArrowForwardIosOutlined />
+      </div>
+      <div className="flex flex-row justify-center items-center w-full my-4 bg-search-background">
         <div>
           <div className="flex flex-col  justify-center items-center w-full">
             <img
@@ -53,9 +67,9 @@ export default function MainScreen(props: IMainScreenProps) {
           </div>
           <div className="flex flex-col justify-center items-center w-full"></div>
         </div>
-        <div className="items-center justify-between mx-10 ">
-          <SearchComponent />
-        </div>
+      </div>
+      <div className="items-center justify-between mx-5 ">
+        <SearchComponent />
       </div>
       <Content />
     </div>
@@ -70,10 +84,14 @@ export default function MainScreen(props: IMainScreenProps) {
 function Content() {
   return (
     <div className="flex flex-col justify-center items-center w-full my-4">
-      <AccordionProvider headingText={ListOfCategoriesHeader}>
-        <div className="flex flex-wrap justify-center items-center w-full bg-accordion-background">
-          <Suspense fallback={<div>Loading...</div>}>
-            <ListOfCategories />
+      <AccordionProvider
+        headingText={ListOfProgrammingCheatsheets}
+        showBadge={true}
+        expanded={true}
+      >
+        <div className=" w-full bg-amber-100 rounded-md flex flex-col">
+          <Suspense fallback={<div>Loading..</div>}>
+            <ListOfLangCheatsheets />
           </Suspense>
         </div>
       </AccordionProvider>
@@ -81,7 +99,7 @@ function Content() {
         headingText={ListOfLatestCheatsheetsHeader}
         showBadge={true}
       >
-        <div className="grid grid-cols-2 xl:grid-cols-3 justify-center items-center w-full bg-accordion-background">
+        <div className="grid grid-cols-2 xl:grid-cols-3  rounded-md justify-center items-center w-full bg-accordion-background">
           <Suspense fallback={<div>Loading...</div>}>
             <ListOfLatestCheatsheets />
           </Suspense>

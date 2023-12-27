@@ -41,3 +41,15 @@ function removeMetaData(str: string) {
 export function fixMdFileString(str: string) {
   return removeCurlyBracesContent(removeMetaData(str));
 }
+
+/**
+ * Function to process the date from the name.
+ *
+ * @param name Name of the cheatsheet.
+ * @returns Processed date.
+ */
+export function processDateFromName(name: string) {
+  return (
+    name.match(/\d{4}-\d{2}-\d{2}/g) ? name.slice(11) : name
+  ).toUpperCase();
+}

@@ -81,7 +81,15 @@ export default function SearchComponent(props: ISearchComponentProps) {
       <Stack direction="row" sx={{ alignContent: "center" }}>
         <ListItem>
           <Autocomplete
-            sx={{ minWidth: 300, minHeight: 20 }}
+            sx={{
+              width: {
+                xs: 150,
+                sm: 300,
+                md: 450,
+                lg: 600,
+                xl: 700,
+              },
+            }}
             id="free-solo-demo"
             freeSolo
             options={searchTitleList}

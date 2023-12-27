@@ -7,6 +7,7 @@ module.exports = {
         "search-background": "url('/src/assets/image/SearchBackground.svg')",
         "accordion-background":
           "url('/src/assets/image/AccordionBackground.svg')",
+        "404-background": "url('/src/assets/image/404.svg')",
       },
     },
   },

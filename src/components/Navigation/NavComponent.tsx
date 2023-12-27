@@ -53,6 +53,7 @@ export default function NavComponent(props: INavComponentProps) {
             <NavLinkComponent to="/csofficialdoc" text="New cheatsheets" />
           </BadgeProvider>
           <NavLinkComponent to="/categories" text="Categories" />
+          <NavLinkComponent to="/all" text="All cheatsheets" />
         </div>
       </div>
       <NavigationButtonUnderHood showNav={showNav} />
@@ -72,6 +73,7 @@ function NavigationButtonUnderHood(props: { showNav: boolean }) {
       <div className="max-w-7xl min:md xl:m-auto md:mx-10 mx-3 flex flex-col text-sm md:text-base lg:hidden  ">
         <NavLinkComponent to="/csofficialdoc" text="New cheatsheets" />
         <NavLinkComponent to="/categories" text="Categories" />
+        <NavLinkComponent to="/all" text="All cheatsheets" />{" "}
       </div>
     </Collapse>
   );

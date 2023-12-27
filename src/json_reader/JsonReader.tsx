@@ -28,6 +28,15 @@ export async function fetchRecentFileData() {
 }
 
 /**
+ * Function to fetch the data from the recent.json file.
+ *
+ * @returns Data from the recent.json file.
+ */
+export async function fetchLangFileData() {
+  return await import(`../data/json/recent.json`).then((res) => res.default);
+}
+
+/**
  * Function to fetch the data from the overapi.json file.
  *
  * @returns Data from the overapi.json file.

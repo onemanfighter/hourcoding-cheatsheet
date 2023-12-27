@@ -19,10 +19,16 @@ export const ListOfCategoriesHeader = "Categories";
  * List of cheatsheets related.
  * path: src/screen/mainscreen/sub_component/ListOfCheatsheets.tsx
  */
-export const ListOfCheatsheetsHeader = "Cheatsheets";
+export const ListOfCheatsheetsHeader = "All Cheatsheets";
 
 /**
  * List of latest cheatsheets related.
  * path: src/screen/mainscreen/sub_component/ListOfLatestCheatsheets.tsx
  */
 export const ListOfLatestCheatsheetsHeader = "Recently updated cheatsheets";
+
+/**
+ * List of programming related cheatsheets.
+ */
+export const ListOfProgrammingCheatsheets =
+  "Programming language related cheatsheets";

@@ -6,7 +6,7 @@ import FooterComponent from "./components/Footer/FooterComponent";
 function App() {
   return (
     <div className="">
-      <div className="">
+      <div className=" sticky top-0 z-50">
         <NavComponent />
       </div>
       <div>

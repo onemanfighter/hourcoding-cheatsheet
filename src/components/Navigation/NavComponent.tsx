@@ -21,7 +21,7 @@ export default function NavComponent(props: INavComponentProps) {
   const [showNav, setShowNav] = useState(false);
   return (
     <>
-      <div className="max-w-7xl xl:m-auto lg:mx-10 m-3 flex justify-between items-center shadow-lg rounded-md px-5 py-3">
+      <div className="max-w-7xl xl:m-auto lg:mx-10 m-3 flex justify-between items-center shadow-lg rounded-md px-5 py-3 bg-white">
         <div className="flex flex-row items-start mx-3">
           <NavLink
             to="/"

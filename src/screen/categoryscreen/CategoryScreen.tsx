@@ -24,7 +24,7 @@ export default function CategoryScreen(props: ICategoryScreenProps) {
 
   return (
     <div className="">
-      <div className=" max-w-7xl min:md xl:mx-auto xl:my-4 md:mx-10 mx-3 md:p-5 p-2 lg:mt-10 md:md-5 flex items-start justify-start shadow-md my-6">
+      <div className=" max-w-8xl min:md xl:mx-auto xl:my-4 md:mx-10 mx-3 md:p-5 p-2 lg:mt-10 md:md-5 flex items-start justify-start shadow-md my-6">
         <BackButton />
         <div className=" text-lg md:text-xl lg:text-3xl mx-3 text-amber-950">
           <NavLink to="" className="flex-row">

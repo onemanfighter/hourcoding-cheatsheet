@@ -1148,7 +1148,23 @@
     "path": "data/doc_md/detail/2012-07-01-java",
     "metadata": {
       "layout": "default",
-      "title": "Java Cheat Sheet"
+      "title": "Java Cheat Sheet(v1)"
+    }
+  },
+  {
+    "name": "java-v2",
+    "path": "data/new/java-v2",
+    "metadata": {
+      "layout": "default",
+      "title": "Java Cheat Sheet(v2)"
+    }
+  },
+  {
+    "name": "mongodb",
+    "path": "data/new/mongodb",
+    "metadata": {
+      "layout": "default",
+      "title": "Mongodb Cheat Sheet"
     }
   },
   {

@@ -1169,6 +1169,19 @@
     }
   },
   {
+    "name": "golangv2",
+    "path": "data/new/golangv2",
+    "metadata": {
+      "title": "Go lang cheatsheet v2",
+      "layout": "2017/sheet",
+      "prism_languages": "[go, bash]",
+      "weight": "-3",
+      "tags": "[Featured]",
+      "category": "C-like",
+      "updated": "2020-06-21"
+    }
+  },
+  {
     "name": "c_preprocessor",
     "path": "data/md/c_like/c_preprocessor",
     "metadata": {
@@ -3258,6 +3271,23 @@
     }
   },
   {
+    "name": "typescript_v2",
+    "path": "data/new/typescript",
+    "metadata": {
+      "title": "TypeScript",
+      "category": "JavaScript libraries",
+      "layout": "2017/sheet",
+      "label": "string",
+      "name": "string;",
+      "x": "number",
+      "y": "number",
+      "greeting": "T",
+      "room": "{",
+      "door": "string;",
+      "walls": "string[];"
+    }
+  },
+  {
     "name": "fastify",
     "path": "data/md/js_libraries/fastify",
     "metadata": {
@@ -3855,6 +3885,22 @@
       "default": "",
       "message": "state.message",
       "onMessageClick": "(message) => {"
+    }
+  },
+  {
+    "name": "redis",
+    "path": "data/new/redis",
+    "metadata": {
+      "title": "Redis cheatsheet ",
+      "category": "React"
+    }
+  },
+  {
+    "name": "mongodb",
+    "path": "data/new/mongodb",
+    "metadata": {
+      "layout": "default",
+      "title": "Mongodb Cheat Sheet"
     }
   },
   {
@@ -5538,7 +5584,15 @@
     "path": "data/doc_md/detail/2012-07-01-java",
     "metadata": {
       "layout": "default",
-      "title": "Java Cheat Sheet"
+      "title": "Java Cheat Sheet v1"
+    }
+  },
+  {
+    "name": "java-v2",
+    "path": "data/new/java-v2",
+    "metadata": {
+      "layout": "default",
+      "title": "Java Cheat Sheet v2"
     }
   },
   {

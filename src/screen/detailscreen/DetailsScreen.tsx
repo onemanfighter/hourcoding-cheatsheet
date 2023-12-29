@@ -40,7 +40,7 @@ export default function DetailsScreen(props: IDetailsScreenProps) {
   });
 
   return (
-    <div className="max-w-7xl min:md xl:mx-auto xl:my-4 md:mx-10 p-5 lg:mt-10 ">
+    <div className="max-w-8xl min:md xl:mx-auto xl:my-4 md:mx-10 p-5 lg:mt-10 ">
       <div className="m-1 p-2 flex items-start">
         <BackButton />
         <div className="lg:text-3xl md:text-2xl sm:text-xl text-lg mx-3 text-amber-950">

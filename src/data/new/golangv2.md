@@ -1,6 +1,6 @@
 ---
 layout: default
-title: GoLang Cheat Sheet
+title: GoLang Cheat Sheet v2
 updated: 2023-12-27
 ---
 

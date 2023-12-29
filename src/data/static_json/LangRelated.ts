@@ -64,13 +64,18 @@ export const LangRelatedData: LangRelated[] = [
       },
       {
         name: "Go",
-        path: "2012-07-01-go",
+        path: "golangv2",
         icon: "https://cdn.worldvectorlogo.com/logos/gopher.svg",
       },
       {
         name: "typescript",
-        path: "2012-07-01-typescript",
+        path: "typescript_v2",
         icon: "https://cdn.worldvectorlogo.com/logos/typescript.svg",
+      },
+      {
+        name: "XML",
+        path: "2012-07-01-xml",
+        icon: "https://cdn.worldvectorlogo.com/logos/xml-2.svg",
       },
     ],
   },
@@ -79,17 +84,17 @@ export const LangRelatedData: LangRelated[] = [
     children: [
       {
         name: "Reddis",
-        path: "2012-07-01-redis",
+        path: "redis",
         icon: "https://cdn.worldvectorlogo.com/logos/redis.svg",
       },
       {
         name: "MongoDB",
-        path: "2012-07-01-mongodb",
+        path: "mongodb",
         icon: "https://cdn.worldvectorlogo.com/logos/mongodb-icon-2.svg",
       },
       {
         name: "MySQL",
-        path: "2012-07-01-mysql",
+        path: "mysql",
         icon: "https://cdn.worldvectorlogo.com/logos/mysql-6.svg",
       },
       {

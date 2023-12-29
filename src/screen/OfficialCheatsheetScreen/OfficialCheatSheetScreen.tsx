@@ -30,7 +30,7 @@ export default function OfficialDocCheatsheetScreen(
   return (
     <div className="">
       <Collapse in={showAlert}>
-        <div className=" max-w-7xl min:md xl:mx-auto xl:my-4 md:mx-10 mx-3 md:p-5 p-2 xl:mt-10 md:m-5 m-2 flex items-start justify-start shadow-md md:my-6 my-2">
+        <div className=" max-w-8xl min:md xl:mx-auto xl:my-4 md:mx-10 mx-3 md:p-5 p-2 xl:mt-10 md:m-5 m-2 flex items-start justify-start shadow-md md:my-6 my-2">
           <div className=" flex-row items-center rounded">
             <Alert
               severity="info"
@@ -58,7 +58,7 @@ export default function OfficialDocCheatsheetScreen(
           <></>
         )}
       </div>
-      <div className="max-w-7xl min:md md:mx-10 mx-3 xl:m-auto h-screen flex-row flex justify-start">
+      <div className="max-w-8xl min:md md:mx-10 mx-3 xl:m-auto h-screen flex-row flex justify-start">
         <div className=" shadow-xl my-2 py-4 xl:w-[30%] md:w-[300px] sm:w-[250px] w-[200px] flex flex-col justify-between overflow-scroll ">
           {category.map((item: any) => {
             const name: string = item["name"];

@@ -38,7 +38,10 @@ export interface IMainScreenProps {}
 export default function MainScreen(props: IMainScreenProps) {
   return (
     <div className="xl:m-auto md:mx-10 mx-5 max-w-7xl ">
-      <div className=" xl:m-auto my-5 max-w-7xl flex flex-row justify-center items-center">
+      <div className=" xl:m-auto my-5 max-w-8xl flex flex-row justify-center items-center">
+        <div className="text-lg p-2 outline mx-1 outline-cyan-600 drop-shadow-lg rounded-md">
+          Categories
+        </div>
         <ArrowBackIosOutlined />
         <div className="py-2 flex flex-row justify-start items-center overflow-scroll">
           <Suspense fallback={<div>Loading...</div>}>

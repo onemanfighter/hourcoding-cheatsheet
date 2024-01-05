@@ -13,8 +13,18 @@
     "metadata": {
       "title": "Jest JS testing cheatsheet",
       "updated": "2024-01-05",
-      "category": "Databases",
+      "category": "Javascript testing",
       "image": "https://cdn.worldvectorlogo.com/logos/jest-2.svg"
+    }
+  },
+  {
+    "name": "Snowflake",
+    "path": "data/new/snowflake",
+    "metadata": {
+      "title": "Snowflake cheatsheet",
+      "updated": "2024-01-05",
+      "category": "Databases",
+      "image": "https://signup.snowflake.com/static/images/logo-sno-blue.svg"
     }
   },
   {

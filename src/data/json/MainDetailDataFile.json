@@ -259,7 +259,17 @@
     "metadata": {
       "title": "Jest JS testing cheatsheet",
       "updated": "2024-01-05",
-      "category": "Databases"
+      "category": "JavaScript testing"
+    }
+  },
+  {
+    "name": "Snowflake",
+    "path": "data/new/snowflake",
+    "metadata": {
+      "title": "Snowflake cheatsheet",
+      "updated": "2024-01-05",
+      "category": "Databases",
+      "image": "https://signup.snowflake.com/static/images/logo-sno-blue.svg"
     }
   },
   {

@@ -114,6 +114,11 @@
       "type": "folder",
       "children": [
         {
+          "name": "jestv2",
+          "title": "Jest JS testing cheatsheet",
+          "image": "https://cdn.worldvectorlogo.com/logos/jest-2.svg"
+        },
+        {
           "name": "knex",
           "title": "Knex",
           "image": "https://cdn.worldvectorlogo.com/logos/knex-1.svg"

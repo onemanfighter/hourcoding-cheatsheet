@@ -20,6 +20,16 @@ export interface LangRelated {
  */
 export const LangRelatedData: LangRelated[] = [
   {
+    name: "New additions",
+    children: [
+      {
+        name: "jestv2",
+        path: "jestv2",
+        icon: "https://cdn.worldvectorlogo.com/logos/jest-2.svg",
+      },
+    ],
+  },
+  {
     name: "languages",
     children: [
       {

@@ -12,8 +12,6 @@ updated: 2024-01-05
 
 </div>
 
-- <a href="../../assets/files/jest_cheat_sheet.pdf" download>Download compact dev cheatsheet</a>
-
 - [Test structure](#test-structure)
 - [Matchers](#matchers)
   - [Basic matchers](#basic-matchers)

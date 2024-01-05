@@ -2937,6 +2937,15 @@
     }
   },
   {
+    "name": "jestv2",
+    "path": "data/new/jestv2",
+    "metadata": {
+      "title": "Jest JS testing cheatsheet",
+      "updated": "2024-01-05",
+      "category": "Databases"
+    }
+  },
+  {
     "name": "middleman",
     "path": "data/md/js_libraries/middleman",
     "metadata": {

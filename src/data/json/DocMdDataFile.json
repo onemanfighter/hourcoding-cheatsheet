@@ -8,6 +8,16 @@
     }
   },
   {
+    "name": "jestv2",
+    "path": "data/new/jestv2",
+    "metadata": {
+      "title": "Jest JS testing cheatsheet",
+      "updated": "2024-01-05",
+      "category": "Databases",
+      "image": "https://cdn.worldvectorlogo.com/logos/jest-2.svg"
+    }
+  },
+  {
     "name": "2012-07-01-r",
     "path": "data/doc_md/r/2012-07-01-r",
     "metadata": {
